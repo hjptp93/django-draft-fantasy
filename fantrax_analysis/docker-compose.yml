@@ -1,0 +1,62 @@
+version: "3.9"
+
+services:
+  db:
+    image: postgres
+    environment:
+      - POSTGRES_DB=fantrax_django
+      - POSTGRES_USER=johnhughes
+      - POSTGRES_PASSWORD=postgres
+  web:
+    build: .
+    image: fantraxapp
+    command: python manage.py runserver 0.0.0.0:8000
+    volumes:
+      - .:/app
+    ports:
+      - "8000:8000"
+    depends_on:
+      - db
+      - mgmt_command_1
+      - migration_1
+      - migration_2
+      - mgmt_command_2
+      - mgmt_command_3
+  mgmt_command_1:
+    image: fantraxapp
+    command: python manage.py populate_player_names -f player_names.csv
+    volumes:
+      - .:/app
+    depends_on:
+      - db
+  mgmt_command_2:
+    image: fantraxapp
+    command: python manage.py populate_player_scores -f combined_minute_data_2019_20.csv
+    volumes:
+      - .:/app
+    depends_on:
+      - db
+  mgmt_command_3:
+    image: fantraxapp
+    command: python manage.py populate_season_fixtures -f fixtures_2019_20.csv
+    volumes:
+      - .:/app
+    depends_on:
+      - db
+  migration_1:
+    image: fantraxapp
+    command: python manage.py makemigrations
+    volumes:
+      - .:/app
+    depends_on:
+      - db
+      - mgmt_command_1
+  migration_2:
+    image: fantraxapp
+    command: python manage.py migrate
+    volumes:
+      - .:/app
+    depends_on:
+      - db
+      - mgmt_command_1
+      - migration_1

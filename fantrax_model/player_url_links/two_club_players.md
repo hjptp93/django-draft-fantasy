@@ -44,3 +44,15 @@
 13. Jan Bednarek : AVL -> SOU
 14. Danny Ings : AVL -> WHU
 15. Craig Dawson : WHU -> WOL
+
+## 2023-24
+1. Cameron Archer : AVL -> SHU
+2. Brennan Johnson : NOT -> TOT
+3. Cole Palmer : MCI -> CHE
+4. Armando Broja : CHE -> FUL
+5. Sergio Reguilon : MUN -> BRF
+6. Neal Maupay : EVE -> BRF
+7. Alex Iwobi : EVE -> FUL
+8. Matheus Nunes : WOL -> MCI
+9. James McAtee : MCI -> SHU
+10. Kalvin Phillips : MCI -> WHU

@@ -1,7 +1,7 @@
 import pandas as pd
 
-clubs = ['ars', 'avl', 'bha', 'bou', 'bur', 'che', 'cry', 'eve', 'lei', 'liv', 'mci', 'mun', 'new', 'nor',
-         'shu', 'sou', 'tot', 'wat', 'whu', 'wol']
+clubs = ['ars', 'avl', 'bha', 'bou', 'bur', 'che', 'cry', 'eve', 'lei', 'liv',
+         'mci', 'mun', 'new', 'nor', 'shu', 'sou', 'tot', 'wat', 'whu', 'wol']
 
 pre_conditions = pd.read_csv('initial_conditions_last_year.csv')
 

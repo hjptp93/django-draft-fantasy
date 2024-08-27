@@ -1,393 +1,577 @@
 ,player,position,position_id,date,team,opp,score,fpts,min,starts
-0,Bernd Leno,G,1,Mar 6,FUL,@BRF,L 2-3,6.5,90,1
-1,Bernd Leno,G,1,Feb 24,FUL,WOL,T 1-1,5.0,90,1
-2,Bernd Leno,G,1,Feb 18,FUL,@BHA,W 1-0,23.0,90,1
-3,Bernd Leno,G,1,Feb 11,FUL,NOT,W 2-0,15.5,90,1
-4,Bernd Leno,G,1,Feb 3,FUL,@CHE,T 0-0,15.0,90,1
-5,Bernd Leno,G,1,Jan 23,FUL,TOT,L 0-1,6.0,90,1
-6,Bernd Leno,G,1,Jan 15,FUL,@NEW,L 0-1,10.0,90,1
-7,Bernd Leno,G,1,Jan 12,FUL,CHE,W 2-1,14.5,90,1
-8,Bernd Leno,G,1,Jan 3,FUL,@LEI,W 1-0,19.5,90,1
-9,Bernd Leno,G,1,Dec 31,FUL,SOU,W 2-1,7.0,90,1
-10,Bernd Leno,G,1,Dec 26,FUL,@CRY,W 3-0,12.0,90,1
-11,Bernd Leno,G,1,Nov 13,FUL,MUN,L 1-2,15.0,90,1
-12,Bernd Leno,G,1,Nov 5,FUL,@MCI,L 1-2,10.0,90,1
-13,Bernd Leno,G,1,Oct 29,FUL,EVE,T 0-0,18.0,90,1
-14,Bernd Leno,G,1,Oct 23,FUL,@LEE,W 3-2,7.0,90,1
-15,Bernd Leno,G,1,Oct 20,FUL,AVL,W 3-0,24.0,90,1
-16,Bernd Leno,G,1,Oct 15,FUL,BOU,T 2-2,9.5,90,1
-17,Bernd Leno,G,1,Oct 9,FUL,@WHU,L 1-3,10.5,90,1
-18,Bernd Leno,G,1,Oct 1,FUL,NEW,L 1-4,10.5,90,1
-19,Bernd Leno,G,1,Sep 16,FUL,@NOT,W 3-2,4.0,90,1
-20,Bernd Leno,G,1,Sep 3,FUL,@TOT,L 1-2,14.5,90,1
-21,Bernd Leno,G,1,Aug 30,FUL,BHA,W 2-1,8.5,90,1
-22,Bernd Leno,G,1,Aug 27,FUL,@ARS,L 1-2,13.0,90,1
-23,Bernd Leno,G,1,Aug 20,FUL,BRF,W 3-2,8.5,90,1
-0,Marek Rodak,G,1,Aug 13,FUL,@WOL,T 0-0,14.5,90,1
-1,Marek Rodak,G,1,Aug 6,FUL,LIV,T 2-2,5.0,90,1
-0,Kenny Tete,D,2,Mar 6,FUL,@BRF,L 2-3,10.4,82,1
-1,Kenny Tete,D,2,Feb 24,FUL,WOL,T 1-1,6.95,90,1
-2,Kenny Tete,D,2,Feb 18,FUL,@BHA,W 1-0,17.35,90,1
-3,Kenny Tete,D,2,Feb 11,FUL,NOT,W 2-0,18.7,88,1
-4,Kenny Tete,D,2,Feb 3,FUL,@CHE,T 0-0,19.05,90,1
-5,Kenny Tete,D,2,Jan 23,FUL,TOT,L 0-1,8.3,79,1
-6,Kenny Tete,D,2,Jan 15,FUL,@NEW,L 0-1,9.7,90,1
-7,Kenny Tete,D,2,Jan 12,FUL,CHE,W 2-1,10.9,90,1
-8,Kenny Tete,D,2,Jan 3,FUL,@LEI,W 1-0,18.75,90,1
-9,Kenny Tete,D,2,Dec 31,FUL,SOU,W 2-1,14.95,90,1
-10,Kenny Tete,D,2,Dec 26,FUL,@CRY,W 3-0,19.85,90,1
-11,Kenny Tete,D,2,Nov 5,FUL,@MCI,L 1-2,8.05,90,1
-12,Kenny Tete,D,2,Oct 29,FUL,EVE,T 0-0,3.5,13,0
-13,Kenny Tete,D,2,Sep 16,FUL,@NOT,W 3-2,12.35,90,1
-14,Kenny Tete,D,2,Sep 3,FUL,@TOT,L 1-2,14.85,90,1
-15,Kenny Tete,D,2,Aug 30,FUL,BHA,W 2-1,7.0,90,1
-16,Kenny Tete,D,2,Aug 27,FUL,@ARS,L 1-2,8.3,78,1
-17,Kenny Tete,D,2,Aug 20,FUL,BRF,W 3-2,4.55,76,1
-18,Kenny Tete,D,2,Aug 13,FUL,@WOL,T 0-0,13.6,88,1
-19,Kenny Tete,D,2,Aug 6,FUL,LIV,T 2-2,16.75,90,1
-0,Cedric Soares,D,2,Mar 6,FUL,@BRF,L 2-3,2.85,6,0
-1,Cedric Soares,D,2,Feb 11,FUL,NOT,W 2-0,0.75,1,0
-2,Cedric Soares,D,2,Nov 12,ARS,@WOL,W 2-0,0.5,1,0
-3,Cedric Soares,D,2,Oct 30,ARS,NOT,W 5-0,1.1,26,0
-0,Kevin Mbabu,D,2,Nov 5,FUL,@MCI,L 1-2,1.0,9,0
-1,Kevin Mbabu,D,2,Oct 1,FUL,NEW,L 1-4,2.6,45,1
-2,Kevin Mbabu,D,2,Sep 3,FUL,@TOT,L 1-2,7.0,60,0
-3,Kevin Mbabu,D,2,Aug 27,FUL,@ARS,L 1-2,2.1,10,0
-4,Kevin Mbabu,D,2,Aug 20,FUL,BRF,W 3-2,10.5,12,0
-5,Kevin Mbabu,D,2,Aug 13,FUL,@WOL,T 0-0,0.5,1,0
-0,Tosin Adarabioyo,D,2,Jan 15,FUL,@NEW,L 0-1,1.0,12,0
-1,Tosin Adarabioyo,D,2,Jan 12,FUL,CHE,W 2-1,5.45,90,1
-2,Tosin Adarabioyo,D,2,Jan 3,FUL,@LEI,W 1-0,17.8,90,1
-3,Tosin Adarabioyo,D,2,Dec 31,FUL,SOU,W 2-1,0.5,1,0
-4,Tosin Adarabioyo,D,2,Oct 23,FUL,@LEE,W 3-2,8.65,90,1
-5,Tosin Adarabioyo,D,2,Oct 9,FUL,@WHU,L 1-3,6.8,90,1
-6,Tosin Adarabioyo,D,2,Oct 1,FUL,NEW,L 1-4,3.4,90,1
-7,Tosin Adarabioyo,D,2,Sep 16,FUL,@NOT,W 3-2,13.85,90,1
-8,Tosin Adarabioyo,D,2,Sep 3,FUL,@TOT,L 1-2,7.35,90,1
-9,Tosin Adarabioyo,D,2,Aug 30,FUL,BHA,W 2-1,7.05,90,1
-10,Tosin Adarabioyo,D,2,Aug 27,FUL,@ARS,L 1-2,9.55,90,1
-11,Tosin Adarabioyo,D,2,Aug 20,FUL,BRF,W 3-2,8.15,90,1
-12,Tosin Adarabioyo,D,2,Aug 13,FUL,@WOL,T 0-0,12.55,90,1
-13,Tosin Adarabioyo,D,2,Aug 6,FUL,LIV,T 2-2,5.95,90,1
-0,Tim Ream,D,2,Mar 6,FUL,@BRF,L 2-3,5.95,90,1
-1,Tim Ream,D,2,Feb 24,FUL,WOL,T 1-1,10.2,90,1
-2,Tim Ream,D,2,Feb 18,FUL,@BHA,W 1-0,15.8,90,1
-3,Tim Ream,D,2,Feb 11,FUL,NOT,W 2-0,20.65,90,1
-4,Tim Ream,D,2,Feb 3,FUL,@CHE,T 0-0,18.55,90,1
-5,Tim Ream,D,2,Jan 23,FUL,TOT,L 0-1,6.3,90,1
-6,Tim Ream,D,2,Jan 15,FUL,@NEW,L 0-1,5.55,90,1
-7,Tim Ream,D,2,Jan 12,FUL,CHE,W 2-1,8.3,90,1
-8,Tim Ream,D,2,Jan 3,FUL,@LEI,W 1-0,15.8,90,1
-9,Tim Ream,D,2,Dec 31,FUL,SOU,W 2-1,7.3,90,1
-10,Tim Ream,D,2,Dec 26,FUL,@CRY,W 3-0,26.75,90,1
-11,Tim Ream,D,2,Nov 13,FUL,MUN,L 1-2,8.65,90,1
-12,Tim Ream,D,2,Nov 5,FUL,@MCI,L 1-2,5.95,90,1
-13,Tim Ream,D,2,Oct 29,FUL,EVE,T 0-0,13.6,90,1
-14,Tim Ream,D,2,Oct 23,FUL,@LEE,W 3-2,6.5,90,1
-15,Tim Ream,D,2,Oct 20,FUL,AVL,W 3-0,15.35,90,1
-16,Tim Ream,D,2,Oct 15,FUL,BOU,T 2-2,5.7,90,1
-17,Tim Ream,D,2,Oct 9,FUL,@WHU,L 1-3,6.6,90,1
-18,Tim Ream,D,2,Oct 1,FUL,NEW,L 1-4,4.0,90,1
-19,Tim Ream,D,2,Sep 16,FUL,@NOT,W 3-2,5.45,90,1
-20,Tim Ream,D,2,Sep 3,FUL,@TOT,L 1-2,8.95,90,1
-21,Tim Ream,D,2,Aug 30,FUL,BHA,W 2-1,8.05,90,1
-22,Tim Ream,D,2,Aug 27,FUL,@ARS,L 1-2,13.2,87,1
-23,Tim Ream,D,2,Aug 20,FUL,BRF,W 3-2,6.4,90,1
-24,Tim Ream,D,2,Aug 13,FUL,@WOL,T 0-0,17.4,90,1
-25,Tim Ream,D,2,Aug 6,FUL,LIV,T 2-2,8.0,90,1
-0,Issa Diop,D,2,Mar 6,FUL,@BRF,L 2-3,5.75,90,1
-1,Issa Diop,D,2,Feb 24,FUL,WOL,T 1-1,10.1,90,1
-2,Issa Diop,D,2,Feb 18,FUL,@BHA,W 1-0,16.25,90,1
-3,Issa Diop,D,2,Feb 11,FUL,NOT,W 2-0,16.55,90,1
-4,Issa Diop,D,2,Feb 3,FUL,@CHE,T 0-0,16.2,90,1
-5,Issa Diop,D,2,Jan 23,FUL,TOT,L 0-1,9.35,90,1
-6,Issa Diop,D,2,Jan 15,FUL,@NEW,L 0-1,11.05,88,1
-7,Issa Diop,D,2,Jan 3,FUL,@LEI,W 1-0,1.1,7,0
-8,Issa Diop,D,2,Dec 31,FUL,SOU,W 2-1,8.5,90,1
-9,Issa Diop,D,2,Dec 26,FUL,@CRY,W 3-0,21.5,90,1
-10,Issa Diop,D,2,Nov 13,FUL,MUN,L 1-2,8.45,90,1
-11,Issa Diop,D,2,Nov 5,FUL,@MCI,L 1-2,8.35,90,1
-12,Issa Diop,D,2,Oct 29,FUL,EVE,T 0-0,15.35,90,1
-13,Issa Diop,D,2,Oct 20,FUL,AVL,W 3-0,12.8,90,1
-14,Issa Diop,D,2,Oct 15,FUL,BOU,T 2-2,15.6,90,1
-15,Issa Diop,D,2,Oct 1,FUL,NEW,L 1-4,4.1,45,0
-16,Issa Diop,D,2,Sep 16,FUL,@NOT,W 3-2,3.05,90,1
-17,Issa Diop,D,2,Aug 27,FUL,@ARS,L 1-2,2.35,10,0
-0,Shane Duffy,D,2,Oct 23,FUL,@LEE,W 3-2,0.5,1,0
-1,Shane Duffy,D,2,Oct 9,FUL,@WHU,L 1-3,0.75,1,0
-2,Shane Duffy,D,2,Aug 20,FUL,BRF,W 3-2,0.75,1,0
-3,Shane Duffy,D,2,Aug 6,FUL,LIV,T 2-2,0.5,1,0
-0,Layvin Kurzawa,D,2,Feb 3,FUL,@CHE,T 0-0,0.5,1,0
-1,Layvin Kurzawa,D,2,Jan 15,FUL,@NEW,L 0-1,6.6,90,1
-2,Layvin Kurzawa,D,2,Oct 1,FUL,NEW,L 1-4,3.1,45,1
-0,Antonee Robinson,D,2,Mar 6,FUL,@BRF,L 2-3,13.6,90,1
-1,Antonee Robinson,D,2,Feb 24,FUL,WOL,T 1-1,15.35,90,1
-2,Antonee Robinson,D,2,Feb 18,FUL,@BHA,W 1-0,16.3,90,1
-3,Antonee Robinson,D,2,Feb 11,FUL,NOT,W 2-0,24.85,90,1
-4,Antonee Robinson,D,2,Feb 3,FUL,@CHE,T 0-0,18.7,90,1
-5,Antonee Robinson,D,2,Jan 23,FUL,TOT,L 0-1,15.45,90,1
-6,Antonee Robinson,D,2,Jan 12,FUL,CHE,W 2-1,9.1,90,1
-7,Antonee Robinson,D,2,Jan 3,FUL,@LEI,W 1-0,18.1,90,1
-8,Antonee Robinson,D,2,Dec 31,FUL,SOU,W 2-1,7.1,90,1
-9,Antonee Robinson,D,2,Dec 26,FUL,@CRY,W 3-0,16.0,90,1
-10,Antonee Robinson,D,2,Nov 13,FUL,MUN,L 1-2,7.35,90,1
-11,Antonee Robinson,D,2,Nov 5,FUL,@MCI,L 1-2,2.55,90,1
-12,Antonee Robinson,D,2,Oct 29,FUL,EVE,T 0-0,17.0,90,1
-13,Antonee Robinson,D,2,Oct 23,FUL,@LEE,W 3-2,9.6,90,1
-14,Antonee Robinson,D,2,Oct 20,FUL,AVL,W 3-0,14.35,90,1
-15,Antonee Robinson,D,2,Oct 15,FUL,BOU,T 2-2,8.1,90,1
-16,Antonee Robinson,D,2,Oct 9,FUL,@WHU,L 1-3,8.2,90,1
-17,Antonee Robinson,D,2,Sep 3,FUL,@TOT,L 1-2,1.6,28,1
-18,Antonee Robinson,D,2,Aug 30,FUL,BHA,W 2-1,6.2,90,1
-19,Antonee Robinson,D,2,Aug 27,FUL,@ARS,L 1-2,13.0,90,1
-20,Antonee Robinson,D,2,Aug 20,FUL,BRF,W 3-2,8.3,90,1
-21,Antonee Robinson,D,2,Aug 13,FUL,@WOL,T 0-0,16.05,90,1
-22,Antonee Robinson,D,2,Aug 6,FUL,LIV,T 2-2,8.5,90,1
-0,Harrison Reed,M,4,Mar 6,FUL,@BRF,L 2-3,9.75,90,1
-1,Harrison Reed,M,4,Feb 24,FUL,WOL,T 1-1,5.75,45,1
-2,Harrison Reed,M,4,Feb 18,FUL,@BHA,W 1-0,5.25,90,1
-3,Harrison Reed,M,4,Feb 11,FUL,NOT,W 2-0,9.35,90,1
-4,Harrison Reed,M,4,Feb 3,FUL,@CHE,T 0-0,6.7,88,1
-5,Harrison Reed,M,4,Jan 23,FUL,TOT,L 0-1,4.75,64,1
-6,Harrison Reed,M,4,Jan 15,FUL,@NEW,L 0-1,6.7,88,1
-7,Harrison Reed,M,4,Jan 12,FUL,CHE,W 2-1,5.5,67,1
-8,Harrison Reed,M,4,Jan 3,FUL,@LEI,W 1-0,7.1,90,1
-9,Harrison Reed,M,4,Dec 31,FUL,SOU,W 2-1,3.85,61,1
-10,Harrison Reed,M,4,Dec 26,FUL,@CRY,W 3-0,7.75,90,1
-11,Harrison Reed,M,4,Nov 5,FUL,@MCI,L 1-2,4.7,90,1
-12,Harrison Reed,M,4,Oct 29,FUL,EVE,T 0-0,7.35,90,1
-13,Harrison Reed,M,4,Oct 23,FUL,@LEE,W 3-2,21.85,88,1
-14,Harrison Reed,M,4,Oct 20,FUL,AVL,W 3-0,14.85,72,1
-15,Harrison Reed,M,4,Oct 15,FUL,BOU,T 2-2,8.2,45,1
-16,Harrison Reed,M,4,Oct 9,FUL,@WHU,L 1-3,4.05,70,1
-17,Harrison Reed,M,4,Oct 1,FUL,NEW,L 1-4,10.75,90,1
-18,Harrison Reed,M,4,Sep 16,FUL,@NOT,W 3-2,17.7,90,1
-19,Harrison Reed,M,4,Sep 3,FUL,@TOT,L 1-2,7.25,90,1
-20,Harrison Reed,M,4,Aug 30,FUL,BHA,W 2-1,1.5,88,1
-21,Harrison Reed,M,4,Aug 27,FUL,@ARS,L 1-2,6.95,90,1
-22,Harrison Reed,M,4,Aug 20,FUL,BRF,W 3-2,7.6,90,1
-23,Harrison Reed,M,4,Aug 13,FUL,@WOL,T 0-0,10.0,90,1
-24,Harrison Reed,M,4,Aug 6,FUL,LIV,T 2-2,11.3,90,1
-0,Tyrese Francois,M,4,Aug 13,FUL,@WOL,T 0-0,0.85,1,0
-0,Nathaniel Chalobah,M,4,Jan 12,FUL,CHE,W 2-1,0.5,1,0
-1,Nathaniel Chalobah,M,4,Oct 1,FUL,NEW,L 1-4,-2.9,7,1
-2,Nathaniel Chalobah,M,4,Aug 30,FUL,BHA,W 2-1,0.6,1,0
-3,Nathaniel Chalobah,M,4,Aug 27,FUL,@ARS,L 1-2,1.5,1,0
-0,Luke Harris,M,4,Dec 26,FUL,@CRY,W 3-0,0.75,4,0
-1,Luke Harris,M,4,Nov 5,FUL,@MCI,L 1-2,0.5,1,0
-2,Luke Harris,M,4,Oct 20,FUL,AVL,W 3-0,1.0,2,0
-0,Sasa Lukic,M,4,Mar 6,FUL,@BRF,L 2-3,1.85,74,1
-1,Sasa Lukic,M,4,Feb 24,FUL,WOL,T 1-1,7.0,45,0
-2,Sasa Lukic,M,4,Feb 11,FUL,NOT,W 2-0,0.5,1,0
-0,Josh Onomah,M,4,Nov 13,FUL,MUN,L 1-2,0.5,1,0
-1,Josh Onomah,M,4,Oct 9,FUL,@WHU,L 1-3,1.25,12,0
-0,Joao Palhinha,M,4,Feb 24,FUL,WOL,T 1-1,7.85,90,1
-1,Joao Palhinha,M,4,Feb 18,FUL,@BHA,W 1-0,7.15,90,1
-2,Joao Palhinha,M,4,Feb 11,FUL,NOT,W 2-0,11.8,90,1
-3,Joao Palhinha,M,4,Feb 3,FUL,@CHE,T 0-0,16.2,90,1
-4,Joao Palhinha,M,4,Jan 23,FUL,TOT,L 0-1,8.35,90,1
-5,Joao Palhinha,M,4,Jan 15,FUL,@NEW,L 0-1,12.15,90,1
-6,Joao Palhinha,M,4,Jan 12,FUL,CHE,W 2-1,8.55,90,1
-7,Joao Palhinha,M,4,Jan 3,FUL,@LEI,W 1-0,8.8,90,1
-8,Joao Palhinha,M,4,Dec 31,FUL,SOU,W 2-1,24.65,90,1
-9,Joao Palhinha,M,4,Dec 26,FUL,@CRY,W 3-0,7.85,74,1
-10,Joao Palhinha,M,4,Nov 13,FUL,MUN,L 1-2,12.6,90,1
-11,Joao Palhinha,M,4,Nov 5,FUL,@MCI,L 1-2,7.95,90,1
-12,Joao Palhinha,M,4,Oct 29,FUL,EVE,T 0-0,10.7,90,1
-13,Joao Palhinha,M,4,Oct 23,FUL,@LEE,W 3-2,9.95,90,1
-14,Joao Palhinha,M,4,Oct 20,FUL,AVL,W 3-0,8.6,90,1
-15,Joao Palhinha,M,4,Oct 15,FUL,BOU,T 2-2,10.25,90,1
-16,Joao Palhinha,M,4,Oct 9,FUL,@WHU,L 1-3,3.6,90,1
-17,Joao Palhinha,M,4,Sep 16,FUL,@NOT,W 3-2,18.0,90,1
-18,Joao Palhinha,M,4,Sep 3,FUL,@TOT,L 1-2,8.1,84,1
-19,Joao Palhinha,M,4,Aug 30,FUL,BHA,W 2-1,11.2,90,1
-20,Joao Palhinha,M,4,Aug 27,FUL,@ARS,L 1-2,7.05,87,1
-21,Joao Palhinha,M,4,Aug 20,FUL,BRF,W 3-2,16.8,90,1
-22,Joao Palhinha,M,4,Aug 13,FUL,@WOL,T 0-0,5.7,90,1
-23,Joao Palhinha,M,4,Aug 6,FUL,LIV,T 2-2,9.6,90,1
-0,Neeskens Kebano,M,4,Oct 29,FUL,EVE,T 0-0,8.6,66,1
-1,Neeskens Kebano,M,4,Oct 23,FUL,@LEE,W 3-2,2.75,26,0
-2,Neeskens Kebano,M,4,Oct 20,FUL,AVL,W 3-0,9.75,84,1
-3,Neeskens Kebano,M,4,Oct 15,FUL,BOU,T 2-2,5.0,61,1
-4,Neeskens Kebano,M,4,Oct 9,FUL,@WHU,L 1-3,13.85,88,1
-5,Neeskens Kebano,M,4,Oct 1,FUL,NEW,L 1-4,11.25,19,0
-6,Neeskens Kebano,M,4,Sep 16,FUL,@NOT,W 3-2,1.75,1,0
-7,Neeskens Kebano,M,4,Sep 3,FUL,@TOT,L 1-2,3.6,59,1
-8,Neeskens Kebano,M,4,Aug 30,FUL,BHA,W 2-1,16.25,90,1
-9,Neeskens Kebano,M,4,Aug 27,FUL,@ARS,L 1-2,6.0,68,1
-10,Neeskens Kebano,M,4,Aug 13,FUL,@WOL,T 0-0,8.35,82,1
-11,Neeskens Kebano,M,4,Aug 6,FUL,LIV,T 2-2,5.5,65,1
-0,Tom Cairney,M,4,Feb 3,FUL,@CHE,T 0-0,1.25,1,0
-1,Tom Cairney,M,4,Jan 23,FUL,TOT,L 0-1,4.5,24,0
-2,Tom Cairney,M,4,Jan 15,FUL,@NEW,L 0-1,0.5,1,0
-3,Tom Cairney,M,4,Jan 12,FUL,CHE,W 2-1,2.0,21,0
-4,Tom Cairney,M,4,Jan 3,FUL,@LEI,W 1-0,0.25,30,0
-5,Tom Cairney,M,4,Dec 31,FUL,SOU,W 2-1,3.6,27,0
-6,Tom Cairney,M,4,Dec 26,FUL,@CRY,W 3-0,2.6,14,0
-7,Tom Cairney,M,4,Nov 13,FUL,MUN,L 1-2,13.25,88,1
-8,Tom Cairney,M,4,Nov 5,FUL,@MCI,L 1-2,3.25,13,0
-9,Tom Cairney,M,4,Oct 29,FUL,EVE,T 0-0,3.25,13,0
-10,Tom Cairney,M,4,Oct 23,FUL,@LEE,W 3-2,0.5,1,0
-11,Tom Cairney,M,4,Oct 20,FUL,AVL,W 3-0,1.0,16,0
-12,Tom Cairney,M,4,Oct 15,FUL,BOU,T 2-2,5.75,45,0
-13,Tom Cairney,M,4,Oct 9,FUL,@WHU,L 1-3,1.5,18,0
-14,Tom Cairney,M,4,Oct 1,FUL,NEW,L 1-4,6.25,45,0
-15,Tom Cairney,M,4,Sep 16,FUL,@NOT,W 3-2,1.0,6,0
-16,Tom Cairney,M,4,Sep 3,FUL,@TOT,L 1-2,2.75,28,0
-17,Tom Cairney,M,4,Aug 30,FUL,BHA,W 2-1,1.5,11,0
-18,Tom Cairney,M,4,Aug 27,FUL,@ARS,L 1-2,1.5,20,0
-19,Tom Cairney,M,4,Aug 20,FUL,BRF,W 3-2,2.75,12,0
-20,Tom Cairney,M,4,Aug 13,FUL,@WOL,T 0-0,2.5,3,0
-21,Tom Cairney,M,4,Aug 6,FUL,LIV,T 2-2,0.5,1,0
-0,Andreas Pereira,M,4,Mar 6,FUL,@BRF,L 2-3,18.1,90,1
-1,Andreas Pereira,M,4,Feb 24,FUL,WOL,T 1-1,3.0,90,1
-2,Andreas Pereira,M,4,Feb 18,FUL,@BHA,W 1-0,5.5,81,1
-3,Andreas Pereira,M,4,Feb 11,FUL,NOT,W 2-0,17.0,88,1
-4,Andreas Pereira,M,4,Feb 3,FUL,@CHE,T 0-0,3.75,88,1
-5,Andreas Pereira,M,4,Jan 23,FUL,TOT,L 0-1,11.5,90,1
-6,Andreas Pereira,M,4,Jan 15,FUL,@NEW,L 0-1,6.75,76,1
-7,Andreas Pereira,M,4,Jan 12,FUL,CHE,W 2-1,10.6,88,1
-8,Andreas Pereira,M,4,Jan 3,FUL,@LEI,W 1-0,6.0,58,1
-9,Andreas Pereira,M,4,Dec 31,FUL,SOU,W 2-1,6.35,88,1
-10,Andreas Pereira,M,4,Dec 26,FUL,@CRY,W 3-0,16.5,84,1
-11,Andreas Pereira,M,4,Nov 13,FUL,MUN,L 1-2,7.75,90,1
-12,Andreas Pereira,M,4,Nov 5,FUL,@MCI,L 1-2,11.75,87,1
-13,Andreas Pereira,M,4,Oct 29,FUL,EVE,T 0-0,12.75,75,1
-14,Andreas Pereira,M,4,Oct 23,FUL,@LEE,W 3-2,25.75,90,1
-15,Andreas Pereira,M,4,Oct 20,FUL,AVL,W 3-0,11.6,86,1
-16,Andreas Pereira,M,4,Oct 15,FUL,BOU,T 2-2,13.75,86,1
-17,Andreas Pereira,M,4,Oct 9,FUL,@WHU,L 1-3,13.0,76,1
-18,Andreas Pereira,M,4,Oct 1,FUL,NEW,L 1-4,5.5,90,1
-19,Andreas Pereira,M,4,Sep 16,FUL,@NOT,W 3-2,8.0,82,1
-20,Andreas Pereira,M,4,Sep 3,FUL,@TOT,L 1-2,3.25,60,1
-21,Andreas Pereira,M,4,Aug 30,FUL,BHA,W 2-1,11.75,77,1
-22,Andreas Pereira,M,4,Aug 27,FUL,@ARS,L 1-2,7.0,78,1
-23,Andreas Pereira,M,4,Aug 20,FUL,BRF,W 3-2,21.75,90,1
-24,Andreas Pereira,M,4,Aug 13,FUL,@WOL,T 0-0,5.95,85,1
-25,Andreas Pereira,M,4,Aug 6,FUL,LIV,T 2-2,5.5,88,1
-0,Harry Wilson,M,4,Mar 6,FUL,@BRF,L 2-3,2.5,14,0
-1,Harry Wilson,M,4,Feb 24,FUL,WOL,T 1-1,3.5,6,0
-2,Harry Wilson,M,4,Feb 18,FUL,@BHA,W 1-0,7.7,61,1
-3,Harry Wilson,M,4,Feb 11,FUL,NOT,W 2-0,0.75,4,0
-4,Harry Wilson,M,4,Feb 3,FUL,@CHE,T 0-0,3.1,14,0
-5,Harry Wilson,M,4,Jan 23,FUL,TOT,L 0-1,2.0,2,0
-6,Harry Wilson,M,4,Jan 15,FUL,@NEW,L 0-1,0.5,1,0
-7,Harry Wilson,M,4,Jan 12,FUL,CHE,W 2-1,2.0,21,0
-8,Harry Wilson,M,4,Jan 3,FUL,@LEI,W 1-0,3.2,23,0
-9,Harry Wilson,M,4,Dec 26,FUL,@CRY,W 3-0,2.0,8,0
-10,Harry Wilson,M,4,Nov 13,FUL,MUN,L 1-2,5.0,58,1
-11,Harry Wilson,M,4,Nov 5,FUL,@MCI,L 1-2,9.5,75,1
-12,Harry Wilson,M,4,Oct 29,FUL,EVE,T 0-0,2.0,22,0
-13,Harry Wilson,M,4,Oct 23,FUL,@LEE,W 3-2,3.0,62,1
-14,Harry Wilson,M,4,Oct 20,FUL,AVL,W 3-0,1.0,4,0
-15,Harry Wilson,M,4,Oct 15,FUL,BOU,T 2-2,2.35,27,0
-16,Harry Wilson,M,4,Oct 9,FUL,@WHU,L 1-3,1.0,12,0
-0,Daniel James,"M,F",5,Jan 15,FUL,@NEW,L 0-1,1.25,11,0
-1,Daniel James,"M,F",5,Jan 12,FUL,CHE,W 2-1,0.5,1,0
-2,Daniel James,"M,F",5,Dec 31,FUL,SOU,W 2-1,2.25,27,0
-3,Daniel James,"M,F",5,Dec 26,FUL,@CRY,W 3-0,1.0,8,0
-4,Daniel James,"M,F",5,Nov 13,FUL,MUN,L 1-2,13.0,30,0
-5,Daniel James,"M,F",5,Nov 5,FUL,@MCI,L 1-2,1.25,13,0
-6,Daniel James,"M,F",5,Oct 20,FUL,AVL,W 3-0,1.0,16,0
-7,Daniel James,"M,F",5,Oct 15,FUL,BOU,T 2-2,2.75,45,1
-8,Daniel James,"M,F",5,Oct 9,FUL,@WHU,L 1-3,5.5,76,1
-9,Daniel James,"M,F",5,Oct 1,FUL,NEW,L 1-4,6.05,69,1
-10,Daniel James,"M,F",5,Sep 16,FUL,@NOT,W 3-2,4.5,19,0
-11,Daniel James,"M,F",5,Sep 3,FUL,@TOT,L 1-2,2.5,29,0
-12,Daniel James,"M,F",5,Aug 30,LEE,EVE,T 1-1,1.25,13,0
-13,Daniel James,"M,F",5,Aug 27,LEE,@BHA,L 0-1,4.1,58,1
-14,Daniel James,"M,F",5,Aug 21,LEE,CHE,W 3-0,7.1,69,1
-15,Daniel James,"M,F",5,Aug 13,LEE,@SOU,T 2-2,7.25,55,0
-0,Bobby De Cordova-Reid,"M,F",5,Mar 6,FUL,@BRF,L 2-3,2.0,14,0
-1,Bobby De Cordova-Reid,"M,F",5,Feb 24,FUL,WOL,T 1-1,8.75,45,1
-2,Bobby De Cordova-Reid,"M,F",5,Feb 18,FUL,@BHA,W 1-0,4.5,90,1
-3,Bobby De Cordova-Reid,"M,F",5,Feb 11,FUL,NOT,W 2-0,7.1,84,1
-4,Bobby De Cordova-Reid,"M,F",5,Feb 3,FUL,@CHE,T 0-0,5.75,74,1
-5,Bobby De Cordova-Reid,"M,F",5,Jan 23,FUL,TOT,L 0-1,6.45,86,1
-6,Bobby De Cordova-Reid,"M,F",5,Jan 15,FUL,@NEW,L 0-1,7.3,88,1
-7,Bobby De Cordova-Reid,"M,F",5,Jan 12,FUL,CHE,W 2-1,3.35,67,1
-8,Bobby De Cordova-Reid,"M,F",5,Jan 3,FUL,@LEI,W 1-0,5.35,65,1
-9,Bobby De Cordova-Reid,"M,F",5,Dec 31,FUL,SOU,W 2-1,5.35,61,1
-10,Bobby De Cordova-Reid,"M,F",5,Dec 26,FUL,@CRY,W 3-0,18.75,80,1
-11,Bobby De Cordova-Reid,"M,F",5,Nov 13,FUL,MUN,L 1-2,4.5,90,1
-12,Bobby De Cordova-Reid,"M,F",5,Oct 29,FUL,EVE,T 0-0,6.6,75,1
-13,Bobby De Cordova-Reid,"M,F",5,Oct 23,FUL,@LEE,W 3-2,18.55,90,1
-14,Bobby De Cordova-Reid,"M,F",5,Oct 20,FUL,AVL,W 3-0,7.7,90,1
-15,Bobby De Cordova-Reid,"M,F",5,Oct 15,FUL,BOU,T 2-2,10.35,90,1
-16,Bobby De Cordova-Reid,"M,F",5,Oct 9,FUL,@WHU,L 1-3,7.1,90,1
-17,Bobby De Cordova-Reid,"M,F",5,Oct 1,FUL,NEW,L 1-4,13.45,90,1
-18,Bobby De Cordova-Reid,"M,F",5,Sep 16,FUL,@NOT,W 3-2,13.25,88,1
-19,Bobby De Cordova-Reid,"M,F",5,Sep 3,FUL,@TOT,L 1-2,2.35,59,1
-20,Bobby De Cordova-Reid,"M,F",5,Aug 30,FUL,BHA,W 2-1,7.0,90,1
-21,Bobby De Cordova-Reid,"M,F",5,Aug 27,FUL,@ARS,L 1-2,5.95,90,1
-22,Bobby De Cordova-Reid,"M,F",5,Aug 20,FUL,BRF,W 3-2,15.25,90,1
-23,Bobby De Cordova-Reid,"M,F",5,Aug 13,FUL,@WOL,T 0-0,8.85,88,1
-24,Bobby De Cordova-Reid,"M,F",5,Aug 6,FUL,LIV,T 2-2,7.6,88,1
-0,Willian,F,6,Mar 6,FUL,@BRF,L 2-3,2.85,82,1
-1,Willian,F,6,Feb 24,FUL,WOL,T 1-1,6.35,82,1
-2,Willian,F,6,Feb 18,FUL,@BHA,W 1-0,4.75,90,1
-3,Willian,F,6,Feb 11,FUL,NOT,W 2-0,17.5,71,1
-4,Willian,F,6,Feb 3,FUL,@CHE,T 0-0,15.25,74,1
-5,Willian,F,6,Jan 23,FUL,TOT,L 0-1,5.85,86,1
-6,Willian,F,6,Jan 15,FUL,@NEW,L 0-1,3.5,77,1
-7,Willian,F,6,Jan 12,FUL,CHE,W 2-1,14.75,82,1
-8,Willian,F,6,Jan 3,FUL,@LEI,W 1-0,14.5,81,1
-9,Willian,F,6,Dec 31,FUL,SOU,W 2-1,8.35,90,1
-10,Willian,F,6,Dec 26,FUL,@CRY,W 3-0,9.75,80,1
-11,Willian,F,6,Nov 13,FUL,MUN,L 1-2,7.75,90,1
-12,Willian,F,6,Nov 5,FUL,@MCI,L 1-2,4.25,79,1
-13,Willian,F,6,Oct 29,FUL,EVE,T 0-0,15.35,90,1
-14,Willian,F,6,Oct 23,FUL,@LEE,W 3-2,21.75,88,1
-15,Willian,F,6,Oct 20,FUL,AVL,W 3-0,15.0,72,1
-16,Willian,F,6,Oct 15,FUL,BOU,T 2-2,4.0,45,0
-17,Willian,F,6,Sep 16,FUL,@NOT,W 3-2,15.25,69,1
-18,Willian,F,6,Sep 3,FUL,@TOT,L 1-2,0.5,29,0
-0,Manor Solomon,F,6,Mar 6,FUL,@BRF,L 2-3,18.5,74,1
-1,Manor Solomon,F,6,Feb 24,FUL,WOL,T 1-1,15.75,45,0
-2,Manor Solomon,F,6,Feb 18,FUL,@BHA,W 1-0,11.5,7,0
-3,Manor Solomon,F,6,Feb 11,FUL,NOT,W 2-0,13.0,17,0
-4,Manor Solomon,F,6,Feb 3,FUL,@CHE,T 0-0,5.25,14,0
-5,Manor Solomon,F,6,Jan 23,FUL,TOT,L 0-1,3.75,9,0
-6,Manor Solomon,F,6,Jan 12,FUL,CHE,W 2-1,1.0,6,0
-7,Manor Solomon,F,6,Aug 6,FUL,LIV,T 2-2,1.5,23,0
-0,Aleksandar Mitrovic,F,6,Mar 6,FUL,@BRF,L 2-3,5.85,90,1
-1,Aleksandar Mitrovic,F,6,Feb 11,FUL,NOT,W 2-0,11.0,83,1
-2,Aleksandar Mitrovic,F,6,Feb 3,FUL,@CHE,T 0-0,6.25,88,1
-3,Aleksandar Mitrovic,F,6,Jan 23,FUL,TOT,L 0-1,2.85,90,1
-4,Aleksandar Mitrovic,F,6,Jan 15,FUL,@NEW,L 0-1,-1.3,90,1
-5,Aleksandar Mitrovic,F,6,Jan 3,FUL,@LEI,W 1-0,13.1,90,1
-6,Aleksandar Mitrovic,F,6,Dec 31,FUL,SOU,W 2-1,3.35,90,1
-7,Aleksandar Mitrovic,F,6,Dec 26,FUL,@CRY,W 3-0,34.75,84,1
-8,Aleksandar Mitrovic,F,6,Oct 29,FUL,EVE,T 0-0,4.75,90,1
-9,Aleksandar Mitrovic,F,6,Oct 23,FUL,@LEE,W 3-2,14.5,88,1
-10,Aleksandar Mitrovic,F,6,Oct 20,FUL,AVL,W 3-0,16.95,83,1
-11,Aleksandar Mitrovic,F,6,Oct 15,FUL,BOU,T 2-2,18.5,90,1
-12,Aleksandar Mitrovic,F,6,Oct 1,FUL,NEW,L 1-4,-0.9,36,1
-13,Aleksandar Mitrovic,F,6,Sep 16,FUL,@NOT,W 3-2,8.0,88,1
-14,Aleksandar Mitrovic,F,6,Sep 3,FUL,@TOT,L 1-2,17.35,90,1
-15,Aleksandar Mitrovic,F,6,Aug 30,FUL,BHA,W 2-1,25.25,90,1
-16,Aleksandar Mitrovic,F,6,Aug 27,FUL,@ARS,L 1-2,18.2,90,1
-17,Aleksandar Mitrovic,F,6,Aug 20,FUL,BRF,W 3-2,22.5,88,1
-18,Aleksandar Mitrovic,F,6,Aug 13,FUL,@WOL,T 0-0,1.7,90,1
-19,Aleksandar Mitrovic,F,6,Aug 6,FUL,LIV,T 2-2,31.8,90,1
-0,Carlos Vinicius,F,6,Mar 6,FUL,@BRF,L 2-3,11.75,6,0
-1,Carlos Vinicius,F,6,Feb 24,FUL,WOL,T 1-1,8.35,90,1
-2,Carlos Vinicius,F,6,Feb 18,FUL,@BHA,W 1-0,6.75,27,0
-3,Carlos Vinicius,F,6,Feb 11,FUL,NOT,W 2-0,1.5,5,0
-4,Carlos Vinicius,F,6,Feb 3,FUL,@CHE,T 0-0,0.75,1,0
-5,Carlos Vinicius,F,6,Jan 23,FUL,TOT,L 0-1,1.0,2,0
-6,Carlos Vinicius,F,6,Jan 15,FUL,@NEW,L 0-1,0.5,1,0
-7,Carlos Vinicius,F,6,Jan 12,FUL,CHE,W 2-1,15.95,88,1
-8,Carlos Vinicius,F,6,Dec 26,FUL,@CRY,W 3-0,1.0,4,0
-9,Carlos Vinicius,F,6,Nov 13,FUL,MUN,L 1-2,8.2,90,1
-10,Carlos Vinicius,F,6,Nov 5,FUL,@MCI,L 1-2,2.6,75,1
-11,Carlos Vinicius,F,6,Oct 23,FUL,@LEE,W 3-2,-0.5,1,0
-12,Carlos Vinicius,F,6,Oct 20,FUL,AVL,W 3-0,1.0,5,0
-13,Carlos Vinicius,F,6,Oct 15,FUL,BOU,T 2-2,1.0,2,0
-14,Carlos Vinicius,F,6,Oct 9,FUL,@WHU,L 1-3,1.75,90,1
-15,Carlos Vinicius,F,6,Oct 1,FUL,NEW,L 1-4,3.75,52,0
-16,Carlos Vinicius,F,6,Sep 16,FUL,@NOT,W 3-2,0.5,1,0
-17,Carlos Vinicius,F,6,Sep 3,FUL,@TOT,L 1-2,1.25,4,0
-0,Jay Stansfield,F,6,Aug 27,FUL,@ARS,L 1-2,0.5,1,0
-1,Jay Stansfield,F,6,Aug 20,FUL,BRF,W 3-2,11.6,76,1
-2,Jay Stansfield,F,6,Aug 13,FUL,@WOL,T 0-0,1.25,6,0
+0,Bernd Leno,G,1,May 28,FUL,@MUN,L 1-2,12.0,90,1
+1,Bernd Leno,G,1,May 20,FUL,CRY,T 2-2,7.5,90,1
+2,Bernd Leno,G,1,May 13,FUL,@SOU,W 2-0,15.0,90,1
+3,Bernd Leno,G,1,May 8,FUL,LEI,W 5-3,16.5,90,1
+4,Bernd Leno,G,1,May 3,FUL,@LIV,L 0-1,6.5,90,1
+5,Bernd Leno,G,1,Apr 30,FUL,MCI,L 1-2,14.5,90,1
+6,Bernd Leno,G,1,Apr 25,FUL,@AVL,L 0-1,6.0,90,1
+7,Bernd Leno,G,1,Apr 22,FUL,LEE,W 2-1,6.0,90,1
+8,Bernd Leno,G,1,Apr 15,FUL,@EVE,W 3-1,10.0,90,1
+9,Bernd Leno,G,1,Apr 8,FUL,WHU,L 0-1,10.5,90,1
+10,Bernd Leno,G,1,Apr 1,FUL,@BOU,L 1-2,10.0,90,1
+11,Bernd Leno,G,1,Mar 12,FUL,ARS,L 0-3,8.0,90,1
+12,Bernd Leno,G,1,Mar 6,FUL,@BRF,L 2-3,6.5,90,1
+13,Bernd Leno,G,1,Feb 24,FUL,WOL,T 1-1,5.0,90,1
+14,Bernd Leno,G,1,Feb 18,FUL,@BHA,W 1-0,23.0,90,1
+15,Bernd Leno,G,1,Feb 11,FUL,NOT,W 2-0,15.5,90,1
+16,Bernd Leno,G,1,Feb 3,FUL,@CHE,T 0-0,15.0,90,1
+17,Bernd Leno,G,1,Jan 23,FUL,TOT,L 0-1,6.0,90,1
+18,Bernd Leno,G,1,Jan 15,FUL,@NEW,L 0-1,10.0,90,1
+19,Bernd Leno,G,1,Jan 12,FUL,CHE,W 2-1,14.5,90,1
+20,Bernd Leno,G,1,Jan 3,FUL,@LEI,W 1-0,19.5,90,1
+21,Bernd Leno,G,1,Dec 31,FUL,SOU,W 2-1,7.0,90,1
+22,Bernd Leno,G,1,Dec 26,FUL,@CRY,W 3-0,12.0,90,1
+23,Bernd Leno,G,1,Nov 13,FUL,MUN,L 1-2,15.0,90,1
+24,Bernd Leno,G,1,Nov 5,FUL,@MCI,L 1-2,10.0,90,1
+25,Bernd Leno,G,1,Oct 29,FUL,EVE,T 0-0,18.0,90,1
+26,Bernd Leno,G,1,Oct 23,FUL,@LEE,W 3-2,7.0,90,1
+27,Bernd Leno,G,1,Oct 20,FUL,AVL,W 3-0,24.0,90,1
+28,Bernd Leno,G,1,Oct 15,FUL,BOU,T 2-2,9.5,90,1
+29,Bernd Leno,G,1,Oct 9,FUL,@WHU,L 1-3,10.5,90,1
+30,Bernd Leno,G,1,Oct 1,FUL,NEW,L 1-4,10.5,90,1
+31,Bernd Leno,G,1,Sep 16,FUL,@NOT,W 3-2,4.0,90,1
+32,Bernd Leno,G,1,Sep 3,FUL,@TOT,L 1-2,14.5,90,1
+33,Bernd Leno,G,1,Aug 30,FUL,BHA,W 2-1,8.5,90,1
+34,Bernd Leno,G,1,Aug 27,FUL,@ARS,L 1-2,13.0,90,1
+35,Bernd Leno,G,1,Aug 20,FUL,BRF,W 3-2,8.5,90,1
+36,Marek Rodak,G,1,Aug 13,FUL,@WOL,T 0-0,14.5,90,1
+37,Marek Rodak,G,1,Aug 6,FUL,LIV,T 2-2,5.0,90,1
+38,Kenny Tete,D,2,May 28,FUL,@MUN,L 1-2,22.8,90,1
+39,Kenny Tete,D,2,May 20,FUL,CRY,T 2-2,11.7,90,1
+40,Kenny Tete,D,2,May 13,FUL,@SOU,W 2-0,14.75,90,1
+41,Kenny Tete,D,2,May 8,FUL,LEI,W 5-3,14.9,90,1
+42,Kenny Tete,D,2,Apr 30,FUL,MCI,L 1-2,7.2,90,1
+43,Kenny Tete,D,2,Apr 25,FUL,@AVL,L 0-1,8.75,67,1
+44,Kenny Tete,D,2,Apr 22,FUL,LEE,W 2-1,15.1,90,1
+45,Kenny Tete,D,2,Apr 15,FUL,@EVE,W 3-1,11.45,90,1
+46,Kenny Tete,D,2,Apr 8,FUL,WHU,L 0-1,3.45,21,0
+47,Kenny Tete,D,2,Apr 1,FUL,@BOU,L 1-2,5.25,81,1
+48,Kenny Tete,D,2,Mar 12,FUL,ARS,L 0-3,7.85,90,1
+49,Kenny Tete,D,2,Mar 6,FUL,@BRF,L 2-3,10.4,82,1
+50,Kenny Tete,D,2,Feb 24,FUL,WOL,T 1-1,6.95,90,1
+51,Kenny Tete,D,2,Feb 18,FUL,@BHA,W 1-0,17.35,90,1
+52,Kenny Tete,D,2,Feb 11,FUL,NOT,W 2-0,18.7,88,1
+53,Kenny Tete,D,2,Feb 3,FUL,@CHE,T 0-0,19.05,90,1
+54,Kenny Tete,D,2,Jan 23,FUL,TOT,L 0-1,8.3,79,1
+55,Kenny Tete,D,2,Jan 15,FUL,@NEW,L 0-1,9.7,90,1
+56,Kenny Tete,D,2,Jan 12,FUL,CHE,W 2-1,10.9,90,1
+57,Kenny Tete,D,2,Jan 3,FUL,@LEI,W 1-0,18.75,90,1
+58,Kenny Tete,D,2,Dec 31,FUL,SOU,W 2-1,14.95,90,1
+59,Kenny Tete,D,2,Dec 26,FUL,@CRY,W 3-0,19.85,90,1
+60,Kenny Tete,D,2,Nov 5,FUL,@MCI,L 1-2,8.05,90,1
+61,Kenny Tete,D,2,Oct 29,FUL,EVE,T 0-0,3.5,13,0
+62,Kenny Tete,D,2,Sep 16,FUL,@NOT,W 3-2,12.35,90,1
+63,Kenny Tete,D,2,Sep 3,FUL,@TOT,L 1-2,14.85,90,1
+64,Kenny Tete,D,2,Aug 30,FUL,BHA,W 2-1,7.0,90,1
+65,Kenny Tete,D,2,Aug 27,FUL,@ARS,L 1-2,8.3,78,1
+66,Kenny Tete,D,2,Aug 20,FUL,BRF,W 3-2,4.55,76,1
+67,Kenny Tete,D,2,Aug 13,FUL,@WOL,T 0-0,13.6,88,1
+68,Kenny Tete,D,2,Aug 6,FUL,LIV,T 2-2,16.75,90,1
+69,Cedric Soares,D,2,May 3,FUL,@LIV,L 0-1,10.2,90,1
+70,Cedric Soares,D,2,Apr 25,FUL,@AVL,L 0-1,2.0,21,0
+71,Cedric Soares,D,2,Apr 8,FUL,WHU,L 0-1,8.2,67,1
+72,Cedric Soares,D,2,Apr 1,FUL,@BOU,L 1-2,1.0,7,0
+73,Cedric Soares,D,2,Mar 6,FUL,@BRF,L 2-3,2.85,6,0
+74,Cedric Soares,D,2,Feb 11,FUL,NOT,W 2-0,0.75,1,0
+75,Cedric Soares,D,2,Nov 12,ARS,@WOL,W 2-0,0.5,1,0
+76,Cedric Soares,D,2,Oct 30,ARS,NOT,W 5-0,1.1,26,0
+77,Kevin Mbabu,D,2,Nov 5,FUL,@MCI,L 1-2,1.0,9,0
+78,Kevin Mbabu,D,2,Oct 1,FUL,NEW,L 1-4,2.6,45,1
+79,Kevin Mbabu,D,2,Sep 3,FUL,@TOT,L 1-2,7.0,60,0
+80,Kevin Mbabu,D,2,Aug 27,FUL,@ARS,L 1-2,2.1,10,0
+81,Kevin Mbabu,D,2,Aug 20,FUL,BRF,W 3-2,10.5,12,0
+82,Kevin Mbabu,D,2,Aug 13,FUL,@WOL,T 0-0,0.5,1,0
+83,Tosin Adarabioyo,D,2,May 28,FUL,@MUN,L 1-2,8.35,90,1
+84,Tosin Adarabioyo,D,2,May 20,FUL,CRY,T 2-2,7.65,90,1
+85,Tosin Adarabioyo,D,2,May 13,FUL,@SOU,W 2-0,13.1,90,1
+86,Tosin Adarabioyo,D,2,May 8,FUL,LEI,W 5-3,5.1,90,1
+87,Tosin Adarabioyo,D,2,May 3,FUL,@LIV,L 0-1,7.8,90,1
+88,Tosin Adarabioyo,D,2,Apr 30,FUL,MCI,L 1-2,4.9,90,1
+89,Tosin Adarabioyo,D,2,Apr 25,FUL,@AVL,L 0-1,10.35,90,1
+90,Tosin Adarabioyo,D,2,Apr 22,FUL,LEE,W 2-1,10.35,90,1
+91,Tosin Adarabioyo,D,2,Apr 15,FUL,@EVE,W 3-1,11.9,90,1
+92,Tosin Adarabioyo,D,2,Apr 8,FUL,WHU,L 0-1,11.75,90,1
+93,Tosin Adarabioyo,D,2,Mar 12,FUL,ARS,L 0-3,7.0,90,1
+94,Tosin Adarabioyo,D,2,Jan 15,FUL,@NEW,L 0-1,1.0,12,0
+95,Tosin Adarabioyo,D,2,Jan 12,FUL,CHE,W 2-1,5.45,90,1
+96,Tosin Adarabioyo,D,2,Jan 3,FUL,@LEI,W 1-0,17.8,90,1
+97,Tosin Adarabioyo,D,2,Dec 31,FUL,SOU,W 2-1,0.5,1,0
+98,Tosin Adarabioyo,D,2,Oct 23,FUL,@LEE,W 3-2,8.65,90,1
+99,Tosin Adarabioyo,D,2,Oct 9,FUL,@WHU,L 1-3,6.8,90,1
+100,Tosin Adarabioyo,D,2,Oct 1,FUL,NEW,L 1-4,3.4,90,1
+101,Tosin Adarabioyo,D,2,Sep 16,FUL,@NOT,W 3-2,13.85,90,1
+102,Tosin Adarabioyo,D,2,Sep 3,FUL,@TOT,L 1-2,7.35,90,1
+103,Tosin Adarabioyo,D,2,Aug 30,FUL,BHA,W 2-1,7.05,90,1
+104,Tosin Adarabioyo,D,2,Aug 27,FUL,@ARS,L 1-2,9.55,90,1
+105,Tosin Adarabioyo,D,2,Aug 20,FUL,BRF,W 3-2,8.15,90,1
+106,Tosin Adarabioyo,D,2,Aug 13,FUL,@WOL,T 0-0,12.55,90,1
+107,Tosin Adarabioyo,D,2,Aug 6,FUL,LIV,T 2-2,5.95,90,1
+108,Tim Ream,D,2,Apr 30,FUL,MCI,L 1-2,0.6,21,1
+109,Tim Ream,D,2,Apr 25,FUL,@AVL,L 0-1,6.95,90,1
+110,Tim Ream,D,2,Apr 22,FUL,LEE,W 2-1,6.65,90,1
+111,Tim Ream,D,2,Apr 15,FUL,@EVE,W 3-1,8.65,90,1
+112,Tim Ream,D,2,Apr 8,FUL,WHU,L 0-1,5.05,90,1
+113,Tim Ream,D,2,Apr 1,FUL,@BOU,L 1-2,6.4,90,1
+114,Tim Ream,D,2,Mar 12,FUL,ARS,L 0-3,7.2,90,1
+115,Tim Ream,D,2,Mar 6,FUL,@BRF,L 2-3,5.95,90,1
+116,Tim Ream,D,2,Feb 24,FUL,WOL,T 1-1,10.2,90,1
+117,Tim Ream,D,2,Feb 18,FUL,@BHA,W 1-0,15.8,90,1
+118,Tim Ream,D,2,Feb 11,FUL,NOT,W 2-0,20.65,90,1
+119,Tim Ream,D,2,Feb 3,FUL,@CHE,T 0-0,18.55,90,1
+120,Tim Ream,D,2,Jan 23,FUL,TOT,L 0-1,6.3,90,1
+121,Tim Ream,D,2,Jan 15,FUL,@NEW,L 0-1,5.55,90,1
+122,Tim Ream,D,2,Jan 12,FUL,CHE,W 2-1,8.3,90,1
+123,Tim Ream,D,2,Jan 3,FUL,@LEI,W 1-0,15.8,90,1
+124,Tim Ream,D,2,Dec 31,FUL,SOU,W 2-1,7.3,90,1
+125,Tim Ream,D,2,Dec 26,FUL,@CRY,W 3-0,26.75,90,1
+126,Tim Ream,D,2,Nov 13,FUL,MUN,L 1-2,8.65,90,1
+127,Tim Ream,D,2,Nov 5,FUL,@MCI,L 1-2,5.95,90,1
+128,Tim Ream,D,2,Oct 29,FUL,EVE,T 0-0,13.6,90,1
+129,Tim Ream,D,2,Oct 23,FUL,@LEE,W 3-2,6.5,90,1
+130,Tim Ream,D,2,Oct 20,FUL,AVL,W 3-0,15.35,90,1
+131,Tim Ream,D,2,Oct 15,FUL,BOU,T 2-2,5.7,90,1
+132,Tim Ream,D,2,Oct 9,FUL,@WHU,L 1-3,6.6,90,1
+133,Tim Ream,D,2,Oct 1,FUL,NEW,L 1-4,4.0,90,1
+134,Tim Ream,D,2,Sep 16,FUL,@NOT,W 3-2,5.45,90,1
+135,Tim Ream,D,2,Sep 3,FUL,@TOT,L 1-2,8.95,90,1
+136,Tim Ream,D,2,Aug 30,FUL,BHA,W 2-1,8.05,90,1
+137,Tim Ream,D,2,Aug 27,FUL,@ARS,L 1-2,13.2,87,1
+138,Tim Ream,D,2,Aug 20,FUL,BRF,W 3-2,6.4,90,1
+139,Tim Ream,D,2,Aug 13,FUL,@WOL,T 0-0,17.4,90,1
+140,Tim Ream,D,2,Aug 6,FUL,LIV,T 2-2,8.0,90,1
+141,Issa Diop,D,2,May 28,FUL,@MUN,L 1-2,7.7,90,1
+142,Issa Diop,D,2,May 20,FUL,CRY,T 2-2,6.2,90,1
+143,Issa Diop,D,2,May 13,FUL,@SOU,W 2-0,17.35,90,1
+144,Issa Diop,D,2,May 8,FUL,LEI,W 5-3,5.45,76,1
+145,Issa Diop,D,2,May 3,FUL,@LIV,L 0-1,10.45,90,1
+146,Issa Diop,D,2,Apr 30,FUL,MCI,L 1-2,3.8,67,0
+147,Issa Diop,D,2,Apr 1,FUL,@BOU,L 1-2,6.25,90,1
+148,Issa Diop,D,2,Mar 6,FUL,@BRF,L 2-3,5.75,90,1
+149,Issa Diop,D,2,Feb 24,FUL,WOL,T 1-1,10.1,90,1
+150,Issa Diop,D,2,Feb 18,FUL,@BHA,W 1-0,16.25,90,1
+151,Issa Diop,D,2,Feb 11,FUL,NOT,W 2-0,16.55,90,1
+152,Issa Diop,D,2,Feb 3,FUL,@CHE,T 0-0,16.2,90,1
+153,Issa Diop,D,2,Jan 23,FUL,TOT,L 0-1,9.35,90,1
+154,Issa Diop,D,2,Jan 15,FUL,@NEW,L 0-1,11.05,88,1
+155,Issa Diop,D,2,Jan 3,FUL,@LEI,W 1-0,1.1,7,0
+156,Issa Diop,D,2,Dec 31,FUL,SOU,W 2-1,8.5,90,1
+157,Issa Diop,D,2,Dec 26,FUL,@CRY,W 3-0,21.5,90,1
+158,Issa Diop,D,2,Nov 13,FUL,MUN,L 1-2,8.45,90,1
+159,Issa Diop,D,2,Nov 5,FUL,@MCI,L 1-2,8.35,90,1
+160,Issa Diop,D,2,Oct 29,FUL,EVE,T 0-0,15.35,90,1
+161,Issa Diop,D,2,Oct 20,FUL,AVL,W 3-0,12.8,90,1
+162,Issa Diop,D,2,Oct 15,FUL,BOU,T 2-2,15.6,90,1
+163,Issa Diop,D,2,Oct 1,FUL,NEW,L 1-4,4.1,45,0
+164,Issa Diop,D,2,Sep 16,FUL,@NOT,W 3-2,3.05,90,1
+165,Issa Diop,D,2,Aug 27,FUL,@ARS,L 1-2,2.35,10,0
+166,Shane Duffy,D,2,May 8,FUL,LEI,W 5-3,2.0,12,0
+167,Shane Duffy,D,2,Oct 23,FUL,@LEE,W 3-2,0.5,1,0
+168,Shane Duffy,D,2,Oct 9,FUL,@WHU,L 1-3,0.75,1,0
+169,Shane Duffy,D,2,Aug 20,FUL,BRF,W 3-2,0.75,1,0
+170,Shane Duffy,D,2,Aug 6,FUL,LIV,T 2-2,0.5,1,0
+171,Layvin Kurzawa,D,2,Feb 3,FUL,@CHE,T 0-0,0.5,1,0
+172,Layvin Kurzawa,D,2,Jan 15,FUL,@NEW,L 0-1,6.6,90,1
+173,Layvin Kurzawa,D,2,Oct 1,FUL,NEW,L 1-4,3.1,45,1
+174,Antonee Robinson,D,2,May 28,FUL,@MUN,L 1-2,8.85,90,1
+175,Antonee Robinson,D,2,May 20,FUL,CRY,T 2-2,7.1,90,1
+176,Antonee Robinson,D,2,May 13,FUL,@SOU,W 2-0,16.7,90,1
+177,Antonee Robinson,D,2,May 8,FUL,LEI,W 5-3,15.75,90,1
+178,Antonee Robinson,D,2,May 3,FUL,@LIV,L 0-1,10.55,90,1
+179,Antonee Robinson,D,2,Apr 30,FUL,MCI,L 1-2,11.9,90,1
+180,Antonee Robinson,D,2,Apr 25,FUL,@AVL,L 0-1,10.7,90,1
+181,Antonee Robinson,D,2,Apr 22,FUL,LEE,W 2-1,9.05,90,1
+182,Antonee Robinson,D,2,Apr 15,FUL,@EVE,W 3-1,12.0,90,1
+183,Antonee Robinson,D,2,Apr 8,FUL,WHU,L 0-1,9.0,90,1
+184,Antonee Robinson,D,2,Apr 1,FUL,@BOU,L 1-2,6.8,90,1
+185,Antonee Robinson,D,2,Mar 12,FUL,ARS,L 0-3,10.35,90,1
+186,Antonee Robinson,D,2,Mar 6,FUL,@BRF,L 2-3,13.6,90,1
+187,Antonee Robinson,D,2,Feb 24,FUL,WOL,T 1-1,15.35,90,1
+188,Antonee Robinson,D,2,Feb 18,FUL,@BHA,W 1-0,16.3,90,1
+189,Antonee Robinson,D,2,Feb 11,FUL,NOT,W 2-0,24.85,90,1
+190,Antonee Robinson,D,2,Feb 3,FUL,@CHE,T 0-0,18.7,90,1
+191,Antonee Robinson,D,2,Jan 23,FUL,TOT,L 0-1,15.45,90,1
+192,Antonee Robinson,D,2,Jan 12,FUL,CHE,W 2-1,9.1,90,1
+193,Antonee Robinson,D,2,Jan 3,FUL,@LEI,W 1-0,19.1,90,1
+194,Antonee Robinson,D,2,Dec 31,FUL,SOU,W 2-1,7.1,90,1
+195,Antonee Robinson,D,2,Dec 26,FUL,@CRY,W 3-0,16.0,90,1
+196,Antonee Robinson,D,2,Nov 13,FUL,MUN,L 1-2,7.35,90,1
+197,Antonee Robinson,D,2,Nov 5,FUL,@MCI,L 1-2,2.55,90,1
+198,Antonee Robinson,D,2,Oct 29,FUL,EVE,T 0-0,17.0,90,1
+199,Antonee Robinson,D,2,Oct 23,FUL,@LEE,W 3-2,9.6,90,1
+200,Antonee Robinson,D,2,Oct 20,FUL,AVL,W 3-0,14.35,90,1
+201,Antonee Robinson,D,2,Oct 15,FUL,BOU,T 2-2,8.1,90,1
+202,Antonee Robinson,D,2,Oct 9,FUL,@WHU,L 1-3,8.2,90,1
+203,Antonee Robinson,D,2,Sep 3,FUL,@TOT,L 1-2,1.6,28,1
+204,Antonee Robinson,D,2,Aug 30,FUL,BHA,W 2-1,6.2,90,1
+205,Antonee Robinson,D,2,Aug 27,FUL,@ARS,L 1-2,13.0,90,1
+206,Antonee Robinson,D,2,Aug 20,FUL,BRF,W 3-2,8.3,90,1
+207,Antonee Robinson,D,2,Aug 13,FUL,@WOL,T 0-0,16.05,90,1
+208,Antonee Robinson,D,2,Aug 6,FUL,LIV,T 2-2,8.5,90,1
+209,Harrison Reed,M,4,May 28,FUL,@MUN,L 1-2,2.75,23,0
+210,Harrison Reed,M,4,May 20,FUL,CRY,T 2-2,5.5,90,1
+211,Harrison Reed,M,4,May 13,FUL,@SOU,W 2-0,15.75,90,1
+212,Harrison Reed,M,4,May 8,FUL,LEI,W 5-3,15.0,76,1
+213,Harrison Reed,M,4,May 3,FUL,@LIV,L 0-1,2.5,18,0
+214,Harrison Reed,M,4,Apr 30,FUL,MCI,L 1-2,5.8,75,1
+215,Harrison Reed,M,4,Apr 25,FUL,@AVL,L 0-1,7.0,82,1
+216,Harrison Reed,M,4,Apr 22,FUL,LEE,W 2-1,5.75,81,1
+217,Harrison Reed,M,4,Apr 15,FUL,@EVE,W 3-1,19.35,84,1
+218,Harrison Reed,M,4,Apr 8,FUL,WHU,L 0-1,-1.0,45,1
+219,Harrison Reed,M,4,Apr 1,FUL,@BOU,L 1-2,15.25,68,1
+220,Harrison Reed,M,4,Mar 12,FUL,ARS,L 0-3,7.35,90,1
+221,Harrison Reed,M,4,Mar 6,FUL,@BRF,L 2-3,9.75,90,1
+222,Harrison Reed,M,4,Feb 24,FUL,WOL,T 1-1,5.75,45,1
+223,Harrison Reed,M,4,Feb 18,FUL,@BHA,W 1-0,5.25,90,1
+224,Harrison Reed,M,4,Feb 11,FUL,NOT,W 2-0,9.35,90,1
+225,Harrison Reed,M,4,Feb 3,FUL,@CHE,T 0-0,6.7,88,1
+226,Harrison Reed,M,4,Jan 23,FUL,TOT,L 0-1,4.75,64,1
+227,Harrison Reed,M,4,Jan 15,FUL,@NEW,L 0-1,6.7,88,1
+228,Harrison Reed,M,4,Jan 12,FUL,CHE,W 2-1,5.5,67,1
+229,Harrison Reed,M,4,Jan 3,FUL,@LEI,W 1-0,7.1,90,1
+230,Harrison Reed,M,4,Dec 31,FUL,SOU,W 2-1,3.85,61,1
+231,Harrison Reed,M,4,Dec 26,FUL,@CRY,W 3-0,7.75,90,1
+232,Harrison Reed,M,4,Nov 5,FUL,@MCI,L 1-2,4.7,90,1
+233,Harrison Reed,M,4,Oct 29,FUL,EVE,T 0-0,7.35,90,1
+234,Harrison Reed,M,4,Oct 23,FUL,@LEE,W 3-2,21.85,88,1
+235,Harrison Reed,M,4,Oct 20,FUL,AVL,W 3-0,14.85,72,1
+236,Harrison Reed,M,4,Oct 15,FUL,BOU,T 2-2,8.2,45,1
+237,Harrison Reed,M,4,Oct 9,FUL,@WHU,L 1-3,4.05,70,1
+238,Harrison Reed,M,4,Oct 1,FUL,NEW,L 1-4,10.75,90,1
+239,Harrison Reed,M,4,Sep 16,FUL,@NOT,W 3-2,17.7,90,1
+240,Harrison Reed,M,4,Sep 3,FUL,@TOT,L 1-2,7.25,90,1
+241,Harrison Reed,M,4,Aug 30,FUL,BHA,W 2-1,1.5,88,1
+242,Harrison Reed,M,4,Aug 27,FUL,@ARS,L 1-2,6.95,90,1
+243,Harrison Reed,M,4,Aug 20,FUL,BRF,W 3-2,7.6,90,1
+244,Harrison Reed,M,4,Aug 13,FUL,@WOL,T 0-0,10.0,90,1
+245,Harrison Reed,M,4,Aug 6,FUL,LIV,T 2-2,11.3,90,1
+246,Tyrese Francois,M,4,Aug 13,FUL,@WOL,T 0-0,0.85,1,0
+247,Nathaniel Chalobah,M,4,Jan 12,FUL,CHE,W 2-1,0.5,1,0
+248,Nathaniel Chalobah,M,4,Oct 1,FUL,NEW,L 1-4,-2.9,7,1
+249,Nathaniel Chalobah,M,4,Aug 30,FUL,BHA,W 2-1,0.6,1,0
+250,Nathaniel Chalobah,M,4,Aug 27,FUL,@ARS,L 1-2,1.5,1,0
+251,Luke Harris,M,4,Dec 26,FUL,@CRY,W 3-0,0.75,4,0
+252,Luke Harris,M,4,Nov 5,FUL,@MCI,L 1-2,0.5,1,0
+253,Luke Harris,M,4,Oct 20,FUL,AVL,W 3-0,1.0,2,0
+254,Sasa Lukic,M,4,May 28,FUL,@MUN,L 1-2,8.0,65,1
+255,Sasa Lukic,M,4,May 13,FUL,@SOU,W 2-0,2.75,12,0
+256,Sasa Lukic,M,4,May 8,FUL,LEI,W 5-3,1.75,12,0
+257,Sasa Lukic,M,4,May 3,FUL,@LIV,L 0-1,6.6,70,1
+258,Sasa Lukic,M,4,Apr 30,FUL,MCI,L 1-2,1.35,13,0
+259,Sasa Lukic,M,4,Apr 22,FUL,LEE,W 2-1,1.25,7,0
+260,Sasa Lukic,M,4,Apr 15,FUL,@EVE,W 3-1,2.25,4,0
+261,Sasa Lukic,M,4,Apr 1,FUL,@BOU,L 1-2,2.25,7,0
+262,Sasa Lukic,M,4,Mar 12,FUL,ARS,L 0-3,5.25,90,1
+263,Sasa Lukic,M,4,Mar 6,FUL,@BRF,L 2-3,1.85,74,1
+264,Sasa Lukic,M,4,Feb 24,FUL,WOL,T 1-1,7.0,45,0
+265,Sasa Lukic,M,4,Feb 11,FUL,NOT,W 2-0,0.5,1,0
+266,Josh Onomah,M,4,Nov 13,FUL,MUN,L 1-2,0.5,1,0
+267,Josh Onomah,M,4,Oct 9,FUL,@WHU,L 1-3,1.25,12,0
+268,Joao Palhinha,M,4,May 28,FUL,@MUN,L 1-2,10.35,90,1
+269,Joao Palhinha,M,4,May 20,FUL,CRY,T 2-2,3.75,90,1
+270,Joao Palhinha,M,4,May 13,FUL,@SOU,W 2-0,4.75,76,1
+271,Joao Palhinha,M,4,May 8,FUL,LEI,W 5-3,17.0,90,1
+272,Joao Palhinha,M,4,May 3,FUL,@LIV,L 0-1,13.95,90,1
+273,Joao Palhinha,M,4,Apr 30,FUL,MCI,L 1-2,10.1,90,1
+274,Joao Palhinha,M,4,Apr 25,FUL,@AVL,L 0-1,4.8,90,1
+275,Joao Palhinha,M,4,Apr 22,FUL,LEE,W 2-1,6.5,90,1
+276,Joao Palhinha,M,4,Apr 15,FUL,@EVE,W 3-1,8.2,90,1
+277,Joao Palhinha,M,4,Apr 8,FUL,WHU,L 0-1,8.1,90,1
+278,Joao Palhinha,M,4,Apr 1,FUL,@BOU,L 1-2,6.95,87,1
+279,Joao Palhinha,M,4,Feb 24,FUL,WOL,T 1-1,7.85,90,1
+280,Joao Palhinha,M,4,Feb 18,FUL,@BHA,W 1-0,7.15,90,1
+281,Joao Palhinha,M,4,Feb 11,FUL,NOT,W 2-0,11.8,90,1
+282,Joao Palhinha,M,4,Feb 3,FUL,@CHE,T 0-0,16.2,90,1
+283,Joao Palhinha,M,4,Jan 23,FUL,TOT,L 0-1,8.35,90,1
+284,Joao Palhinha,M,4,Jan 15,FUL,@NEW,L 0-1,12.15,90,1
+285,Joao Palhinha,M,4,Jan 12,FUL,CHE,W 2-1,8.55,90,1
+286,Joao Palhinha,M,4,Jan 3,FUL,@LEI,W 1-0,8.8,90,1
+287,Joao Palhinha,M,4,Dec 31,FUL,SOU,W 2-1,24.65,90,1
+288,Joao Palhinha,M,4,Dec 26,FUL,@CRY,W 3-0,7.85,74,1
+289,Joao Palhinha,M,4,Nov 13,FUL,MUN,L 1-2,12.6,90,1
+290,Joao Palhinha,M,4,Nov 5,FUL,@MCI,L 1-2,7.95,90,1
+291,Joao Palhinha,M,4,Oct 29,FUL,EVE,T 0-0,10.7,90,1
+292,Joao Palhinha,M,4,Oct 23,FUL,@LEE,W 3-2,9.95,90,1
+293,Joao Palhinha,M,4,Oct 20,FUL,AVL,W 3-0,8.6,90,1
+294,Joao Palhinha,M,4,Oct 15,FUL,BOU,T 2-2,10.25,90,1
+295,Joao Palhinha,M,4,Oct 9,FUL,@WHU,L 1-3,3.6,90,1
+296,Joao Palhinha,M,4,Sep 16,FUL,@NOT,W 3-2,18.0,90,1
+297,Joao Palhinha,M,4,Sep 3,FUL,@TOT,L 1-2,8.1,84,1
+298,Joao Palhinha,M,4,Aug 30,FUL,BHA,W 2-1,11.2,90,1
+299,Joao Palhinha,M,4,Aug 27,FUL,@ARS,L 1-2,7.05,87,1
+300,Joao Palhinha,M,4,Aug 20,FUL,BRF,W 3-2,16.8,90,1
+301,Joao Palhinha,M,4,Aug 13,FUL,@WOL,T 0-0,5.7,90,1
+302,Joao Palhinha,M,4,Aug 6,FUL,LIV,T 2-2,9.6,90,1
+303,Neeskens Kebano,M,4,May 13,FUL,@SOU,W 2-0,2.75,11,0
+304,Neeskens Kebano,M,4,May 8,FUL,LEI,W 5-3,6.25,7,0
+305,Neeskens Kebano,M,4,May 3,FUL,@LIV,L 0-1,1.0,18,0
+306,Neeskens Kebano,M,4,Apr 25,FUL,@AVL,L 0-1,1.75,6,0
+307,Neeskens Kebano,M,4,Apr 22,FUL,LEE,W 2-1,0.5,1,0
+308,Neeskens Kebano,M,4,Oct 29,FUL,EVE,T 0-0,8.6,66,1
+309,Neeskens Kebano,M,4,Oct 23,FUL,@LEE,W 3-2,2.75,26,0
+310,Neeskens Kebano,M,4,Oct 20,FUL,AVL,W 3-0,9.75,84,1
+311,Neeskens Kebano,M,4,Oct 15,FUL,BOU,T 2-2,5.0,61,1
+312,Neeskens Kebano,M,4,Oct 9,FUL,@WHU,L 1-3,13.85,88,1
+313,Neeskens Kebano,M,4,Oct 1,FUL,NEW,L 1-4,11.25,19,0
+314,Neeskens Kebano,M,4,Sep 16,FUL,@NOT,W 3-2,1.75,1,0
+315,Neeskens Kebano,M,4,Sep 3,FUL,@TOT,L 1-2,3.6,59,1
+316,Neeskens Kebano,M,4,Aug 30,FUL,BHA,W 2-1,16.25,90,1
+317,Neeskens Kebano,M,4,Aug 27,FUL,@ARS,L 1-2,6.0,68,1
+318,Neeskens Kebano,M,4,Aug 13,FUL,@WOL,T 0-0,8.35,82,1
+319,Neeskens Kebano,M,4,Aug 6,FUL,LIV,T 2-2,5.5,65,1
+320,Tom Cairney,M,4,May 28,FUL,@MUN,L 1-2,4.35,79,1
+321,Tom Cairney,M,4,May 20,FUL,CRY,T 2-2,7.0,79,1
+322,Tom Cairney,M,4,May 13,FUL,@SOU,W 2-0,5.5,68,1
+323,Tom Cairney,M,4,May 8,FUL,LEI,W 5-3,24.0,81,1
+324,Tom Cairney,M,4,May 3,FUL,@LIV,L 0-1,3.0,70,1
+325,Tom Cairney,M,4,Apr 30,FUL,MCI,L 1-2,5.75,31,0
+326,Tom Cairney,M,4,Apr 25,FUL,@AVL,L 0-1,2.25,21,0
+327,Tom Cairney,M,4,Apr 22,FUL,LEE,W 2-1,2.5,3,0
+328,Tom Cairney,M,4,Apr 15,FUL,@EVE,W 3-1,2.0,10,0
+329,Tom Cairney,M,4,Apr 8,FUL,WHU,L 0-1,3.75,45,0
+330,Tom Cairney,M,4,Apr 1,FUL,@BOU,L 1-2,-1.25,20,0
+331,Tom Cairney,M,4,Feb 3,FUL,@CHE,T 0-0,1.25,1,0
+332,Tom Cairney,M,4,Jan 23,FUL,TOT,L 0-1,4.5,24,0
+333,Tom Cairney,M,4,Jan 15,FUL,@NEW,L 0-1,0.5,1,0
+334,Tom Cairney,M,4,Jan 12,FUL,CHE,W 2-1,2.0,21,0
+335,Tom Cairney,M,4,Jan 3,FUL,@LEI,W 1-0,0.25,30,0
+336,Tom Cairney,M,4,Dec 31,FUL,SOU,W 2-1,3.6,27,0
+337,Tom Cairney,M,4,Dec 26,FUL,@CRY,W 3-0,2.6,14,0
+338,Tom Cairney,M,4,Nov 13,FUL,MUN,L 1-2,13.25,88,1
+339,Tom Cairney,M,4,Nov 5,FUL,@MCI,L 1-2,3.25,13,0
+340,Tom Cairney,M,4,Oct 29,FUL,EVE,T 0-0,3.25,13,0
+341,Tom Cairney,M,4,Oct 23,FUL,@LEE,W 3-2,0.5,1,0
+342,Tom Cairney,M,4,Oct 20,FUL,AVL,W 3-0,1.0,16,0
+343,Tom Cairney,M,4,Oct 15,FUL,BOU,T 2-2,5.75,45,0
+344,Tom Cairney,M,4,Oct 9,FUL,@WHU,L 1-3,1.5,18,0
+345,Tom Cairney,M,4,Oct 1,FUL,NEW,L 1-4,6.25,45,0
+346,Tom Cairney,M,4,Sep 16,FUL,@NOT,W 3-2,1.0,6,0
+347,Tom Cairney,M,4,Sep 3,FUL,@TOT,L 1-2,2.75,28,0
+348,Tom Cairney,M,4,Aug 30,FUL,BHA,W 2-1,1.5,11,0
+349,Tom Cairney,M,4,Aug 27,FUL,@ARS,L 1-2,1.5,20,0
+350,Tom Cairney,M,4,Aug 20,FUL,BRF,W 3-2,2.75,12,0
+351,Tom Cairney,M,4,Aug 13,FUL,@WOL,T 0-0,2.5,3,0
+352,Tom Cairney,M,4,Aug 6,FUL,LIV,T 2-2,0.5,1,0
+353,Andreas Pereira,M,4,Apr 30,FUL,MCI,L 1-2,4.25,57,1
+354,Andreas Pereira,M,4,Apr 25,FUL,@AVL,L 0-1,4.0,67,1
+355,Andreas Pereira,M,4,Apr 22,FUL,LEE,W 2-1,18.75,85,1
+356,Andreas Pereira,M,4,Apr 15,FUL,@EVE,W 3-1,9.25,78,1
+357,Andreas Pereira,M,4,Apr 8,FUL,WHU,L 0-1,4.95,84,1
+358,Andreas Pereira,M,4,Apr 1,FUL,@BOU,L 1-2,14.0,81,1
+359,Andreas Pereira,M,4,Mar 12,FUL,ARS,L 0-3,8.25,75,1
+360,Andreas Pereira,M,4,Mar 6,FUL,@BRF,L 2-3,18.1,90,1
+361,Andreas Pereira,M,4,Feb 24,FUL,WOL,T 1-1,3.0,90,1
+362,Andreas Pereira,M,4,Feb 18,FUL,@BHA,W 1-0,5.5,81,1
+363,Andreas Pereira,M,4,Feb 11,FUL,NOT,W 2-0,17.0,88,1
+364,Andreas Pereira,M,4,Feb 3,FUL,@CHE,T 0-0,3.75,88,1
+365,Andreas Pereira,M,4,Jan 23,FUL,TOT,L 0-1,11.5,90,1
+366,Andreas Pereira,M,4,Jan 15,FUL,@NEW,L 0-1,6.75,76,1
+367,Andreas Pereira,M,4,Jan 12,FUL,CHE,W 2-1,10.6,88,1
+368,Andreas Pereira,M,4,Jan 3,FUL,@LEI,W 1-0,6.0,58,1
+369,Andreas Pereira,M,4,Dec 31,FUL,SOU,W 2-1,6.35,88,1
+370,Andreas Pereira,M,4,Dec 26,FUL,@CRY,W 3-0,16.5,84,1
+371,Andreas Pereira,M,4,Nov 13,FUL,MUN,L 1-2,7.75,90,1
+372,Andreas Pereira,M,4,Nov 5,FUL,@MCI,L 1-2,11.75,87,1
+373,Andreas Pereira,M,4,Oct 29,FUL,EVE,T 0-0,12.75,75,1
+374,Andreas Pereira,M,4,Oct 23,FUL,@LEE,W 3-2,25.75,90,1
+375,Andreas Pereira,M,4,Oct 20,FUL,AVL,W 3-0,11.6,86,1
+376,Andreas Pereira,M,4,Oct 15,FUL,BOU,T 2-2,13.75,86,1
+377,Andreas Pereira,M,4,Oct 9,FUL,@WHU,L 1-3,13.0,76,1
+378,Andreas Pereira,M,4,Oct 1,FUL,NEW,L 1-4,5.5,90,1
+379,Andreas Pereira,M,4,Sep 16,FUL,@NOT,W 3-2,8.0,82,1
+380,Andreas Pereira,M,4,Sep 3,FUL,@TOT,L 1-2,3.25,60,1
+381,Andreas Pereira,M,4,Aug 30,FUL,BHA,W 2-1,11.75,77,1
+382,Andreas Pereira,M,4,Aug 27,FUL,@ARS,L 1-2,7.0,78,1
+383,Andreas Pereira,M,4,Aug 20,FUL,BRF,W 3-2,21.75,90,1
+384,Andreas Pereira,M,4,Aug 13,FUL,@WOL,T 0-0,5.95,85,1
+385,Andreas Pereira,M,4,Aug 6,FUL,LIV,T 2-2,5.5,88,1
+386,Harry Wilson,M,4,May 28,FUL,@MUN,L 1-2,4.5,65,1
+387,Harry Wilson,M,4,May 20,FUL,CRY,T 2-2,8.85,79,1
+388,Harry Wilson,M,4,May 13,FUL,@SOU,W 2-0,17.85,77,1
+389,Harry Wilson,M,4,May 8,FUL,LEI,W 5-3,13.0,81,1
+390,Harry Wilson,M,4,May 3,FUL,@LIV,L 0-1,4.5,70,1
+391,Harry Wilson,M,4,Apr 30,FUL,MCI,L 1-2,10.25,75,1
+392,Harry Wilson,M,4,Apr 25,FUL,@AVL,L 0-1,1.25,16,1
+393,Harry Wilson,M,4,Apr 22,FUL,LEE,W 2-1,20.05,85,1
+394,Harry Wilson,M,4,Apr 15,FUL,@EVE,W 3-1,17.1,90,1
+395,Harry Wilson,M,4,Apr 8,FUL,WHU,L 0-1,2.25,4,0
+396,Harry Wilson,M,4,Apr 1,FUL,@BOU,L 1-2,0.5,1,0
+397,Harry Wilson,M,4,Mar 12,FUL,ARS,L 0-3,1.25,13,0
+398,Harry Wilson,M,4,Mar 6,FUL,@BRF,L 2-3,2.5,14,0
+399,Harry Wilson,M,4,Feb 24,FUL,WOL,T 1-1,3.5,6,0
+400,Harry Wilson,M,4,Feb 18,FUL,@BHA,W 1-0,7.7,61,1
+401,Harry Wilson,M,4,Feb 11,FUL,NOT,W 2-0,0.75,4,0
+402,Harry Wilson,M,4,Feb 3,FUL,@CHE,T 0-0,3.1,14,0
+403,Harry Wilson,M,4,Jan 23,FUL,TOT,L 0-1,2.0,2,0
+404,Harry Wilson,M,4,Jan 15,FUL,@NEW,L 0-1,0.5,1,0
+405,Harry Wilson,M,4,Jan 12,FUL,CHE,W 2-1,2.0,21,0
+406,Harry Wilson,M,4,Jan 3,FUL,@LEI,W 1-0,3.2,23,0
+407,Harry Wilson,M,4,Dec 26,FUL,@CRY,W 3-0,2.0,8,0
+408,Harry Wilson,M,4,Nov 13,FUL,MUN,L 1-2,5.0,58,1
+409,Harry Wilson,M,4,Nov 5,FUL,@MCI,L 1-2,9.5,75,1
+410,Harry Wilson,M,4,Oct 29,FUL,EVE,T 0-0,2.0,22,0
+411,Harry Wilson,M,4,Oct 23,FUL,@LEE,W 3-2,3.0,62,1
+412,Harry Wilson,M,4,Oct 20,FUL,AVL,W 3-0,1.0,4,0
+413,Harry Wilson,M,4,Oct 15,FUL,BOU,T 2-2,2.35,27,0
+414,Harry Wilson,M,4,Oct 9,FUL,@WHU,L 1-3,1.0,12,0
+415,Daniel James,"M,F",5,May 28,FUL,@MUN,L 1-2,4.0,9,0
+416,Daniel James,"M,F",5,May 3,FUL,@LIV,L 0-1,3.0,9,0
+417,Daniel James,"M,F",5,Apr 30,FUL,MCI,L 1-2,1.0,13,0
+418,Daniel James,"M,F",5,Apr 25,FUL,@AVL,L 0-1,5.6,90,1
+419,Daniel James,"M,F",5,Apr 15,FUL,@EVE,W 3-1,23.75,88,1
+420,Daniel James,"M,F",5,Apr 8,FUL,WHU,L 0-1,1.0,4,0
+421,Daniel James,"M,F",5,Apr 1,FUL,@BOU,L 1-2,2.0,20,0
+422,Daniel James,"M,F",5,Mar 12,FUL,ARS,L 0-3,1.0,13,0
+423,Daniel James,"M,F",5,Jan 15,FUL,@NEW,L 0-1,1.25,11,0
+424,Daniel James,"M,F",5,Jan 12,FUL,CHE,W 2-1,0.5,1,0
+425,Daniel James,"M,F",5,Dec 31,FUL,SOU,W 2-1,2.25,27,0
+426,Daniel James,"M,F",5,Dec 26,FUL,@CRY,W 3-0,1.0,8,0
+427,Daniel James,"M,F",5,Nov 13,FUL,MUN,L 1-2,13.0,30,0
+428,Daniel James,"M,F",5,Nov 5,FUL,@MCI,L 1-2,1.25,13,0
+429,Daniel James,"M,F",5,Oct 20,FUL,AVL,W 3-0,1.0,16,0
+430,Daniel James,"M,F",5,Oct 15,FUL,BOU,T 2-2,2.75,45,1
+431,Daniel James,"M,F",5,Oct 9,FUL,@WHU,L 1-3,5.5,76,1
+432,Daniel James,"M,F",5,Oct 1,FUL,NEW,L 1-4,6.05,69,1
+433,Daniel James,"M,F",5,Sep 16,FUL,@NOT,W 3-2,4.5,19,0
+434,Daniel James,"M,F",5,Sep 3,FUL,@TOT,L 1-2,2.5,29,0
+435,Daniel James,"M,F",5,Aug 30,LEE,EVE,T 1-1,1.25,13,0
+436,Daniel James,"M,F",5,Aug 27,LEE,@BHA,L 0-1,4.1,58,1
+437,Daniel James,"M,F",5,Aug 21,LEE,CHE,W 3-0,7.1,69,1
+438,Daniel James,"M,F",5,Aug 13,LEE,@SOU,T 2-2,7.25,55,0
+439,Bobby De Cordova-Reid,"M,F",5,May 20,FUL,CRY,T 2-2,1.0,9,0
+440,Bobby De Cordova-Reid,"M,F",5,May 13,FUL,@SOU,W 2-0,2.25,20,0
+441,Bobby De Cordova-Reid,"M,F",5,May 8,FUL,LEI,W 5-3,2.0,7,0
+442,Bobby De Cordova-Reid,"M,F",5,May 3,FUL,@LIV,L 0-1,1.0,18,0
+443,Bobby De Cordova-Reid,"M,F",5,Apr 30,FUL,MCI,L 1-2,2.6,75,1
+444,Bobby De Cordova-Reid,"M,F",5,Apr 25,FUL,@AVL,L 0-1,2.5,72,0
+445,Bobby De Cordova-Reid,"M,F",5,Apr 22,FUL,LEE,W 2-1,3.35,81,1
+446,Bobby De Cordova-Reid,"M,F",5,Apr 15,FUL,@EVE,W 3-1,3.5,10,0
+447,Bobby De Cordova-Reid,"M,F",5,Apr 8,FUL,WHU,L 0-1,3.0,45,1
+448,Bobby De Cordova-Reid,"M,F",5,Apr 1,FUL,@BOU,L 1-2,8.75,68,1
+449,Bobby De Cordova-Reid,"M,F",5,Mar 12,FUL,ARS,L 0-3,10.75,90,1
+450,Bobby De Cordova-Reid,"M,F",5,Mar 6,FUL,@BRF,L 2-3,2.0,14,0
+451,Bobby De Cordova-Reid,"M,F",5,Feb 24,FUL,WOL,T 1-1,8.75,45,1
+452,Bobby De Cordova-Reid,"M,F",5,Feb 18,FUL,@BHA,W 1-0,4.5,90,1
+453,Bobby De Cordova-Reid,"M,F",5,Feb 11,FUL,NOT,W 2-0,7.1,84,1
+454,Bobby De Cordova-Reid,"M,F",5,Feb 3,FUL,@CHE,T 0-0,5.75,74,1
+455,Bobby De Cordova-Reid,"M,F",5,Jan 23,FUL,TOT,L 0-1,6.45,86,1
+456,Bobby De Cordova-Reid,"M,F",5,Jan 15,FUL,@NEW,L 0-1,7.3,88,1
+457,Bobby De Cordova-Reid,"M,F",5,Jan 12,FUL,CHE,W 2-1,3.35,67,1
+458,Bobby De Cordova-Reid,"M,F",5,Jan 3,FUL,@LEI,W 1-0,5.35,65,1
+459,Bobby De Cordova-Reid,"M,F",5,Dec 31,FUL,SOU,W 2-1,5.35,61,1
+460,Bobby De Cordova-Reid,"M,F",5,Dec 26,FUL,@CRY,W 3-0,18.75,80,1
+461,Bobby De Cordova-Reid,"M,F",5,Nov 13,FUL,MUN,L 1-2,4.5,90,1
+462,Bobby De Cordova-Reid,"M,F",5,Oct 29,FUL,EVE,T 0-0,6.6,75,1
+463,Bobby De Cordova-Reid,"M,F",5,Oct 23,FUL,@LEE,W 3-2,18.55,90,1
+464,Bobby De Cordova-Reid,"M,F",5,Oct 20,FUL,AVL,W 3-0,7.7,90,1
+465,Bobby De Cordova-Reid,"M,F",5,Oct 15,FUL,BOU,T 2-2,10.35,90,1
+466,Bobby De Cordova-Reid,"M,F",5,Oct 9,FUL,@WHU,L 1-3,7.1,90,1
+467,Bobby De Cordova-Reid,"M,F",5,Oct 1,FUL,NEW,L 1-4,13.45,90,1
+468,Bobby De Cordova-Reid,"M,F",5,Sep 16,FUL,@NOT,W 3-2,13.25,88,1
+469,Bobby De Cordova-Reid,"M,F",5,Sep 3,FUL,@TOT,L 1-2,2.35,59,1
+470,Bobby De Cordova-Reid,"M,F",5,Aug 30,FUL,BHA,W 2-1,7.0,90,1
+471,Bobby De Cordova-Reid,"M,F",5,Aug 27,FUL,@ARS,L 1-2,5.95,90,1
+472,Bobby De Cordova-Reid,"M,F",5,Aug 20,FUL,BRF,W 3-2,15.25,90,1
+473,Bobby De Cordova-Reid,"M,F",5,Aug 13,FUL,@WOL,T 0-0,8.85,88,1
+474,Bobby De Cordova-Reid,"M,F",5,Aug 6,FUL,LIV,T 2-2,7.6,88,1
+475,Willian,F,6,May 28,FUL,@MUN,L 1-2,13.35,90,1
+476,Willian,F,6,May 20,FUL,CRY,T 2-2,22.0,90,1
+477,Willian,F,6,May 13,FUL,@SOU,W 2-0,9.25,77,1
+478,Willian,F,6,May 8,FUL,LEI,W 5-3,27.85,81,1
+479,Willian,F,6,May 3,FUL,@LIV,L 0-1,6.35,79,1
+480,Willian,F,6,Apr 22,FUL,LEE,W 2-1,15.25,88,1
+481,Willian,F,6,Apr 15,FUL,@EVE,W 3-1,16.25,78,1
+482,Willian,F,6,Apr 8,FUL,WHU,L 0-1,10.25,84,1
+483,Willian,F,6,Mar 6,FUL,@BRF,L 2-3,2.85,82,1
+484,Willian,F,6,Feb 24,FUL,WOL,T 1-1,6.35,82,1
+485,Willian,F,6,Feb 18,FUL,@BHA,W 1-0,4.75,90,1
+486,Willian,F,6,Feb 11,FUL,NOT,W 2-0,17.5,71,1
+487,Willian,F,6,Feb 3,FUL,@CHE,T 0-0,15.25,74,1
+488,Willian,F,6,Jan 23,FUL,TOT,L 0-1,5.85,86,1
+489,Willian,F,6,Jan 15,FUL,@NEW,L 0-1,3.5,77,1
+490,Willian,F,6,Jan 12,FUL,CHE,W 2-1,14.75,82,1
+491,Willian,F,6,Jan 3,FUL,@LEI,W 1-0,14.5,81,1
+492,Willian,F,6,Dec 31,FUL,SOU,W 2-1,8.35,90,1
+493,Willian,F,6,Dec 26,FUL,@CRY,W 3-0,9.75,80,1
+494,Willian,F,6,Nov 13,FUL,MUN,L 1-2,7.75,90,1
+495,Willian,F,6,Nov 5,FUL,@MCI,L 1-2,4.25,79,1
+496,Willian,F,6,Oct 29,FUL,EVE,T 0-0,15.35,90,1
+497,Willian,F,6,Oct 23,FUL,@LEE,W 3-2,21.75,88,1
+498,Willian,F,6,Oct 20,FUL,AVL,W 3-0,15.0,72,1
+499,Willian,F,6,Oct 15,FUL,BOU,T 2-2,4.0,45,0
+500,Willian,F,6,Sep 16,FUL,@NOT,W 3-2,15.25,69,1
+501,Willian,F,6,Sep 3,FUL,@TOT,L 1-2,0.5,29,0
+502,Manor Solomon,F,6,May 28,FUL,@MUN,L 1-2,4.5,23,0
+503,Manor Solomon,F,6,May 20,FUL,CRY,T 2-2,1.25,9,0
+504,Manor Solomon,F,6,May 13,FUL,@SOU,W 2-0,5.75,11,0
+505,Manor Solomon,F,6,May 8,FUL,LEI,W 5-3,2.5,7,0
+506,Manor Solomon,F,6,May 3,FUL,@LIV,L 0-1,1.5,10,0
+507,Manor Solomon,F,6,Apr 30,FUL,MCI,L 1-2,4.25,13,0
+508,Manor Solomon,F,6,Apr 25,FUL,@AVL,L 0-1,6.25,66,1
+509,Manor Solomon,F,6,Apr 22,FUL,LEE,W 2-1,2.25,3,0
+510,Manor Solomon,F,6,Apr 8,FUL,WHU,L 0-1,2.6,45,0
+511,Manor Solomon,F,6,Apr 1,FUL,@BOU,L 1-2,11.35,90,1
+512,Manor Solomon,F,6,Mar 12,FUL,ARS,L 0-3,10.0,75,1
+513,Manor Solomon,F,6,Mar 6,FUL,@BRF,L 2-3,18.5,74,1
+514,Manor Solomon,F,6,Feb 24,FUL,WOL,T 1-1,15.75,45,0
+515,Manor Solomon,F,6,Feb 18,FUL,@BHA,W 1-0,11.5,7,0
+516,Manor Solomon,F,6,Feb 11,FUL,NOT,W 2-0,13.0,17,0
+517,Manor Solomon,F,6,Feb 3,FUL,@CHE,T 0-0,5.25,14,0
+518,Manor Solomon,F,6,Jan 23,FUL,TOT,L 0-1,3.75,9,0
+519,Manor Solomon,F,6,Jan 12,FUL,CHE,W 2-1,1.0,6,0
+520,Manor Solomon,F,6,Aug 6,FUL,LIV,T 2-2,1.5,23,0
+521,Aleksandar Mitrovic,F,6,May 28,FUL,@MUN,L 1-2,-1.65,79,1
+522,Aleksandar Mitrovic,F,6,May 20,FUL,CRY,T 2-2,23.5,90,1
+523,Aleksandar Mitrovic,F,6,May 13,FUL,@SOU,W 2-0,11.5,24,0
+524,Aleksandar Mitrovic,F,6,Mar 12,FUL,ARS,L 0-3,4.45,90,1
+525,Aleksandar Mitrovic,F,6,Mar 6,FUL,@BRF,L 2-3,5.85,90,1
+526,Aleksandar Mitrovic,F,6,Feb 11,FUL,NOT,W 2-0,11.0,83,1
+527,Aleksandar Mitrovic,F,6,Feb 3,FUL,@CHE,T 0-0,6.25,88,1
+528,Aleksandar Mitrovic,F,6,Jan 23,FUL,TOT,L 0-1,2.85,90,1
+529,Aleksandar Mitrovic,F,6,Jan 15,FUL,@NEW,L 0-1,-1.3,90,1
+530,Aleksandar Mitrovic,F,6,Jan 3,FUL,@LEI,W 1-0,13.1,90,1
+531,Aleksandar Mitrovic,F,6,Dec 31,FUL,SOU,W 2-1,3.35,90,1
+532,Aleksandar Mitrovic,F,6,Dec 26,FUL,@CRY,W 3-0,34.75,84,1
+533,Aleksandar Mitrovic,F,6,Oct 29,FUL,EVE,T 0-0,4.75,90,1
+534,Aleksandar Mitrovic,F,6,Oct 23,FUL,@LEE,W 3-2,14.5,88,1
+535,Aleksandar Mitrovic,F,6,Oct 20,FUL,AVL,W 3-0,16.95,83,1
+536,Aleksandar Mitrovic,F,6,Oct 15,FUL,BOU,T 2-2,18.5,90,1
+537,Aleksandar Mitrovic,F,6,Oct 1,FUL,NEW,L 1-4,-0.9,36,1
+538,Aleksandar Mitrovic,F,6,Sep 16,FUL,@NOT,W 3-2,8.0,88,1
+539,Aleksandar Mitrovic,F,6,Sep 3,FUL,@TOT,L 1-2,17.35,90,1
+540,Aleksandar Mitrovic,F,6,Aug 30,FUL,BHA,W 2-1,25.25,90,1
+541,Aleksandar Mitrovic,F,6,Aug 27,FUL,@ARS,L 1-2,18.2,90,1
+542,Aleksandar Mitrovic,F,6,Aug 20,FUL,BRF,W 3-2,22.5,88,1
+543,Aleksandar Mitrovic,F,6,Aug 13,FUL,@WOL,T 0-0,1.7,90,1
+544,Aleksandar Mitrovic,F,6,Aug 6,FUL,LIV,T 2-2,31.8,90,1
+545,Carlos Vinicius,F,6,May 28,FUL,@MUN,L 1-2,1.0,9,0
+546,Carlos Vinicius,F,6,May 13,FUL,@SOU,W 2-0,13.0,64,1
+547,Carlos Vinicius,F,6,May 8,FUL,LEI,W 5-3,19.5,90,1
+548,Carlos Vinicius,F,6,May 3,FUL,@LIV,L 0-1,8.55,78,1
+549,Carlos Vinicius,F,6,Apr 30,FUL,MCI,L 1-2,14.75,90,1
+550,Carlos Vinicius,F,6,Apr 25,FUL,@AVL,L 0-1,2.0,22,0
+551,Carlos Vinicius,F,6,Apr 22,FUL,LEE,W 2-1,0.75,7,0
+552,Carlos Vinicius,F,6,Apr 15,FUL,@EVE,W 3-1,1.0,1,0
+553,Carlos Vinicius,F,6,Apr 8,FUL,WHU,L 0-1,2.0,90,1
+554,Carlos Vinicius,F,6,Apr 1,FUL,@BOU,L 1-2,4.0,90,1
+555,Carlos Vinicius,F,6,Mar 6,FUL,@BRF,L 2-3,11.75,6,0
+556,Carlos Vinicius,F,6,Feb 24,FUL,WOL,T 1-1,8.35,90,1
+557,Carlos Vinicius,F,6,Feb 18,FUL,@BHA,W 1-0,6.75,27,0
+558,Carlos Vinicius,F,6,Feb 11,FUL,NOT,W 2-0,1.5,5,0
+559,Carlos Vinicius,F,6,Feb 3,FUL,@CHE,T 0-0,0.75,1,0
+560,Carlos Vinicius,F,6,Jan 23,FUL,TOT,L 0-1,1.0,2,0
+561,Carlos Vinicius,F,6,Jan 15,FUL,@NEW,L 0-1,0.5,1,0
+562,Carlos Vinicius,F,6,Jan 12,FUL,CHE,W 2-1,15.95,88,1
+563,Carlos Vinicius,F,6,Dec 26,FUL,@CRY,W 3-0,1.0,4,0
+564,Carlos Vinicius,F,6,Nov 13,FUL,MUN,L 1-2,8.2,90,1
+565,Carlos Vinicius,F,6,Nov 5,FUL,@MCI,L 1-2,2.6,75,1
+566,Carlos Vinicius,F,6,Oct 23,FUL,@LEE,W 3-2,-0.5,1,0
+567,Carlos Vinicius,F,6,Oct 20,FUL,AVL,W 3-0,1.0,5,0
+568,Carlos Vinicius,F,6,Oct 15,FUL,BOU,T 2-2,1.0,2,0
+569,Carlos Vinicius,F,6,Oct 9,FUL,@WHU,L 1-3,1.75,90,1
+570,Carlos Vinicius,F,6,Oct 1,FUL,NEW,L 1-4,3.75,52,0
+571,Carlos Vinicius,F,6,Sep 16,FUL,@NOT,W 3-2,0.5,1,0
+572,Carlos Vinicius,F,6,Sep 3,FUL,@TOT,L 1-2,1.25,4,0
+573,Jay Stansfield,F,6,Aug 27,FUL,@ARS,L 1-2,0.5,1,0
+574,Jay Stansfield,F,6,Aug 20,FUL,BRF,W 3-2,11.6,76,1
+575,Jay Stansfield,F,6,Aug 13,FUL,@WOL,T 0-0,1.25,6,0

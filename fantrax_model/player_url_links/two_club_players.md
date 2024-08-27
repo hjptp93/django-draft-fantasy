@@ -6,6 +6,7 @@
 4. Cedric Soares : SOU -> ARS
 5. Cenk Tosun : EVE -> CRY
 6. Danny Drinkwater : BUR -> AVL
+7. Ryan Bennett: WOL - LEI
 
 ## 2020-21
 1. Ainsley Maitland-Niles : ARS -> WBA

@@ -1,0 +1,581 @@
+,player,position,position_id,date,team,opp,score,fpts,min,starts
+0,James Trafford,G,1,Mar 10,BUR,@WHU,T 2-2,6.0,90,1
+1,James Trafford,G,1,Mar 3,BUR,BOU,L 0-2,4.0,90,1
+2,James Trafford,G,1,Feb 24,BUR,@CRY,L 0-3,7.0,90,1
+3,James Trafford,G,1,Feb 17,BUR,ARS,L 0-5,4.0,90,1
+4,James Trafford,G,1,Feb 10,BUR,@LIV,L 1-3,13.5,90,1
+5,James Trafford,G,1,Feb 3,BUR,FUL,T 2-2,13.0,90,1
+6,James Trafford,G,1,Jan 31,BUR,@MCI,L 1-3,4.0,90,1
+7,James Trafford,G,1,Jan 12,BUR,LUT,T 1-1,11.0,90,1
+8,James Trafford,G,1,Dec 30,BUR,@AVL,L 2-3,9.5,90,1
+9,James Trafford,G,1,Dec 26,BUR,LIV,L 0-2,15.5,90,1
+10,James Trafford,G,1,Dec 23,BUR,@FUL,W 2-0,21.5,90,1
+11,James Trafford,G,1,Dec 16,BUR,EVE,L 0-2,11.0,90,1
+12,James Trafford,G,1,Dec 9,BUR,@BHA,T 1-1,18.5,90,1
+13,James Trafford,G,1,Dec 5,BUR,@WOL,L 0-1,8.0,90,1
+14,James Trafford,G,1,Dec 2,BUR,SHU,W 5-0,17.0,90,1
+15,James Trafford,G,1,Nov 25,BUR,WHU,L 1-2,8.0,90,1
+16,James Trafford,G,1,Nov 11,BUR,@ARS,L 1-3,8.5,90,1
+17,James Trafford,G,1,Nov 4,BUR,CRY,L 0-2,4.0,90,1
+18,James Trafford,G,1,Oct 28,BUR,@BOU,L 1-2,13.5,90,1
+19,James Trafford,G,1,Oct 21,BUR,@BRF,L 0-3,14.5,90,1
+20,James Trafford,G,1,Oct 7,BUR,CHE,L 1-4,4.5,90,1
+21,James Trafford,G,1,Oct 3,BUR,@LUT,W 2-1,5.0,90,1
+22,James Trafford,G,1,Sep 30,BUR,@NEW,L 0-2,11.5,90,1
+23,James Trafford,G,1,Sep 23,BUR,MUN,L 0-1,8.5,90,1
+24,James Trafford,G,1,Sep 18,BUR,@NOT,T 1-1,6.5,90,1
+25,James Trafford,G,1,Sep 2,BUR,TOT,L 2-5,10.5,90,1
+26,James Trafford,G,1,Aug 27,BUR,AVL,L 1-3,9.0,90,1
+27,James Trafford,G,1,Aug 11,BUR,MCI,L 0-3,10.0,90,1
+28,Arijanet Muric,G,1,May 19,BUR,NOT,L 1-2,10.0,90,1
+29,Arijanet Muric,G,1,May 11,BUR,@TOT,L 1-2,15.0,90,1
+30,Arijanet Muric,G,1,May 4,BUR,NEW,L 1-4,21.0,90,1
+31,Arijanet Muric,G,1,Apr 27,BUR,@MUN,T 1-1,19.0,90,1
+32,Arijanet Muric,G,1,Apr 20,BUR,@SHU,W 4-1,18.5,90,1
+33,Arijanet Muric,G,1,Apr 13,BUR,BHA,T 1-1,17.5,90,1
+34,Arijanet Muric,G,1,Apr 6,BUR,@EVE,L 0-1,6.5,90,1
+35,Arijanet Muric,G,1,Apr 2,BUR,WOL,T 1-1,5.0,90,1
+36,Arijanet Muric,G,1,Mar 30,BUR,@CHE,T 2-2,21.0,90,1
+37,Arijanet Muric,G,1,Mar 16,BUR,BRF,W 2-1,13.5,90,1
+38,Connor Roberts,D,2,Jan 31,BUR,@MCI,L 1-3,-1.0,30,0
+39,Connor Roberts,D,2,Jan 12,BUR,LUT,T 1-1,2.6,15,0
+40,Connor Roberts,D,2,Dec 30,BUR,@AVL,L 2-3,1.25,15,0
+41,Connor Roberts,D,2,Dec 23,BUR,@FUL,W 2-0,1.0,9,0
+42,Connor Roberts,D,2,Dec 9,BUR,@BHA,T 1-1,3.1,10,0
+43,Connor Roberts,D,2,Oct 21,BUR,@BRF,L 0-3,2.7,77,1
+44,Connor Roberts,D,2,Oct 7,BUR,CHE,L 1-4,5.25,28,0
+45,Connor Roberts,D,2,Oct 3,BUR,@LUT,W 2-1,12.6,90,1
+46,Connor Roberts,D,2,Sep 30,BUR,@NEW,L 0-2,3.85,87,1
+47,Connor Roberts,D,2,Sep 23,BUR,MUN,L 0-1,4.8,90,1
+48,Connor Roberts,D,2,Sep 18,BUR,@NOT,T 1-1,3.95,90,1
+49,Connor Roberts,D,2,Sep 2,BUR,TOT,L 2-5,4.25,90,1
+50,Connor Roberts,D,2,Aug 27,BUR,AVL,L 1-3,6.35,90,1
+51,Connor Roberts,D,2,Aug 11,BUR,MCI,L 0-3,4.1,90,1
+52,Hjalmar Ekdal,D,2,May 4,BUR,NEW,L 1-4,3.55,45,0
+53,Hjalmar Ekdal,D,2,Apr 13,BUR,BHA,T 1-1,18.85,66,1
+54,Hjalmar Ekdal,D,2,Feb 3,BUR,FUL,T 2-2,1.45,45,1
+55,Hjalmar Ekdal,D,2,Jan 31,BUR,@MCI,L 1-3,4.4,85,1
+56,Hjalmar Ekdal,D,2,Jan 12,BUR,LUT,T 1-1,5.75,88,1
+57,Hjalmar Ekdal,D,2,Dec 9,BUR,@BHA,T 1-1,1.4,7,0
+58,Hjalmar Ekdal,D,2,Dec 5,BUR,@WOL,L 0-1,5.45,88,1
+59,Hjalmar Ekdal,D,2,Dec 2,BUR,SHU,W 5-0,1.5,6,0
+60,Maxime Esteve,D,2,May 19,BUR,NOT,L 1-2,6.65,90,1
+61,Maxime Esteve,D,2,May 11,BUR,@TOT,L 1-2,7.7,90,1
+62,Maxime Esteve,D,2,May 4,BUR,NEW,L 1-4,1.2,45,1
+63,Maxime Esteve,D,2,Apr 27,BUR,@MUN,T 1-1,5.75,90,1
+64,Maxime Esteve,D,2,Apr 20,BUR,@SHU,W 4-1,7.6,90,1
+65,Maxime Esteve,D,2,Apr 13,BUR,BHA,T 1-1,6.6,90,1
+66,Maxime Esteve,D,2,Apr 6,BUR,@EVE,L 0-1,7.65,90,1
+67,Maxime Esteve,D,2,Apr 2,BUR,WOL,T 1-1,7.95,90,1
+68,Maxime Esteve,D,2,Mar 30,BUR,@CHE,T 2-2,5.8,90,1
+69,Maxime Esteve,D,2,Mar 16,BUR,BRF,W 2-1,7.2,90,1
+70,Maxime Esteve,D,2,Mar 10,BUR,@WHU,T 2-2,7.55,90,1
+71,Maxime Esteve,D,2,Mar 3,BUR,BOU,L 0-2,9.2,90,1
+72,Maxime Esteve,D,2,Feb 24,BUR,@CRY,L 0-3,1.95,90,1
+73,Maxime Esteve,D,2,Feb 17,BUR,ARS,L 0-5,4.3,61,1
+74,Maxime Esteve,D,2,Feb 10,BUR,@LIV,L 1-3,6.2,79,1
+75,Maxime Esteve,D,2,Feb 3,BUR,FUL,T 2-2,5.45,45,0
+76,Jordan Beyer,D,2,Dec 30,BUR,@AVL,L 2-3,1.0,16,1
+77,Jordan Beyer,D,2,Dec 26,BUR,LIV,L 0-2,11.15,90,1
+78,Jordan Beyer,D,2,Dec 23,BUR,@FUL,W 2-0,15.9,90,1
+79,Jordan Beyer,D,2,Dec 16,BUR,EVE,L 0-2,6.9,90,1
+80,Jordan Beyer,D,2,Dec 9,BUR,@BHA,T 1-1,9.4,90,1
+81,Jordan Beyer,D,2,Dec 2,BUR,SHU,W 5-0,20.5,90,1
+82,Jordan Beyer,D,2,Nov 25,BUR,WHU,L 1-2,3.0,90,1
+83,Jordan Beyer,D,2,Nov 11,BUR,@ARS,L 1-3,9.05,90,1
+84,Jordan Beyer,D,2,Nov 4,BUR,CRY,L 0-2,4.55,85,1
+85,Jordan Beyer,D,2,Oct 3,BUR,@LUT,W 2-1,10.05,90,1
+86,Jordan Beyer,D,2,Sep 30,BUR,@NEW,L 0-2,7.55,90,1
+87,Jordan Beyer,D,2,Sep 23,BUR,MUN,L 0-1,5.45,90,1
+88,Jordan Beyer,D,2,Sep 18,BUR,@NOT,T 1-1,4.15,86,1
+89,Jordan Beyer,D,2,Sep 2,BUR,TOT,L 2-5,7.75,73,1
+90,Jordan Beyer,D,2,Aug 11,BUR,MCI,L 0-3,11.15,73,1
+91,Ameen Al Dakhil,D,2,Jan 31,BUR,@MCI,L 1-3,14.9,90,1
+92,Ameen Al Dakhil,D,2,Jan 12,BUR,LUT,T 1-1,11.95,90,1
+93,Ameen Al Dakhil,D,2,Dec 16,BUR,EVE,L 0-2,1.25,19,0
+94,Ameen Al Dakhil,D,2,Oct 28,BUR,@BOU,L 1-2,4.3,90,1
+95,Ameen Al Dakhil,D,2,Oct 21,BUR,@BRF,L 0-3,4.05,90,1
+96,Ameen Al Dakhil,D,2,Oct 7,BUR,CHE,L 1-4,-0.5,45,1
+97,Ameen Al Dakhil,D,2,Oct 3,BUR,@LUT,W 2-1,4.5,90,1
+98,Ameen Al Dakhil,D,2,Sep 30,BUR,@NEW,L 0-2,5.8,90,1
+99,Ameen Al Dakhil,D,2,Sep 23,BUR,MUN,L 0-1,9.3,90,1
+100,Ameen Al Dakhil,D,2,Sep 18,BUR,@NOT,T 1-1,4.85,90,1
+101,Ameen Al Dakhil,D,2,Sep 2,BUR,TOT,L 2-5,6.35,90,1
+102,Ameen Al Dakhil,D,2,Aug 27,BUR,AVL,L 1-3,5.0,90,1
+103,Ameen Al Dakhil,D,2,Aug 11,BUR,MCI,L 0-3,6.15,90,1
+104,Dara O'Shea,D,2,May 19,BUR,NOT,L 1-2,9.6,90,1
+105,Dara O'Shea,D,2,May 11,BUR,@TOT,L 1-2,9.35,90,1
+106,Dara O'Shea,D,2,May 4,BUR,NEW,L 1-4,19.6,90,1
+107,Dara O'Shea,D,2,Apr 27,BUR,@MUN,T 1-1,11.0,90,1
+108,Dara O'Shea,D,2,Apr 20,BUR,@SHU,W 4-1,5.35,90,1
+109,Dara O'Shea,D,2,Apr 6,BUR,@EVE,L 0-1,0.35,66,1
+110,Dara O'Shea,D,2,Apr 2,BUR,WOL,T 1-1,13.95,90,1
+111,Dara O'Shea,D,2,Mar 30,BUR,@CHE,T 2-2,20.15,90,1
+112,Dara O'Shea,D,2,Mar 16,BUR,BRF,W 2-1,8.85,90,1
+113,Dara O'Shea,D,2,Mar 10,BUR,@WHU,T 2-2,7.45,90,1
+114,Dara O'Shea,D,2,Mar 3,BUR,BOU,L 0-2,3.65,88,1
+115,Dara O'Shea,D,2,Feb 24,BUR,@CRY,L 0-3,4.15,90,1
+116,Dara O'Shea,D,2,Feb 17,BUR,ARS,L 0-5,4.85,90,1
+117,Dara O'Shea,D,2,Feb 10,BUR,@LIV,L 1-3,16.35,90,1
+118,Dara O'Shea,D,2,Feb 3,BUR,FUL,T 2-2,7.4,90,1
+119,Dara O'Shea,D,2,Jan 31,BUR,@MCI,L 1-3,6.4,90,1
+120,Dara O'Shea,D,2,Jan 12,BUR,LUT,T 1-1,8.45,90,1
+121,Dara O'Shea,D,2,Dec 30,BUR,@AVL,L 2-3,10.15,90,1
+122,Dara O'Shea,D,2,Dec 26,BUR,LIV,L 0-2,6.45,90,1
+123,Dara O'Shea,D,2,Dec 23,BUR,@FUL,W 2-0,14.2,90,1
+124,Dara O'Shea,D,2,Dec 16,BUR,EVE,L 0-2,6.3,90,1
+125,Dara O'Shea,D,2,Dec 9,BUR,@BHA,T 1-1,8.15,90,1
+126,Dara O'Shea,D,2,Dec 5,BUR,@WOL,L 0-1,7.4,90,1
+127,Dara O'Shea,D,2,Dec 2,BUR,SHU,W 5-0,18.8,82,1
+128,Dara O'Shea,D,2,Nov 25,BUR,WHU,L 1-2,6.85,90,1
+129,Dara O'Shea,D,2,Nov 11,BUR,@ARS,L 1-3,4.65,90,1
+130,Dara O'Shea,D,2,Nov 4,BUR,CRY,L 0-2,9.95,90,1
+131,Dara O'Shea,D,2,Oct 28,BUR,@BOU,L 1-2,15.75,90,1
+132,Dara O'Shea,D,2,Oct 21,BUR,@BRF,L 0-3,9.45,90,1
+133,Dara O'Shea,D,2,Oct 7,BUR,CHE,L 1-4,2.6,45,0
+134,Dara O'Shea,D,2,Sep 2,BUR,TOT,L 2-5,9.45,90,1
+135,Dara O'Shea,D,2,Aug 27,BUR,AVL,L 1-3,10.65,90,1
+136,Dara O'Shea,D,2,Aug 11,BUR,MCI,L 0-3,6.6,90,1
+137,Lorenz Assignon,D,2,May 19,BUR,NOT,L 1-2,2.8,45,1
+138,Lorenz Assignon,D,2,May 11,BUR,@TOT,L 1-2,5.8,90,1
+139,Lorenz Assignon,D,2,May 4,BUR,NEW,L 1-4,13.35,90,1
+140,Lorenz Assignon,D,2,Apr 27,BUR,@MUN,T 1-1,9.85,90,1
+141,Lorenz Assignon,D,2,Apr 20,BUR,@SHU,W 4-1,27.25,90,1
+142,Lorenz Assignon,D,2,Apr 13,BUR,BHA,T 1-1,9.3,90,1
+143,Lorenz Assignon,D,2,Apr 6,BUR,@EVE,L 0-1,6.0,83,1
+144,Lorenz Assignon,D,2,Mar 30,BUR,@CHE,T 2-2,0.1,39,1
+145,Lorenz Assignon,D,2,Mar 16,BUR,BRF,W 2-1,11.85,90,1
+146,Lorenz Assignon,D,2,Mar 10,BUR,@WHU,T 2-2,6.6,90,1
+147,Lorenz Assignon,D,2,Mar 3,BUR,BOU,L 0-2,8.85,90,1
+148,Lorenz Assignon,D,2,Feb 24,BUR,@CRY,L 0-3,6.95,90,1
+149,Lorenz Assignon,D,2,Feb 17,BUR,ARS,L 0-5,2.55,78,1
+150,Lorenz Assignon,D,2,Feb 10,BUR,@LIV,L 1-3,10.05,90,1
+151,Lorenz Assignon,D,2,Feb 3,BUR,FUL,T 2-2,14.05,88,1
+152,Vitinho,D,2,May 19,BUR,NOT,L 1-2,10.0,45,0
+153,Vitinho,D,2,May 11,BUR,@TOT,L 1-2,6.45,71,1
+154,Vitinho,D,2,May 4,BUR,NEW,L 1-4,5.95,90,1
+155,Vitinho,D,2,Apr 27,BUR,@MUN,T 1-1,4.95,90,1
+156,Vitinho,D,2,Apr 20,BUR,@SHU,W 4-1,13.55,69,1
+157,Vitinho,D,2,Apr 13,BUR,BHA,T 1-1,2.25,45,1
+158,Vitinho,D,2,Apr 6,BUR,@EVE,L 0-1,1.5,28,0
+159,Vitinho,D,2,Apr 2,BUR,WOL,T 1-1,13.2,90,1
+160,Vitinho,D,2,Mar 30,BUR,@CHE,T 2-2,6.65,90,1
+161,Vitinho,D,2,Mar 16,BUR,BRF,W 2-1,11.85,90,1
+162,Vitinho,D,2,Mar 10,BUR,@WHU,T 2-2,6.75,88,1
+163,Vitinho,D,2,Mar 3,BUR,BOU,L 0-2,1.25,75,1
+164,Vitinho,D,2,Feb 24,BUR,@CRY,L 0-3,3.0,14,0
+165,Vitinho,D,2,Feb 17,BUR,ARS,L 0-5,3.25,10,0
+166,Vitinho,D,2,Feb 10,BUR,@LIV,L 1-3,0.85,9,0
+167,Vitinho,D,2,Feb 3,BUR,FUL,T 2-2,7.85,86,1
+168,Vitinho,D,2,Jan 31,BUR,@MCI,L 1-3,9.05,90,1
+169,Vitinho,D,2,Jan 12,BUR,LUT,T 1-1,9.95,90,1
+170,Vitinho,D,2,Dec 30,BUR,@AVL,L 2-3,9.35,90,1
+171,Vitinho,D,2,Dec 26,BUR,LIV,L 0-2,3.6,90,1
+172,Vitinho,D,2,Dec 23,BUR,@FUL,W 2-0,17.0,90,1
+173,Vitinho,D,2,Dec 16,BUR,EVE,L 0-2,4.1,86,1
+174,Vitinho,D,2,Dec 9,BUR,@BHA,T 1-1,5.95,90,1
+175,Vitinho,D,2,Dec 5,BUR,@WOL,L 0-1,6.75,88,1
+176,Vitinho,D,2,Dec 2,BUR,SHU,W 5-0,17.1,90,1
+177,Vitinho,D,2,Nov 25,BUR,WHU,L 1-2,6.5,90,1
+178,Vitinho,D,2,Nov 11,BUR,@ARS,L 1-3,5.05,87,1
+179,Vitinho,D,2,Nov 4,BUR,CRY,L 0-2,5.35,90,1
+180,Vitinho,D,2,Oct 28,BUR,@BOU,L 1-2,5.45,90,1
+181,Vitinho,D,2,Oct 7,BUR,CHE,L 1-4,3.2,60,1
+182,Vitinho,D,2,Sep 30,BUR,@NEW,L 0-2,1.5,1,0
+183,Vitinho,D,2,Aug 11,BUR,MCI,L 0-3,5.35,90,1
+184,Hannes Delcroix,D,2,Mar 10,BUR,@WHU,T 2-2,2.4,21,0
+185,Hannes Delcroix,D,2,Feb 17,BUR,ARS,L 0-5,7.55,90,1
+186,Hannes Delcroix,D,2,Feb 10,BUR,@LIV,L 1-3,4.0,90,1
+187,Hannes Delcroix,D,2,Dec 30,BUR,@AVL,L 2-3,3.8,72,0
+188,Hannes Delcroix,D,2,Dec 23,BUR,@FUL,W 2-0,0.5,1,0
+189,Hannes Delcroix,D,2,Dec 16,BUR,EVE,L 0-2,6.7,69,1
+190,Hannes Delcroix,D,2,Oct 21,BUR,@BRF,L 0-3,2.35,9,0
+191,Hannes Delcroix,D,2,Oct 7,BUR,CHE,L 1-4,5.6,90,1
+192,Hannes Delcroix,D,2,Oct 3,BUR,@LUT,W 2-1,0.5,1,0
+193,Hannes Delcroix,D,2,Sep 18,BUR,@NOT,T 1-1,1.25,2,0
+194,Hannes Delcroix,D,2,Sep 2,BUR,TOT,L 2-5,3.1,45,0
+195,Hannes Delcroix,D,2,Aug 27,BUR,AVL,L 1-3,10.05,90,1
+196,Charlie Taylor,D,2,May 19,BUR,NOT,L 1-2,4.5,74,1
+197,Charlie Taylor,D,2,May 11,BUR,@TOT,L 1-2,5.25,90,1
+198,Charlie Taylor,D,2,Apr 20,BUR,@SHU,W 4-1,9.0,90,1
+199,Charlie Taylor,D,2,Apr 13,BUR,BHA,T 1-1,4.1,45,0
+200,Charlie Taylor,D,2,Apr 6,BUR,@EVE,L 0-1,6.1,83,1
+201,Charlie Taylor,D,2,Apr 2,BUR,WOL,T 1-1,6.45,90,1
+202,Charlie Taylor,D,2,Mar 30,BUR,@CHE,T 2-2,5.2,45,0
+203,Charlie Taylor,D,2,Mar 16,BUR,BRF,W 2-1,6.1,90,1
+204,Charlie Taylor,D,2,Mar 10,BUR,@WHU,T 2-2,6.05,90,1
+205,Charlie Taylor,D,2,Mar 3,BUR,BOU,L 0-2,6.55,90,1
+206,Charlie Taylor,D,2,Feb 24,BUR,@CRY,L 0-3,4.4,74,1
+207,Charlie Taylor,D,2,Feb 17,BUR,ARS,L 0-5,2.75,27,0
+208,Charlie Taylor,D,2,Dec 30,BUR,@AVL,L 2-3,1.8,90,1
+209,Charlie Taylor,D,2,Dec 26,BUR,LIV,L 0-2,7.55,90,1
+210,Charlie Taylor,D,2,Dec 23,BUR,@FUL,W 2-0,17.4,90,1
+211,Charlie Taylor,D,2,Dec 9,BUR,@BHA,T 1-1,4.75,90,1
+212,Charlie Taylor,D,2,Dec 5,BUR,@WOL,L 0-1,7.05,90,1
+213,Charlie Taylor,D,2,Dec 2,BUR,SHU,W 5-0,20.6,90,1
+214,Charlie Taylor,D,2,Nov 25,BUR,WHU,L 1-2,8.25,90,1
+215,Charlie Taylor,D,2,Nov 11,BUR,@ARS,L 1-3,9.2,90,1
+216,Charlie Taylor,D,2,Nov 4,BUR,CRY,L 0-2,5.85,90,1
+217,Charlie Taylor,D,2,Oct 28,BUR,@BOU,L 1-2,13.5,90,1
+218,Charlie Taylor,D,2,Oct 21,BUR,@BRF,L 0-3,5.55,90,1
+219,Charlie Taylor,D,2,Oct 7,BUR,CHE,L 1-4,5.2,90,1
+220,Charlie Taylor,D,2,Oct 3,BUR,@LUT,W 2-1,7.75,90,1
+221,Charlie Taylor,D,2,Sep 30,BUR,@NEW,L 0-2,4.55,90,1
+222,Charlie Taylor,D,2,Sep 23,BUR,MUN,L 0-1,7.45,90,1
+223,Charlie Taylor,D,2,Sep 18,BUR,@NOT,T 1-1,7.3,90,1
+224,Sander Berge,M,4,May 19,BUR,NOT,L 1-2,7.75,90,1
+225,Sander Berge,M,4,May 11,BUR,@TOT,L 1-2,14.85,90,1
+226,Sander Berge,M,4,May 4,BUR,NEW,L 1-4,6.55,90,1
+227,Sander Berge,M,4,Apr 27,BUR,@MUN,T 1-1,13.95,90,1
+228,Sander Berge,M,4,Apr 20,BUR,@SHU,W 4-1,10.35,90,1
+229,Sander Berge,M,4,Apr 13,BUR,BHA,T 1-1,7.7,90,1
+230,Sander Berge,M,4,Apr 6,BUR,@EVE,L 0-1,3.0,90,1
+231,Sander Berge,M,4,Apr 2,BUR,WOL,T 1-1,10.5,90,1
+232,Sander Berge,M,4,Mar 30,BUR,@CHE,T 2-2,7.1,90,1
+233,Sander Berge,M,4,Mar 16,BUR,BRF,W 2-1,9.1,90,1
+234,Sander Berge,M,4,Mar 10,BUR,@WHU,T 2-2,8.1,90,1
+235,Sander Berge,M,4,Mar 3,BUR,BOU,L 0-2,11.5,90,1
+236,Sander Berge,M,4,Feb 24,BUR,@CRY,L 0-3,7.1,90,1
+237,Sander Berge,M,4,Feb 17,BUR,ARS,L 0-5,9.35,90,1
+238,Sander Berge,M,4,Feb 10,BUR,@LIV,L 1-3,12.75,90,1
+239,Sander Berge,M,4,Feb 3,BUR,FUL,T 2-2,10.7,90,1
+240,Sander Berge,M,4,Jan 31,BUR,@MCI,L 1-3,11.5,90,1
+241,Sander Berge,M,4,Dec 30,BUR,@AVL,L 2-3,0.6,55,1
+242,Sander Berge,M,4,Dec 26,BUR,LIV,L 0-2,7.6,90,1
+243,Sander Berge,M,4,Dec 23,BUR,@FUL,W 2-0,20.0,90,1
+244,Sander Berge,M,4,Dec 16,BUR,EVE,L 0-2,6.7,90,1
+245,Sander Berge,M,4,Dec 9,BUR,@BHA,T 1-1,10.8,90,1
+246,Sander Berge,M,4,Dec 5,BUR,@WOL,L 0-1,6.85,90,1
+247,Sander Berge,M,4,Dec 2,BUR,SHU,W 5-0,8.85,90,1
+248,Sander Berge,M,4,Nov 25,BUR,WHU,L 1-2,12.15,90,1
+249,Sander Berge,M,4,Nov 11,BUR,@ARS,L 1-3,10.1,90,1
+250,Sander Berge,M,4,Nov 4,BUR,CRY,L 0-2,7.0,90,1
+251,Sander Berge,M,4,Oct 28,BUR,@BOU,L 1-2,6.25,29,0
+252,Sander Berge,M,4,Oct 21,BUR,@BRF,L 0-3,2.7,65,1
+253,Sander Berge,M,4,Oct 7,BUR,CHE,L 1-4,3.75,90,1
+254,Sander Berge,M,4,Oct 3,BUR,@LUT,W 2-1,17.3,90,1
+255,Sander Berge,M,4,Sep 30,BUR,@NEW,L 0-2,7.95,87,1
+256,Sander Berge,M,4,Sep 23,BUR,MUN,L 0-1,2.5,16,0
+257,Sander Berge,M,4,Sep 18,BUR,@NOT,T 1-1,4.75,25,0
+258,Sander Berge,M,4,Sep 2,BUR,TOT,L 2-5,7.0,45,1
+259,Sander Berge,M,4,Aug 27,BUR,AVL,L 1-3,2.1,67,1
+260,Sander Berge,M,4,Aug 11,BUR,MCI,L 0-3,4.25,88,1
+261,Josh Brownhill,M,4,May 19,BUR,NOT,L 1-2,4.5,14,0
+262,Josh Brownhill,M,4,May 4,BUR,NEW,L 1-4,5.6,84,1
+263,Josh Brownhill,M,4,Apr 20,BUR,@SHU,W 4-1,2.25,30,0
+264,Josh Brownhill,M,4,Apr 13,BUR,BHA,T 1-1,14.25,22,0
+265,Josh Brownhill,M,4,Apr 6,BUR,@EVE,L 0-1,2.5,20,0
+266,Josh Brownhill,M,4,Mar 30,BUR,@CHE,T 2-2,18.05,45,0
+267,Josh Brownhill,M,4,Mar 16,BUR,BRF,W 2-1,0.75,1,0
+268,Josh Brownhill,M,4,Mar 10,BUR,@WHU,T 2-2,5.65,45,0
+269,Josh Brownhill,M,4,Feb 24,BUR,@CRY,L 0-3,-3.45,34,1
+270,Josh Brownhill,M,4,Feb 17,BUR,ARS,L 0-5,9.2,90,1
+271,Josh Brownhill,M,4,Feb 10,BUR,@LIV,L 1-3,11.85,90,1
+272,Josh Brownhill,M,4,Feb 3,BUR,FUL,T 2-2,12.85,90,1
+273,Josh Brownhill,M,4,Jan 31,BUR,@MCI,L 1-3,8.85,90,1
+274,Josh Brownhill,M,4,Jan 12,BUR,LUT,T 1-1,10.55,90,1
+275,Josh Brownhill,M,4,Dec 30,BUR,@AVL,L 2-3,8.0,90,1
+276,Josh Brownhill,M,4,Dec 26,BUR,LIV,L 0-2,7.6,88,1
+277,Josh Brownhill,M,4,Dec 23,BUR,@FUL,W 2-0,8.35,90,1
+278,Josh Brownhill,M,4,Dec 16,BUR,EVE,L 0-2,9.6,90,1
+279,Josh Brownhill,M,4,Dec 9,BUR,@BHA,T 1-1,14.75,90,1
+280,Josh Brownhill,M,4,Dec 5,BUR,@WOL,L 0-1,10.2,90,1
+281,Josh Brownhill,M,4,Dec 2,BUR,SHU,W 5-0,18.6,90,1
+282,Josh Brownhill,M,4,Nov 25,BUR,WHU,L 1-2,7.85,90,1
+283,Josh Brownhill,M,4,Nov 11,BUR,@ARS,L 1-3,15.05,84,1
+284,Josh Brownhill,M,4,Nov 4,BUR,CRY,L 0-2,12.5,90,1
+285,Josh Brownhill,M,4,Oct 28,BUR,@BOU,L 1-2,9.6,90,1
+286,Josh Brownhill,M,4,Oct 21,BUR,@BRF,L 0-3,2.25,23,0
+287,Josh Brownhill,M,4,Oct 7,BUR,CHE,L 1-4,9.55,90,1
+288,Josh Brownhill,M,4,Oct 3,BUR,@LUT,W 2-1,12.05,90,1
+289,Josh Brownhill,M,4,Sep 30,BUR,@NEW,L 0-2,7.5,90,1
+290,Josh Brownhill,M,4,Sep 23,BUR,MUN,L 0-1,9.7,85,1
+291,Josh Brownhill,M,4,Sep 18,BUR,@NOT,T 1-1,9.45,90,1
+292,Josh Brownhill,M,4,Sep 2,BUR,TOT,L 2-5,11.0,45,0
+293,Josh Brownhill,M,4,Aug 11,BUR,MCI,L 0-3,0.5,1,0
+294,Josh Cullen,M,4,May 19,BUR,NOT,L 1-2,19.5,82,1
+295,Josh Cullen,M,4,May 11,BUR,@TOT,L 1-2,3.0,87,1
+296,Josh Cullen,M,4,May 4,BUR,NEW,L 1-4,12.95,90,1
+297,Josh Cullen,M,4,Apr 27,BUR,@MUN,T 1-1,6.95,90,1
+298,Josh Cullen,M,4,Apr 20,BUR,@SHU,W 4-1,16.7,90,1
+299,Josh Cullen,M,4,Apr 13,BUR,BHA,T 1-1,6.35,90,1
+300,Josh Cullen,M,4,Apr 6,BUR,@EVE,L 0-1,13.75,90,1
+301,Josh Cullen,M,4,Apr 2,BUR,WOL,T 1-1,6.85,90,1
+302,Josh Cullen,M,4,Mar 30,BUR,@CHE,T 2-2,26.35,90,1
+303,Josh Cullen,M,4,Mar 16,BUR,BRF,W 2-1,8.5,90,1
+304,Josh Cullen,M,4,Mar 10,BUR,@WHU,T 2-2,13.6,90,1
+305,Josh Cullen,M,4,Mar 3,BUR,BOU,L 0-2,5.35,88,1
+306,Josh Cullen,M,4,Feb 24,BUR,@CRY,L 0-3,5.6,52,0
+307,Josh Cullen,M,4,Jan 12,BUR,LUT,T 1-1,8.6,90,1
+308,Josh Cullen,M,4,Nov 25,BUR,WHU,L 1-2,2.75,4,0
+309,Josh Cullen,M,4,Oct 28,BUR,@BOU,L 1-2,2.0,59,1
+310,Josh Cullen,M,4,Oct 21,BUR,@BRF,L 0-3,5.7,90,1
+311,Josh Cullen,M,4,Oct 7,BUR,CHE,L 1-4,3.5,60,1
+312,Josh Cullen,M,4,Oct 3,BUR,@LUT,W 2-1,12.0,90,1
+313,Josh Cullen,M,4,Sep 30,BUR,@NEW,L 0-2,8.65,90,1
+314,Josh Cullen,M,4,Sep 23,BUR,MUN,L 0-1,9.25,90,1
+315,Josh Cullen,M,4,Sep 18,BUR,@NOT,T 1-1,8.05,90,1
+316,Josh Cullen,M,4,Sep 2,BUR,TOT,L 2-5,12.85,90,1
+317,Josh Cullen,M,4,Aug 27,BUR,AVL,L 1-3,6.6,90,1
+318,Josh Cullen,M,4,Aug 11,BUR,MCI,L 0-3,5.25,90,1
+319,Aaron Ramsey,M,4,Feb 17,BUR,ARS,L 0-5,0.95,62,1
+320,Aaron Ramsey,M,4,Feb 10,BUR,@LIV,L 1-3,7.7,80,1
+321,Aaron Ramsey,M,4,Feb 3,BUR,FUL,T 2-2,5.95,62,1
+322,Aaron Ramsey,M,4,Jan 31,BUR,@MCI,L 1-3,2.25,30,0
+323,Aaron Ramsey,M,4,Dec 30,BUR,@AVL,L 2-3,2.75,30,0
+324,Aaron Ramsey,M,4,Dec 26,BUR,LIV,L 0-2,3.0,1,0
+325,Aaron Ramsey,M,4,Dec 9,BUR,@BHA,T 1-1,2.25,20,0
+326,Aaron Ramsey,M,4,Nov 25,BUR,WHU,L 1-2,1.1,16,0
+327,Aaron Ramsey,M,4,Nov 11,BUR,@ARS,L 1-3,1.0,9,0
+328,Aaron Ramsey,M,4,Oct 7,BUR,CHE,L 1-4,2.75,28,0
+329,Aaron Ramsey,M,4,Oct 3,BUR,@LUT,W 2-1,2.25,14,0
+330,Aaron Ramsey,M,4,Sep 30,BUR,@NEW,L 0-2,3.6,66,1
+331,Aaron Ramsey,M,4,Sep 23,BUR,MUN,L 0-1,10.1,72,1
+332,Aaron Ramsey,M,4,Aug 27,BUR,AVL,L 1-3,1.1,21,0
+333,Han-Noah Massengo,M,4,Feb 10,BUR,@LIV,L 1-3,1.0,8,0
+334,Han-Noah Massengo,M,4,Feb 3,BUR,FUL,T 2-2,0.75,1,0
+335,Han-Noah Massengo,M,4,Jan 31,BUR,@MCI,L 1-3,2.0,3,0
+336,Jack Cork,M,4,May 19,BUR,NOT,L 1-2,2.25,6,0
+337,Jack Cork,M,4,Feb 24,BUR,@CRY,L 0-3,0.5,1,0
+338,Jack Cork,M,4,Jan 12,BUR,LUT,T 1-1,0.6,1,0
+339,Jack Cork,M,4,Sep 2,BUR,TOT,L 2-5,1.5,15,0
+340,Nathan Redmond,M,4,Dec 26,BUR,LIV,L 0-2,1.25,4,0
+341,Nathan Redmond,M,4,Dec 23,BUR,@FUL,W 2-0,1.0,9,0
+342,Nathan Redmond,M,4,Dec 16,BUR,EVE,L 0-2,1.0,2,0
+343,Nathan Redmond,M,4,Dec 9,BUR,@BHA,T 1-1,0.45,11,0
+344,Nathan Redmond,M,4,Dec 5,BUR,@WOL,L 0-1,0.5,1,0
+345,Nathan Redmond,M,4,Dec 2,BUR,SHU,W 5-0,3.75,12,0
+346,Nathan Redmond,M,4,Nov 4,BUR,CRY,L 0-2,2.5,11,0
+347,Nathan Redmond,M,4,Oct 28,BUR,@BOU,L 1-2,1.0,8,0
+348,Nathan Redmond,M,4,Oct 21,BUR,@BRF,L 0-3,3.25,13,0
+349,Nathan Redmond,M,4,Sep 2,BUR,TOT,L 2-5,4.0,29,0
+350,Nathan Redmond,M,4,Aug 27,BUR,AVL,L 1-3,1.35,21,0
+351,Nathan Redmond,M,4,Aug 11,BUR,MCI,L 0-3,0.5,1,0
+352,Johann Gudmundsson,M,4,May 19,BUR,NOT,L 1-2,4.75,45,0
+353,Johann Gudmundsson,M,4,May 4,BUR,NEW,L 1-4,12.5,27,0
+354,Johann Gudmundsson,M,4,Apr 27,BUR,@MUN,T 1-1,1.5,17,0
+355,Johann Gudmundsson,M,4,Apr 20,BUR,@SHU,W 4-1,11.5,19,0
+356,Johann Gudmundsson,M,4,Apr 6,BUR,@EVE,L 0-1,2.25,5,0
+357,Johann Gudmundsson,M,4,Mar 30,BUR,@CHE,T 2-2,2.45,19,0
+358,Johann Gudmundsson,M,4,Mar 10,BUR,@WHU,T 2-2,0.75,1,0
+359,Johann Gudmundsson,M,4,Mar 3,BUR,BOU,L 0-2,2.75,1,0
+360,Johann Gudmundsson,M,4,Feb 24,BUR,@CRY,L 0-3,4.7,88,1
+361,Johann Gudmundsson,M,4,Feb 17,BUR,ARS,L 0-5,6.5,45,0
+362,Johann Gudmundsson,M,4,Feb 3,BUR,FUL,T 2-2,2.0,26,0
+363,Johann Gudmundsson,M,4,Jan 31,BUR,@MCI,L 1-3,4.5,58,1
+364,Johann Gudmundsson,M,4,Jan 12,BUR,LUT,T 1-1,9.4,73,1
+365,Johann Gudmundsson,M,4,Dec 30,BUR,@AVL,L 2-3,12.6,73,1
+366,Johann Gudmundsson,M,4,Dec 26,BUR,LIV,L 0-2,4.75,28,0
+367,Johann Gudmundsson,M,4,Dec 9,BUR,@BHA,T 1-1,4.25,57,1
+368,Johann Gudmundsson,M,4,Dec 5,BUR,@WOL,L 0-1,3.85,53,0
+369,Johann Gudmundsson,M,4,Dec 2,BUR,SHU,W 5-0,6.25,24,0
+370,Johann Gudmundsson,M,4,Nov 25,BUR,WHU,L 1-2,14.35,84,1
+371,Johann Gudmundsson,M,4,Nov 11,BUR,@ARS,L 1-3,8.35,90,1
+372,Johann Gudmundsson,M,4,Nov 4,BUR,CRY,L 0-2,13.25,88,1
+373,Johann Gudmundsson,M,4,Oct 28,BUR,@BOU,L 1-2,9.1,80,1
+374,Johann Gudmundsson,M,4,Sep 23,BUR,MUN,L 0-1,1.0,19,1
+375,Johann Gudmundsson,M,4,Sep 18,BUR,@NOT,T 1-1,4.85,62,1
+376,Johann Gudmundsson,M,4,Sep 2,BUR,TOT,L 2-5,4.2,45,1
+377,Johann Gudmundsson,M,4,Aug 27,BUR,AVL,L 1-3,14.0,45,0
+378,Wilson Odobert,"M,F",5,May 19,BUR,NOT,L 1-2,8.5,90,1
+379,Wilson Odobert,"M,F",5,May 11,BUR,@TOT,L 1-2,10.75,90,1
+380,Wilson Odobert,"M,F",5,May 4,BUR,NEW,L 1-4,5.1,90,1
+381,Wilson Odobert,"M,F",5,Apr 27,BUR,@MUN,T 1-1,12.6,90,1
+382,Wilson Odobert,"M,F",5,Apr 20,BUR,@SHU,W 4-1,11.1,84,1
+383,Wilson Odobert,"M,F",5,Apr 13,BUR,BHA,T 1-1,11.0,90,1
+384,Wilson Odobert,"M,F",5,Apr 6,BUR,@EVE,L 0-1,2.75,83,1
+385,Wilson Odobert,"M,F",5,Apr 2,BUR,WOL,T 1-1,8.5,90,1
+386,Wilson Odobert,"M,F",5,Mar 30,BUR,@CHE,T 2-2,10.1,69,1
+387,Wilson Odobert,"M,F",5,Mar 16,BUR,BRF,W 2-1,14.35,90,1
+388,Wilson Odobert,"M,F",5,Mar 10,BUR,@WHU,T 2-2,3.25,67,1
+389,Wilson Odobert,"M,F",5,Mar 3,BUR,BOU,L 0-2,14.25,90,1
+390,Wilson Odobert,"M,F",5,Feb 24,BUR,@CRY,L 0-3,8.85,88,1
+391,Wilson Odobert,"M,F",5,Feb 17,BUR,ARS,L 0-5,6.5,79,1
+392,Wilson Odobert,"M,F",5,Feb 10,BUR,@LIV,L 1-3,6.75,90,1
+393,Wilson Odobert,"M,F",5,Feb 3,BUR,FUL,T 2-2,13.75,90,1
+394,Wilson Odobert,"M,F",5,Jan 31,BUR,@MCI,L 1-3,5.1,75,1
+395,Wilson Odobert,"M,F",5,Jan 12,BUR,LUT,T 1-1,13.6,83,1
+396,Wilson Odobert,"M,F",5,Dec 30,BUR,@AVL,L 2-3,4.75,73,1
+397,Wilson Odobert,"M,F",5,Dec 26,BUR,LIV,L 0-2,13.25,90,1
+398,Wilson Odobert,"M,F",5,Dec 23,BUR,@FUL,W 2-0,24.35,79,1
+399,Wilson Odobert,"M,F",5,Dec 16,BUR,EVE,L 0-2,10.75,86,1
+400,Wilson Odobert,"M,F",5,Dec 9,BUR,@BHA,T 1-1,13.7,77,1
+401,Wilson Odobert,"M,F",5,Dec 5,BUR,@WOL,L 0-1,0.5,1,0
+402,Wilson Odobert,"M,F",5,Nov 11,BUR,@ARS,L 1-3,1.5,1,0
+403,Wilson Odobert,"M,F",5,Nov 4,BUR,CRY,L 0-2,5.0,11,0
+404,Wilson Odobert,"M,F",5,Oct 21,BUR,@BRF,L 0-3,3.0,45,1
+405,Wilson Odobert,"M,F",5,Oct 7,BUR,CHE,L 1-4,18.75,78,1
+406,Wilson Odobert,"M,F",5,Sep 30,BUR,@NEW,L 0-2,4.35,22,0
+407,Jacob Bruun Larsen,"M,F",5,May 19,BUR,NOT,L 1-2,7.75,45,1
+408,Jacob Bruun Larsen,"M,F",5,May 11,BUR,@TOT,L 1-2,18.2,80,1
+409,Jacob Bruun Larsen,"M,F",5,May 4,BUR,NEW,L 1-4,8.7,61,1
+410,Jacob Bruun Larsen,"M,F",5,Apr 27,BUR,@MUN,T 1-1,7.55,71,1
+411,Jacob Bruun Larsen,"M,F",5,Apr 20,BUR,@SHU,W 4-1,17.05,58,1
+412,Jacob Bruun Larsen,"M,F",5,Apr 13,BUR,BHA,T 1-1,5.35,85,1
+413,Jacob Bruun Larsen,"M,F",5,Apr 6,BUR,@EVE,L 0-1,6.85,68,1
+414,Jacob Bruun Larsen,"M,F",5,Apr 2,BUR,WOL,T 1-1,18.7,72,1
+415,Jacob Bruun Larsen,"M,F",5,Mar 30,BUR,@CHE,T 2-2,6.7,45,1
+416,Jacob Bruun Larsen,"M,F",5,Mar 16,BUR,BRF,W 2-1,19.75,68,1
+417,Jacob Bruun Larsen,"M,F",5,Mar 10,BUR,@WHU,T 2-2,6.5,45,1
+418,Jacob Bruun Larsen,"M,F",5,Mar 3,BUR,BOU,L 0-2,10.75,68,1
+419,Jacob Bruun Larsen,"M,F",5,Feb 17,BUR,ARS,L 0-5,1.25,9,0
+420,Jacob Bruun Larsen,"M,F",5,Feb 10,BUR,@LIV,L 1-3,2.25,3,0
+421,Jacob Bruun Larsen,"M,F",5,Feb 3,BUR,FUL,T 2-2,1.5,2,0
+422,Jacob Bruun Larsen,"M,F",5,Jan 12,BUR,LUT,T 1-1,2.0,5,0
+423,Jacob Bruun Larsen,"M,F",5,Dec 26,BUR,LIV,L 0-2,1.25,4,0
+424,Jacob Bruun Larsen,"M,F",5,Dec 23,BUR,@FUL,W 2-0,1.85,45,1
+425,Jacob Bruun Larsen,"M,F",5,Dec 16,BUR,EVE,L 0-2,6.85,81,1
+426,Jacob Bruun Larsen,"M,F",5,Dec 5,BUR,@WOL,L 0-1,6.5,69,1
+427,Jacob Bruun Larsen,"M,F",5,Dec 2,BUR,SHU,W 5-0,17.5,64,1
+428,Jacob Bruun Larsen,"M,F",5,Nov 11,BUR,@ARS,L 1-3,1.0,9,0
+429,Jacob Bruun Larsen,"M,F",5,Nov 4,BUR,CRY,L 0-2,0.5,1,0
+430,Jacob Bruun Larsen,"M,F",5,Oct 28,BUR,@BOU,L 1-2,3.25,21,0
+431,Jacob Bruun Larsen,"M,F",5,Oct 21,BUR,@BRF,L 0-3,1.5,13,0
+432,Jacob Bruun Larsen,"M,F",5,Oct 7,BUR,CHE,L 1-4,3.0,10,0
+433,Jacob Bruun Larsen,"M,F",5,Oct 3,BUR,@LUT,W 2-1,11.0,15,0
+434,Jacob Bruun Larsen,"M,F",5,Sep 30,BUR,@NEW,L 0-2,2.1,31,0
+435,Jacob Bruun Larsen,"M,F",5,Sep 23,BUR,MUN,L 0-1,5.25,16,0
+436,Jacob Bruun Larsen,"M,F",5,Sep 2,BUR,TOT,L 2-5,3.1,21,0
+437,Jacob Bruun Larsen,"M,F",5,Aug 27,BUR,AVL,L 1-3,1.5,8,0
+438,Jacob Bruun Larsen,"M,F",5,Aug 11,BUR,MCI,L 0-3,1.6,28,0
+439,Luca Koleosho,"M,F",5,Dec 5,BUR,@WOL,L 0-1,3.5,35,1
+440,Luca Koleosho,"M,F",5,Dec 2,BUR,SHU,W 5-0,15.25,75,1
+441,Luca Koleosho,"M,F",5,Nov 25,BUR,WHU,L 1-2,8.25,80,1
+442,Luca Koleosho,"M,F",5,Nov 11,BUR,@ARS,L 1-3,4.75,79,1
+443,Luca Koleosho,"M,F",5,Nov 4,BUR,CRY,L 0-2,9.75,77,1
+444,Luca Koleosho,"M,F",5,Oct 28,BUR,@BOU,L 1-2,5.25,80,1
+445,Luca Koleosho,"M,F",5,Oct 21,BUR,@BRF,L 0-3,7.5,45,0
+446,Luca Koleosho,"M,F",5,Oct 7,BUR,CHE,L 1-4,6.75,28,0
+447,Luca Koleosho,"M,F",5,Oct 3,BUR,@LUT,W 2-1,6.5,73,1
+448,Luca Koleosho,"M,F",5,Sep 30,BUR,@NEW,L 0-2,6.25,57,1
+449,Luca Koleosho,"M,F",5,Sep 23,BUR,MUN,L 0-1,6.5,72,1
+450,Luca Koleosho,"M,F",5,Sep 18,BUR,@NOT,T 1-1,8.75,75,1
+451,Luca Koleosho,"M,F",5,Sep 2,BUR,TOT,L 2-5,14.25,67,1
+452,Luca Koleosho,"M,F",5,Aug 27,BUR,AVL,L 1-3,9.0,67,1
+453,Luca Koleosho,"M,F",5,Aug 11,BUR,MCI,L 0-3,5.25,60,1
+454,Lyle Foster,F,6,May 19,BUR,NOT,L 1-2,5.85,90,1
+455,Lyle Foster,F,6,May 11,BUR,@TOT,L 1-2,3.75,86,1
+456,Lyle Foster,F,6,May 4,BUR,NEW,L 1-4,5.95,84,1
+457,Lyle Foster,F,6,Apr 27,BUR,@MUN,T 1-1,8.85,90,1
+458,Lyle Foster,F,6,Apr 20,BUR,@SHU,W 4-1,18.65,83,1
+459,Lyle Foster,F,6,Apr 13,BUR,BHA,T 1-1,3.75,90,1
+460,Lyle Foster,F,6,Apr 6,BUR,@EVE,L 0-1,7.3,90,1
+461,Lyle Foster,F,6,Apr 2,BUR,WOL,T 1-1,9.1,85,1
+462,Lyle Foster,F,6,Mar 30,BUR,@CHE,T 2-2,9.45,68,1
+463,Lyle Foster,F,6,Mar 16,BUR,BRF,W 2-1,1.35,1,0
+464,Lyle Foster,F,6,Feb 3,BUR,FUL,T 2-2,8.65,90,1
+465,Lyle Foster,F,6,Jan 31,BUR,@MCI,L 1-3,3.1,58,1
+466,Lyle Foster,F,6,Jan 12,BUR,LUT,T 1-1,8.0,90,1
+467,Lyle Foster,F,6,Dec 30,BUR,@AVL,L 2-3,20.25,90,1
+468,Lyle Foster,F,6,Dec 26,BUR,LIV,L 0-2,6.35,84,1
+469,Lyle Foster,F,6,Dec 23,BUR,@FUL,W 2-0,11.75,64,1
+470,Lyle Foster,F,6,Dec 16,BUR,EVE,L 0-2,4.35,45,0
+471,Lyle Foster,F,6,Oct 21,BUR,@BRF,L 0-3,5.6,90,1
+472,Lyle Foster,F,6,Oct 7,BUR,CHE,L 1-4,12.5,90,1
+473,Lyle Foster,F,6,Oct 3,BUR,@LUT,W 2-1,14.85,79,1
+474,Lyle Foster,F,6,Sep 18,BUR,@NOT,T 1-1,9.15,88,1
+475,Lyle Foster,F,6,Sep 2,BUR,TOT,L 2-5,17.45,90,1
+476,Lyle Foster,F,6,Aug 27,BUR,AVL,L 1-3,11.1,80,1
+477,Lyle Foster,F,6,Aug 11,BUR,MCI,L 0-3,6.45,88,1
+478,David Datro Fofana,F,6,May 11,BUR,@TOT,L 1-2,1.25,2,0
+479,David Datro Fofana,F,6,May 4,BUR,NEW,L 1-4,2.0,4,0
+480,David Datro Fofana,F,6,Apr 27,BUR,@MUN,T 1-1,7.5,56,1
+481,David Datro Fofana,F,6,Apr 20,BUR,@SHU,W 4-1,1.0,5,0
+482,David Datro Fofana,F,6,Apr 13,BUR,BHA,T 1-1,2.5,61,1
+483,David Datro Fofana,F,6,Apr 6,BUR,@EVE,L 0-1,7.6,60,1
+484,David Datro Fofana,F,6,Apr 2,BUR,WOL,T 1-1,6.0,90,1
+485,David Datro Fofana,F,6,Mar 16,BUR,BRF,W 2-1,14.85,87,1
+486,David Datro Fofana,F,6,Mar 10,BUR,@WHU,T 2-2,22.5,90,1
+487,David Datro Fofana,F,6,Mar 3,BUR,BOU,L 0-2,8.25,90,1
+488,David Datro Fofana,F,6,Feb 24,BUR,@CRY,L 0-3,4.5,88,1
+489,David Datro Fofana,F,6,Feb 17,BUR,ARS,L 0-5,3.25,90,1
+490,David Datro Fofana,F,6,Feb 10,BUR,@LIV,L 1-3,9.0,90,1
+491,David Datro Fofana,F,6,Feb 3,BUR,FUL,T 2-2,21.0,26,0
+492,David Datro Fofana,F,6,Jan 31,BUR,@MCI,L 1-3,8.5,30,0
+493,Zeki Amdouni,F,6,May 19,BUR,NOT,L 1-2,4.75,74,1
+494,Zeki Amdouni,F,6,May 11,BUR,@TOT,L 1-2,0.5,1,0
+495,Zeki Amdouni,F,6,May 4,BUR,NEW,L 1-4,1.0,4,0
+496,Zeki Amdouni,F,6,Apr 27,BUR,@MUN,T 1-1,14.0,32,0
+497,Zeki Amdouni,F,6,Apr 20,BUR,@SHU,W 4-1,1.25,4,0
+498,Zeki Amdouni,F,6,Apr 6,BUR,@EVE,L 0-1,1.5,5,0
+499,Zeki Amdouni,F,6,Mar 30,BUR,@CHE,T 2-2,1.75,45,1
+500,Zeki Amdouni,F,6,Mar 16,BUR,BRF,W 2-1,3.25,19,0
+501,Zeki Amdouni,F,6,Mar 3,BUR,BOU,L 0-2,2.35,20,0
+502,Zeki Amdouni,F,6,Feb 24,BUR,@CRY,L 0-3,1.25,36,1
+503,Zeki Amdouni,F,6,Feb 17,BUR,ARS,L 0-5,3.1,45,1
+504,Zeki Amdouni,F,6,Feb 10,BUR,@LIV,L 1-3,11.6,85,1
+505,Zeki Amdouni,F,6,Feb 3,BUR,FUL,T 2-2,5.5,62,1
+506,Zeki Amdouni,F,6,Jan 31,BUR,@MCI,L 1-3,3.75,58,1
+507,Zeki Amdouni,F,6,Jan 12,BUR,LUT,T 1-1,16.0,82,1
+508,Zeki Amdouni,F,6,Dec 30,BUR,@AVL,L 2-3,19.0,58,1
+509,Zeki Amdouni,F,6,Dec 26,BUR,LIV,L 0-2,5.25,84,1
+510,Zeki Amdouni,F,6,Dec 23,BUR,@FUL,W 2-0,8.1,79,1
+511,Zeki Amdouni,F,6,Dec 16,BUR,EVE,L 0-2,8.0,90,1
+512,Zeki Amdouni,F,6,Dec 9,BUR,@BHA,T 1-1,7.25,81,1
+513,Zeki Amdouni,F,6,Dec 5,BUR,@WOL,L 0-1,4.85,90,1
+514,Zeki Amdouni,F,6,Dec 2,BUR,SHU,W 5-0,25.75,76,1
+515,Zeki Amdouni,F,6,Nov 25,BUR,WHU,L 1-2,8.1,72,1
+516,Zeki Amdouni,F,6,Nov 11,BUR,@ARS,L 1-3,6.5,79,1
+517,Zeki Amdouni,F,6,Nov 4,BUR,CRY,L 0-2,7.0,77,1
+518,Zeki Amdouni,F,6,Oct 28,BUR,@BOU,L 1-2,3.85,45,1
+519,Zeki Amdouni,F,6,Oct 21,BUR,@BRF,L 0-3,8.0,75,1
+520,Zeki Amdouni,F,6,Oct 3,BUR,@LUT,W 2-1,9.95,73,1
+521,Zeki Amdouni,F,6,Sep 30,BUR,@NEW,L 0-2,5.25,57,1
+522,Zeki Amdouni,F,6,Sep 23,BUR,MUN,L 0-1,7.0,72,1
+523,Zeki Amdouni,F,6,Sep 18,BUR,@NOT,T 1-1,16.0,63,1
+524,Zeki Amdouni,F,6,Sep 2,BUR,TOT,L 2-5,7.5,59,1
+525,Zeki Amdouni,F,6,Aug 27,BUR,AVL,L 1-3,6.0,80,1
+526,Zeki Amdouni,F,6,Aug 11,BUR,MCI,L 0-3,8.35,60,1
+527,Mike Tresor,F,6,May 11,BUR,@TOT,L 1-2,1.0,8,0
+528,Mike Tresor,F,6,Apr 13,BUR,BHA,T 1-1,2.25,3,0
+529,Mike Tresor,F,6,Jan 12,BUR,LUT,T 1-1,3.25,6,0
+530,Mike Tresor,F,6,Dec 30,BUR,@AVL,L 2-3,1.5,15,0
+531,Mike Tresor,F,6,Dec 26,BUR,LIV,L 0-2,11.0,60,1
+532,Mike Tresor,F,6,Dec 23,BUR,@FUL,W 2-0,4.25,43,0
+533,Mike Tresor,F,6,Dec 16,BUR,EVE,L 0-2,1.5,2,0
+534,Mike Tresor,F,6,Dec 9,BUR,@BHA,T 1-1,4.0,11,0
+535,Mike Tresor,F,6,Dec 5,BUR,@WOL,L 0-1,2.0,19,0
+536,Mike Tresor,F,6,Dec 2,BUR,SHU,W 5-0,2.25,13,0
+537,Mike Tresor,F,6,Nov 4,BUR,CRY,L 0-2,1.25,3,0
+538,Mike Tresor,F,6,Oct 28,BUR,@BOU,L 1-2,1.0,8,0
+539,Mike Tresor,F,6,Oct 21,BUR,@BRF,L 0-3,5.25,65,1
+540,Mike Tresor,F,6,Oct 7,BUR,CHE,L 1-4,4.75,60,1
+541,Mike Tresor,F,6,Sep 23,BUR,MUN,L 0-1,5.1,69,0
+542,Mike Tresor,F,6,Sep 18,BUR,@NOT,T 1-1,2.0,13,0
+543,Anass Zarouri,F,6,Jan 31,BUR,@MCI,L 1-3,3.0,13,0
+544,Anass Zarouri,F,6,Nov 25,BUR,WHU,L 1-2,1.25,8,0
+545,Anass Zarouri,F,6,Oct 28,BUR,@BOU,L 1-2,5.6,67,1
+546,Anass Zarouri,F,6,Sep 30,BUR,@NEW,L 0-2,1.5,1,0
+547,Anass Zarouri,F,6,Sep 18,BUR,@NOT,T 1-1,1.5,26,0
+548,Anass Zarouri,F,6,Aug 11,BUR,MCI,L 0-3,-2.75,27,0
+549,Benson Manuel,F,6,May 11,BUR,@TOT,L 1-2,0.75,17,0
+550,Benson Manuel,F,6,Apr 2,BUR,WOL,T 1-1,3.25,3,0
+551,Benson Manuel,F,6,Mar 3,BUR,BOU,L 0-2,4.25,13,0
+552,Benson Manuel,F,6,Feb 24,BUR,@CRY,L 0-3,0.0,1,0
+553,Benson Manuel,F,6,Dec 16,BUR,EVE,L 0-2,1.5,7,0
+554,Benson Manuel,F,6,Sep 23,BUR,MUN,L 0-1,5.25,3,0
+555,Benson Manuel,F,6,Aug 27,BUR,AVL,L 1-3,4.5,45,1
+556,Benson Manuel,F,6,Aug 11,BUR,MCI,L 0-3,1.0,15,0
+557,Michael Obafemi,F,6,Dec 2,BUR,SHU,W 5-0,2.75,13,0
+558,Michael Obafemi,F,6,Nov 11,BUR,@ARS,L 1-3,2.0,4,0
+559,Jay Rodriguez,F,6,May 19,BUR,NOT,L 1-2,1.0,14,0
+560,Jay Rodriguez,F,6,Apr 13,BUR,BHA,T 1-1,4.25,27,0
+561,Jay Rodriguez,F,6,Apr 6,BUR,@EVE,L 0-1,2.0,5,0
+562,Jay Rodriguez,F,6,Apr 2,BUR,WOL,T 1-1,1.0,16,0
+563,Jay Rodriguez,F,6,Mar 30,BUR,@CHE,T 2-2,3.0,20,0
+564,Jay Rodriguez,F,6,Mar 3,BUR,BOU,L 0-2,0.5,1,0
+565,Jay Rodriguez,F,6,Feb 24,BUR,@CRY,L 0-3,0.6,1,0
+566,Jay Rodriguez,F,6,Feb 17,BUR,ARS,L 0-5,2.75,26,0
+567,Jay Rodriguez,F,6,Dec 23,BUR,@FUL,W 2-0,3.0,24,0
+568,Jay Rodriguez,F,6,Dec 16,BUR,EVE,L 0-2,2.75,45,1
+569,Jay Rodriguez,F,6,Dec 9,BUR,@BHA,T 1-1,14.35,77,1
+570,Jay Rodriguez,F,6,Dec 5,BUR,@WOL,L 0-1,8.0,90,1
+571,Jay Rodriguez,F,6,Dec 2,BUR,SHU,W 5-0,14.35,75,1
+572,Jay Rodriguez,F,6,Nov 25,BUR,WHU,L 1-2,18.0,90,1
+573,Jay Rodriguez,F,6,Nov 11,BUR,@ARS,L 1-3,7.3,90,1
+574,Jay Rodriguez,F,6,Nov 4,BUR,CRY,L 0-2,9.75,90,1
+575,Jay Rodriguez,F,6,Oct 28,BUR,@BOU,L 1-2,1.35,45,0
+576,Jay Rodriguez,F,6,Oct 3,BUR,@LUT,W 2-1,2.0,9,0
+577,Jay Rodriguez,F,6,Sep 30,BUR,@NEW,L 0-2,2.0,31,0
+578,Jay Rodriguez,F,6,Sep 23,BUR,MUN,L 0-1,1.5,16,0
+579,Jay Rodriguez,F,6,Aug 27,BUR,AVL,L 1-3,1.0,8,0

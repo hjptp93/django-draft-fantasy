@@ -18,7 +18,7 @@ startTime = datetime.now()
 
 # Take in arguments from the command line:
 parser = argparse.ArgumentParser()
-parser.add_argument("-s", "--season", default="2022-23", help="The EPL Season of interest")
+parser.add_argument("-s", "--season", default="2023-24", help="The EPL Season of interest")
 parser.add_argument("-c", "--club",  help="The EPL club of interest")
 args = parser.parse_args()
 
@@ -134,7 +134,7 @@ season_file_dict = {'2019-20': ['links_19_20', 'minute_data_19_20'],
                     '2020-21': ['links_20_21', 'minute_data_20_21'],
                     '2021-22': ['links_21_22', 'minute_data_21_22'],
                     '2022-23': ['links_22_23', 'minute_data_22_23'],
-                    '2023-24': ['links_24_24', 'minute_data_23_24']}
+                    '2023-24': ['links_23_24', 'minute_data_23_24']}
 
 club_links = pd.read_csv('player_url_links/' + season_file_dict[args.season][0] + '/' + args.club + '_links.csv')
 club_data = handle(club_links)

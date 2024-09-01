@@ -1,0 +1,574 @@
+,player,position,position_id,date,team,opp,score,fpts,min,starts
+0,Matt Turner,G,1,Jan 30,NOT,ARS,L 1-2,6.0,90,1
+1,Matt Turner,G,1,Jan 20,NOT,@BRF,L 2-3,7.0,90,1
+2,Matt Turner,G,1,Dec 30,NOT,MUN,W 2-1,10.5,90,1
+3,Matt Turner,G,1,Dec 26,NOT,@NEW,W 3-1,12.0,90,1
+4,Matt Turner,G,1,Dec 23,NOT,BOU,L 2-3,7.0,90,1
+5,Matt Turner,G,1,Dec 15,NOT,TOT,L 0-2,8.5,90,1
+6,Matt Turner,G,1,Dec 9,NOT,@WOL,T 1-1,7.5,90,1
+7,Matt Turner,G,1,Oct 29,NOT,@LIV,L 0-3,9.5,90,1
+8,Matt Turner,G,1,Oct 21,NOT,LUT,T 2-2,6.5,90,1
+9,Matt Turner,G,1,Oct 7,NOT,@CRY,T 0-0,17.0,90,1
+10,Matt Turner,G,1,Oct 1,NOT,BRF,T 1-1,9.0,90,1
+11,Matt Turner,G,1,Sep 23,NOT,@MCI,L 0-2,5.5,90,1
+12,Matt Turner,G,1,Sep 18,NOT,BUR,T 1-1,6.0,90,1
+13,Matt Turner,G,1,Sep 2,NOT,@CHE,W 1-0,13.5,90,1
+14,Matt Turner,G,1,Aug 26,NOT,@MUN,L 2-3,12.5,90,1
+15,Matt Turner,G,1,Aug 18,NOT,SHU,W 2-1,7.5,90,1
+16,Matt Turner,G,1,Aug 12,NOT,@ARS,L 1-2,10.0,90,1
+17,Odysseas Vlachodimos,G,1,Dec 6,NOT,@FUL,L 0-5,3.0,90,1
+18,Odysseas Vlachodimos,G,1,Dec 2,NOT,EVE,L 0-1,5.0,90,1
+19,Odysseas Vlachodimos,G,1,Nov 25,NOT,BHA,L 2-3,5.0,90,1
+20,Odysseas Vlachodimos,G,1,Nov 12,NOT,@WHU,L 2-3,9.0,90,1
+21,Odysseas Vlachodimos,G,1,Nov 5,NOT,AVL,W 2-0,17.5,90,1
+22,Matz Sels,G,1,May 19,NOT,@BUR,W 2-1,9.5,90,1
+23,Matz Sels,G,1,May 11,NOT,CHE,L 2-3,6.5,90,1
+24,Matz Sels,G,1,May 4,NOT,@SHU,W 3-1,9.0,90,1
+25,Matz Sels,G,1,Apr 28,NOT,MCI,L 0-2,7.0,90,1
+26,Matz Sels,G,1,Apr 21,NOT,@EVE,L 0-2,7.5,90,1
+27,Matz Sels,G,1,Apr 13,NOT,WOL,T 2-2,4.0,90,1
+28,Matz Sels,G,1,Apr 7,NOT,@TOT,L 1-3,11.0,90,1
+29,Matz Sels,G,1,Apr 2,NOT,FUL,W 3-1,7.0,90,1
+30,Matz Sels,G,1,Mar 30,NOT,CRY,T 1-1,6.5,90,1
+31,Matz Sels,G,1,Mar 16,NOT,@LUT,T 1-1,7.0,90,1
+32,Matz Sels,G,1,Mar 10,NOT,@BHA,L 0-1,8.5,90,1
+33,Matz Sels,G,1,Mar 2,NOT,LIV,L 0-1,5.5,90,1
+34,Matz Sels,G,1,Feb 24,NOT,@AVL,L 2-4,5.5,90,1
+35,Matz Sels,G,1,Feb 17,NOT,WHU,W 2-0,16.5,90,1
+36,Matz Sels,G,1,Feb 10,NOT,NEW,L 2-3,5.5,90,1
+37,Matz Sels,G,1,Feb 4,NOT,@BOU,T 1-1,4.0,90,1
+38,Neco Williams,D,2,Apr 28,NOT,MCI,L 0-2,3.35,34,1
+39,Neco Williams,D,2,Apr 21,NOT,@EVE,L 0-2,10.3,90,1
+40,Neco Williams,D,2,Apr 13,NOT,WOL,T 2-2,8.25,90,1
+41,Neco Williams,D,2,Apr 7,NOT,@TOT,L 1-3,8.95,86,1
+42,Neco Williams,D,2,Apr 2,NOT,FUL,W 3-1,6.5,90,1
+43,Neco Williams,D,2,Mar 30,NOT,CRY,T 1-1,7.55,90,1
+44,Neco Williams,D,2,Mar 16,NOT,@LUT,T 1-1,9.6,90,1
+45,Neco Williams,D,2,Mar 10,NOT,@BHA,L 0-1,8.75,90,1
+46,Neco Williams,D,2,Mar 2,NOT,LIV,L 0-1,9.9,90,1
+47,Neco Williams,D,2,Feb 24,NOT,@AVL,L 2-4,6.25,90,1
+48,Neco Williams,D,2,Feb 17,NOT,WHU,W 2-0,15.1,90,1
+49,Neco Williams,D,2,Feb 10,NOT,NEW,L 2-3,5.1,90,1
+50,Neco Williams,D,2,Feb 4,NOT,@BOU,T 1-1,7.6,77,1
+51,Neco Williams,D,2,Jan 30,NOT,ARS,L 1-2,5.95,77,1
+52,Neco Williams,D,2,Jan 20,NOT,@BRF,L 2-3,5.0,27,0
+53,Neco Williams,D,2,Dec 30,NOT,MUN,W 2-1,2.6,15,0
+54,Neco Williams,D,2,Dec 26,NOT,@NEW,W 3-1,1.45,19,0
+55,Neco Williams,D,2,Dec 23,NOT,BOU,L 2-3,15.25,90,1
+56,Neco Williams,D,2,Dec 15,NOT,TOT,L 0-2,12.3,90,1
+57,Neco Williams,D,2,Dec 9,NOT,@WOL,T 1-1,20.45,90,1
+58,Neco Williams,D,2,Nov 25,NOT,BHA,L 2-3,3.0,1,0
+59,Neco Williams,D,2,Nov 5,NOT,AVL,W 2-0,3.5,3,0
+60,Neco Williams,D,2,Oct 29,NOT,@LIV,L 0-3,1.0,6,0
+61,Neco Williams,D,2,Oct 21,NOT,LUT,T 2-2,1.25,1,0
+62,Neco Williams,D,2,Aug 18,NOT,SHU,W 2-1,12.35,90,1
+63,Neco Williams,D,2,Aug 12,NOT,@ARS,L 1-2,3.75,17,0
+64,Serge Aurier,D,2,Dec 2,NOT,EVE,L 0-1,13.15,90,1
+65,Serge Aurier,D,2,Nov 12,NOT,@WHU,L 2-3,2.45,13,0
+66,Serge Aurier,D,2,Nov 5,NOT,AVL,W 2-0,1.85,18,0
+67,Serge Aurier,D,2,Oct 29,NOT,@LIV,L 0-3,9.35,90,1
+68,Serge Aurier,D,2,Oct 21,NOT,LUT,T 2-2,8.25,87,1
+69,Serge Aurier,D,2,Oct 7,NOT,@CRY,T 0-0,5.55,45,1
+70,Serge Aurier,D,2,Oct 1,NOT,BRF,T 1-1,7.1,90,1
+71,Serge Aurier,D,2,Sep 23,NOT,@MCI,L 0-2,2.6,55,1
+72,Serge Aurier,D,2,Sep 2,NOT,@CHE,W 1-0,12.95,71,1
+73,Serge Aurier,D,2,Aug 26,NOT,@MUN,L 2-3,8.35,90,1
+74,Serge Aurier,D,2,Aug 18,NOT,SHU,W 2-1,20.0,90,1
+75,Serge Aurier,D,2,Aug 12,NOT,@ARS,L 1-2,6.85,90,1
+76,Gonzalo Montiel,D,2,May 19,NOT,@BUR,W 2-1,13.6,90,1
+77,Gonzalo Montiel,D,2,May 11,NOT,CHE,L 2-3,6.6,71,1
+78,Gonzalo Montiel,D,2,May 4,NOT,@SHU,W 3-1,3.0,82,1
+79,Gonzalo Montiel,D,2,Apr 28,NOT,MCI,L 0-2,7.1,54,0
+80,Gonzalo Montiel,D,2,Apr 7,NOT,@TOT,L 1-3,1.25,2,0
+81,Gonzalo Montiel,D,2,Feb 4,NOT,@BOU,T 1-1,1.0,11,0
+82,Gonzalo Montiel,D,2,Jan 30,NOT,ARS,L 1-2,17.35,90,1
+83,Gonzalo Montiel,D,2,Jan 20,NOT,@BRF,L 2-3,4.8,85,1
+84,Gonzalo Montiel,D,2,Dec 30,NOT,MUN,W 2-1,19.15,73,1
+85,Gonzalo Montiel,D,2,Dec 26,NOT,@NEW,W 3-1,8.65,69,1
+86,Gonzalo Montiel,D,2,Oct 7,NOT,@CRY,T 0-0,3.05,45,0
+87,Gonzalo Montiel,D,2,Sep 23,NOT,@MCI,L 0-2,5.5,50,0
+88,Gonzalo Montiel,D,2,Sep 18,NOT,BUR,T 1-1,2.35,52,1
+89,Gonzalo Montiel,D,2,Sep 2,NOT,@CHE,W 1-0,1.35,17,0
+90,Joe Worrall,D,2,Dec 26,NOT,@NEW,W 3-1,1.25,1,0
+91,Joe Worrall,D,2,Oct 21,NOT,LUT,T 2-2,1.55,11,0
+92,Joe Worrall,D,2,Sep 18,NOT,BUR,T 1-1,6.05,90,1
+93,Joe Worrall,D,2,Sep 2,NOT,@CHE,W 1-0,16.95,90,1
+94,Joe Worrall,D,2,Aug 26,NOT,@MUN,L 2-3,-1.45,66,1
+95,Joe Worrall,D,2,Aug 18,NOT,SHU,W 2-1,9.75,90,1
+96,Joe Worrall,D,2,Aug 12,NOT,@ARS,L 1-2,6.5,88,1
+97,Moussa Niakhate,D,2,May 19,NOT,@BUR,W 2-1,3.45,9,0
+98,Moussa Niakhate,D,2,May 11,NOT,CHE,L 2-3,3.8,85,1
+99,Moussa Niakhate,D,2,May 4,NOT,@SHU,W 3-1,3.1,22,0
+100,Moussa Niakhate,D,2,Apr 28,NOT,MCI,L 0-2,5.6,90,1
+101,Moussa Niakhate,D,2,Apr 21,NOT,@EVE,L 0-2,7.95,90,1
+102,Moussa Niakhate,D,2,Feb 24,NOT,@AVL,L 2-4,15.25,90,1
+103,Moussa Niakhate,D,2,Feb 10,NOT,NEW,L 2-3,4.9,90,1
+104,Moussa Niakhate,D,2,Dec 30,NOT,MUN,W 2-1,10.7,90,1
+105,Moussa Niakhate,D,2,Dec 26,NOT,@NEW,W 3-1,7.35,90,1
+106,Moussa Niakhate,D,2,Dec 23,NOT,BOU,L 2-3,5.95,63,0
+107,Moussa Niakhate,D,2,Dec 15,NOT,TOT,L 0-2,8.95,90,1
+108,Moussa Niakhate,D,2,Dec 9,NOT,@WOL,T 1-1,12.2,90,1
+109,Moussa Niakhate,D,2,Dec 6,NOT,@FUL,L 0-5,2.35,13,0
+110,Moussa Niakhate,D,2,Nov 25,NOT,BHA,L 2-3,3.6,90,1
+111,Moussa Niakhate,D,2,Nov 12,NOT,@WHU,L 2-3,4.55,90,1
+112,Moussa Niakhate,D,2,Nov 5,NOT,AVL,W 2-0,19.8,90,1
+113,Moussa Niakhate,D,2,Oct 29,NOT,@LIV,L 0-3,3.85,90,1
+114,Moussa Niakhate,D,2,Oct 1,NOT,BRF,T 1-1,2.7,55,1
+115,Moussa Niakhate,D,2,Sep 23,NOT,@MCI,L 0-2,6.35,90,1
+116,Moussa Niakhate,D,2,Aug 26,NOT,@MUN,L 2-3,3.0,32,0
+117,Moussa Niakhate,D,2,Aug 18,NOT,SHU,W 2-1,1.5,1,0
+118,Willy Boly,D,2,May 19,NOT,@BUR,W 2-1,10.0,90,1
+119,Willy Boly,D,2,May 11,NOT,CHE,L 2-3,20.2,90,1
+120,Willy Boly,D,2,May 4,NOT,@SHU,W 3-1,17.25,90,1
+121,Willy Boly,D,2,Apr 28,NOT,MCI,L 0-2,10.75,83,1
+122,Willy Boly,D,2,Mar 16,NOT,@LUT,T 1-1,7.3,90,1
+123,Willy Boly,D,2,Dec 30,NOT,MUN,W 2-1,1.2,2,0
+124,Willy Boly,D,2,Dec 23,NOT,BOU,L 2-3,-1.4,22,1
+125,Willy Boly,D,2,Dec 15,NOT,TOT,L 0-2,11.85,67,1
+126,Willy Boly,D,2,Dec 9,NOT,@WOL,T 1-1,7.55,90,1
+127,Willy Boly,D,2,Dec 2,NOT,EVE,L 0-1,5.65,45,1
+128,Willy Boly,D,2,Nov 12,NOT,@WHU,L 2-3,3.35,13,0
+129,Willy Boly,D,2,Oct 29,NOT,@LIV,L 0-3,12.85,68,1
+130,Willy Boly,D,2,Oct 21,NOT,LUT,T 2-2,15.45,77,1
+131,Willy Boly,D,2,Oct 7,NOT,@CRY,T 0-0,18.05,90,1
+132,Willy Boly,D,2,Oct 1,NOT,BRF,T 1-1,9.0,90,1
+133,Willy Boly,D,2,Sep 23,NOT,@MCI,L 0-2,11.85,90,1
+134,Willy Boly,D,2,Sep 2,NOT,@CHE,W 1-0,20.2,90,1
+135,Willy Boly,D,2,Aug 26,NOT,@MUN,L 2-3,21.55,90,1
+136,Willy Boly,D,2,Aug 18,NOT,SHU,W 2-1,6.9,68,1
+137,Willy Boly,D,2,Aug 12,NOT,@ARS,L 1-2,9.45,90,1
+138,Felipe,D,2,Mar 30,NOT,CRY,T 1-1,9.65,90,1
+139,Felipe,D,2,Mar 16,NOT,@LUT,T 1-1,1.2,14,0
+140,Felipe,D,2,Feb 24,NOT,@AVL,L 2-4,0.25,45,1
+141,Felipe,D,2,Feb 17,NOT,WHU,W 2-0,13.6,90,1
+142,Felipe,D,2,Dec 9,NOT,@WOL,T 1-1,2.6,11,0
+143,Felipe,D,2,Dec 6,NOT,@FUL,L 0-5,7.25,75,1
+144,Felipe,D,2,Dec 2,NOT,EVE,L 0-1,4.3,45,0
+145,Scott McKenna,D,2,Sep 18,NOT,BUR,T 1-1,8.5,90,1
+146,Scott McKenna,D,2,Sep 2,NOT,@CHE,W 1-0,16.25,90,1
+147,Scott McKenna,D,2,Aug 26,NOT,@MUN,L 2-3,6.25,56,1
+148,Scott McKenna,D,2,Aug 18,NOT,SHU,W 2-1,9.1,90,1
+149,Scott McKenna,D,2,Aug 12,NOT,@ARS,L 1-2,6.15,90,1
+150,Andrew Omobamidele,D,2,Apr 28,NOT,MCI,L 0-2,1.25,15,0
+151,Andrew Omobamidele,D,2,Apr 13,NOT,WOL,T 2-2,4.95,90,1
+152,Andrew Omobamidele,D,2,Apr 7,NOT,@TOT,L 1-3,6.0,90,1
+153,Andrew Omobamidele,D,2,Apr 2,NOT,FUL,W 3-1,6.65,90,1
+154,Andrew Omobamidele,D,2,Mar 10,NOT,@BHA,L 0-1,0.45,90,1
+155,Andrew Omobamidele,D,2,Mar 2,NOT,LIV,L 0-1,8.3,90,1
+156,Andrew Omobamidele,D,2,Feb 24,NOT,@AVL,L 2-4,2.3,45,0
+157,Andrew Omobamidele,D,2,Feb 17,NOT,WHU,W 2-0,0.5,1,0
+158,Andrew Omobamidele,D,2,Feb 4,NOT,@BOU,T 1-1,7.65,90,1
+159,Andrew Omobamidele,D,2,Jan 30,NOT,ARS,L 1-2,5.3,90,1
+160,Andrew Omobamidele,D,2,Jan 20,NOT,@BRF,L 2-3,8.1,90,1
+161,Harry Toffolo,D,2,May 19,NOT,@BUR,W 2-1,6.5,90,1
+162,Harry Toffolo,D,2,May 11,NOT,CHE,L 2-3,2.0,17,0
+163,Harry Toffolo,D,2,May 4,NOT,@SHU,W 3-1,1.5,6,0
+164,Harry Toffolo,D,2,Apr 2,NOT,FUL,W 3-1,2.25,6,0
+165,Harry Toffolo,D,2,Mar 30,NOT,CRY,T 1-1,1.0,5,0
+166,Harry Toffolo,D,2,Mar 16,NOT,@LUT,T 1-1,7.1,90,1
+167,Harry Toffolo,D,2,Mar 10,NOT,@BHA,L 0-1,4.65,90,1
+168,Harry Toffolo,D,2,Mar 2,NOT,LIV,L 0-1,8.3,90,1
+169,Harry Toffolo,D,2,Feb 24,NOT,@AVL,L 2-4,3.0,45,0
+170,Harry Toffolo,D,2,Jan 30,NOT,ARS,L 1-2,9.5,90,1
+171,Harry Toffolo,D,2,Dec 30,NOT,MUN,W 2-1,1.1,2,0
+172,Harry Toffolo,D,2,Dec 23,NOT,BOU,L 2-3,6.0,84,1
+173,Harry Toffolo,D,2,Dec 15,NOT,TOT,L 0-2,7.75,90,1
+174,Harry Toffolo,D,2,Dec 9,NOT,@WOL,T 1-1,14.55,90,1
+175,Harry Toffolo,D,2,Dec 6,NOT,@FUL,L 0-5,6.65,90,1
+176,Harry Toffolo,D,2,Dec 2,NOT,EVE,L 0-1,7.75,81,1
+177,Harry Toffolo,D,2,Nov 25,NOT,BHA,L 2-3,6.95,90,1
+178,Harry Toffolo,D,2,Nov 12,NOT,@WHU,L 2-3,7.85,90,1
+179,Harry Toffolo,D,2,Nov 5,NOT,AVL,W 2-0,28.2,70,1
+180,Harry Toffolo,D,2,Oct 29,NOT,@LIV,L 0-3,1.0,20,0
+181,Harry Toffolo,D,2,Oct 21,NOT,LUT,T 2-2,11.3,90,1
+182,Harry Toffolo,D,2,Oct 7,NOT,@CRY,T 0-0,17.45,90,1
+183,Harry Toffolo,D,2,Oct 1,NOT,BRF,T 1-1,10.3,29,0
+184,Nuno Tavares,D,2,Apr 13,NOT,WOL,T 2-2,0.7,1,0
+185,Nuno Tavares,D,2,Feb 17,NOT,WHU,W 2-0,16.4,90,1
+186,Nuno Tavares,D,2,Feb 10,NOT,NEW,L 2-3,6.95,90,1
+187,Nuno Tavares,D,2,Feb 4,NOT,@BOU,T 1-1,8.95,90,1
+188,Nuno Tavares,D,2,Jan 20,NOT,@BRF,L 2-3,6.95,90,1
+189,Nuno Tavares,D,2,Sep 23,NOT,@MCI,L 0-2,-0.75,38,1
+190,Nuno Tavares,D,2,Sep 18,NOT,BUR,T 1-1,2.85,36,0
+191,Nuno Tavares,D,2,Sep 2,NOT,@CHE,W 1-0,1.45,17,0
+192,Ola Aina,D,2,May 11,NOT,CHE,L 2-3,11.65,90,1
+193,Ola Aina,D,2,May 4,NOT,@SHU,W 3-1,10.75,90,1
+194,Ola Aina,D,2,Apr 28,NOT,MCI,L 0-2,14.75,90,1
+195,Ola Aina,D,2,Apr 21,NOT,@EVE,L 0-2,11.35,90,1
+196,Ola Aina,D,2,Apr 13,NOT,WOL,T 2-2,11.85,88,1
+197,Ola Aina,D,2,Apr 7,NOT,@TOT,L 1-3,9.25,90,1
+198,Ola Aina,D,2,Apr 2,NOT,FUL,W 3-1,7.5,82,1
+199,Ola Aina,D,2,Mar 30,NOT,CRY,T 1-1,4.6,83,1
+200,Ola Aina,D,2,Dec 30,NOT,MUN,W 2-1,8.8,86,1
+201,Ola Aina,D,2,Dec 26,NOT,@NEW,W 3-1,7.05,90,1
+202,Ola Aina,D,2,Dec 23,NOT,BOU,L 2-3,2.25,4,0
+203,Ola Aina,D,2,Dec 6,NOT,@FUL,L 0-5,4.2,90,1
+204,Ola Aina,D,2,Nov 25,NOT,BHA,L 2-3,5.85,88,1
+205,Ola Aina,D,2,Nov 12,NOT,@WHU,L 2-3,12.1,75,1
+206,Ola Aina,D,2,Nov 5,NOT,AVL,W 2-0,26.9,85,1
+207,Ola Aina,D,2,Oct 29,NOT,@LIV,L 0-3,4.9,68,1
+208,Ola Aina,D,2,Oct 21,NOT,LUT,T 2-2,0.6,1,0
+209,Ola Aina,D,2,Sep 23,NOT,@MCI,L 0-2,7.7,74,1
+210,Ola Aina,D,2,Sep 18,NOT,BUR,T 1-1,8.15,90,1
+211,Ola Aina,D,2,Sep 2,NOT,@CHE,W 1-0,11.25,72,1
+212,Ola Aina,D,2,Aug 26,NOT,@MUN,L 2-3,8.2,90,1
+213,Ola Aina,D,2,Aug 12,NOT,@ARS,L 1-2,4.7,71,1
+214,Murillo,"D,M",3,May 19,NOT,@BUR,W 2-1,9.85,90,1
+215,Murillo,"D,M",3,May 11,NOT,CHE,L 2-3,8.55,90,1
+216,Murillo,"D,M",3,May 4,NOT,@SHU,W 3-1,12.5,90,1
+217,Murillo,"D,M",3,Apr 28,NOT,MCI,L 0-2,7.4,73,1
+218,Murillo,"D,M",3,Apr 21,NOT,@EVE,L 0-2,1.4,90,1
+219,Murillo,"D,M",3,Apr 13,NOT,WOL,T 2-2,6.6,90,1
+220,Murillo,"D,M",3,Apr 7,NOT,@TOT,L 1-3,1.4,90,1
+221,Murillo,"D,M",3,Apr 2,NOT,FUL,W 3-1,12.7,90,1
+222,Murillo,"D,M",3,Mar 30,NOT,CRY,T 1-1,7.8,90,1
+223,Murillo,"D,M",3,Mar 16,NOT,@LUT,T 1-1,8.5,90,1
+224,Murillo,"D,M",3,Mar 10,NOT,@BHA,L 0-1,6.9,90,1
+225,Murillo,"D,M",3,Mar 2,NOT,LIV,L 0-1,7.65,90,1
+226,Murillo,"D,M",3,Feb 24,NOT,@AVL,L 2-4,1.85,45,1
+227,Murillo,"D,M",3,Feb 17,NOT,WHU,W 2-0,14.85,90,1
+228,Murillo,"D,M",3,Feb 10,NOT,NEW,L 2-3,5.45,90,1
+229,Murillo,"D,M",3,Feb 4,NOT,@BOU,T 1-1,8.35,90,1
+230,Murillo,"D,M",3,Jan 30,NOT,ARS,L 1-2,15.6,90,1
+231,Murillo,"D,M",3,Jan 20,NOT,@BRF,L 2-3,7.45,90,1
+232,Murillo,"D,M",3,Dec 30,NOT,MUN,W 2-1,5.35,90,1
+233,Murillo,"D,M",3,Dec 26,NOT,@NEW,W 3-1,15.45,90,1
+234,Murillo,"D,M",3,Dec 23,NOT,BOU,L 2-3,5.95,90,1
+235,Murillo,"D,M",3,Dec 15,NOT,TOT,L 0-2,6.7,90,1
+236,Murillo,"D,M",3,Dec 9,NOT,@WOL,T 1-1,9.35,77,1
+237,Murillo,"D,M",3,Dec 6,NOT,@FUL,L 0-5,3.6,90,1
+238,Murillo,"D,M",3,Dec 2,NOT,EVE,L 0-1,9.95,90,1
+239,Murillo,"D,M",3,Nov 25,NOT,BHA,L 2-3,9.6,90,1
+240,Murillo,"D,M",3,Nov 12,NOT,@WHU,L 2-3,4.3,75,1
+241,Murillo,"D,M",3,Nov 5,NOT,AVL,W 2-0,14.45,90,1
+242,Murillo,"D,M",3,Oct 29,NOT,@LIV,L 0-3,11.35,90,1
+243,Murillo,"D,M",3,Oct 21,NOT,LUT,T 2-2,7.0,90,1
+244,Murillo,"D,M",3,Oct 7,NOT,@CRY,T 0-0,21.3,90,1
+245,Murillo,"D,M",3,Oct 1,NOT,BRF,T 1-1,8.85,90,1
+246,Cheikhou Kouyate,M,4,May 19,NOT,@BUR,W 2-1,0.5,1,0
+247,Cheikhou Kouyate,M,4,Mar 10,NOT,@BHA,L 0-1,1.5,2,0
+248,Cheikhou Kouyate,M,4,Dec 26,NOT,@NEW,W 3-1,0.5,1,0
+249,Cheikhou Kouyate,M,4,Dec 15,NOT,TOT,L 0-2,3.5,67,1
+250,Cheikhou Kouyate,M,4,Dec 9,NOT,@WOL,T 1-1,6.1,62,1
+251,Cheikhou Kouyate,M,4,Oct 21,NOT,LUT,T 2-2,1.45,11,0
+252,Cheikhou Kouyate,M,4,Oct 7,NOT,@CRY,T 0-0,2.75,6,0
+253,Cheikhou Kouyate,M,4,Oct 1,NOT,BRF,T 1-1,1.95,12,0
+254,Cheikhou Kouyate,M,4,Sep 2,NOT,@CHE,W 1-0,3.15,16,0
+255,Cheikhou Kouyate,M,4,Aug 26,NOT,@MUN,L 2-3,1.75,19,0
+256,Cheikhou Kouyate,M,4,Aug 18,NOT,SHU,W 2-1,2.0,1,0
+257,Cheikhou Kouyate,M,4,Aug 12,NOT,@ARS,L 1-2,1.0,1,0
+258,Orel Mangala,M,4,Jan 30,NOT,ARS,L 1-2,8.05,70,1
+259,Orel Mangala,M,4,Jan 20,NOT,@BRF,L 2-3,4.35,90,1
+260,Orel Mangala,M,4,Dec 30,NOT,MUN,W 2-1,-1.0,2,0
+261,Orel Mangala,M,4,Dec 23,NOT,BOU,L 2-3,5.2,45,1
+262,Orel Mangala,M,4,Dec 15,NOT,TOT,L 0-2,5.7,82,1
+263,Orel Mangala,M,4,Dec 9,NOT,@WOL,T 1-1,8.6,90,1
+264,Orel Mangala,M,4,Dec 6,NOT,@FUL,L 0-5,8.5,90,1
+265,Orel Mangala,M,4,Dec 2,NOT,EVE,L 0-1,10.25,90,1
+266,Orel Mangala,M,4,Nov 25,NOT,BHA,L 2-3,9.0,90,1
+267,Orel Mangala,M,4,Nov 12,NOT,@WHU,L 2-3,7.65,90,1
+268,Orel Mangala,M,4,Nov 5,NOT,AVL,W 2-0,18.15,90,1
+269,Orel Mangala,M,4,Oct 29,NOT,@LIV,L 0-3,3.7,82,1
+270,Orel Mangala,M,4,Oct 21,NOT,LUT,T 2-2,9.6,90,1
+271,Orel Mangala,M,4,Oct 7,NOT,@CRY,T 0-0,8.35,82,1
+272,Orel Mangala,M,4,Oct 1,NOT,BRF,T 1-1,10.6,90,1
+273,Orel Mangala,M,4,Sep 23,NOT,@MCI,L 0-2,4.75,90,1
+274,Orel Mangala,M,4,Sep 18,NOT,BUR,T 1-1,3.6,70,1
+275,Orel Mangala,M,4,Sep 2,NOT,@CHE,W 1-0,6.0,71,1
+276,Orel Mangala,M,4,Aug 18,NOT,SHU,W 2-1,6.75,68,1
+277,Orel Mangala,M,4,Aug 12,NOT,@ARS,L 1-2,3.0,88,1
+278,Ryan Yates,M,4,May 19,NOT,@BUR,W 2-1,13.1,57,1
+279,Ryan Yates,M,4,May 11,NOT,CHE,L 2-3,7.3,71,1
+280,Ryan Yates,M,4,May 4,NOT,@SHU,W 3-1,17.25,90,1
+281,Ryan Yates,M,4,Apr 28,NOT,MCI,L 0-2,1.75,15,0
+282,Ryan Yates,M,4,Apr 21,NOT,@EVE,L 0-2,-0.25,9,0
+283,Ryan Yates,M,4,Apr 13,NOT,WOL,T 2-2,6.6,65,1
+284,Ryan Yates,M,4,Apr 7,NOT,@TOT,L 1-3,4.6,80,1
+285,Ryan Yates,M,4,Apr 2,NOT,FUL,W 3-1,8.65,90,1
+286,Ryan Yates,M,4,Mar 30,NOT,CRY,T 1-1,8.6,90,1
+287,Ryan Yates,M,4,Mar 16,NOT,@LUT,T 1-1,10.1,90,1
+288,Ryan Yates,M,4,Mar 10,NOT,@BHA,L 0-1,4.0,71,1
+289,Ryan Yates,M,4,Mar 2,NOT,LIV,L 0-1,8.1,90,1
+290,Ryan Yates,M,4,Feb 24,NOT,@AVL,L 2-4,2.0,16,0
+291,Ryan Yates,M,4,Feb 17,NOT,WHU,W 2-0,1.85,3,0
+292,Ryan Yates,M,4,Feb 10,NOT,NEW,L 2-3,4.7,72,1
+293,Ryan Yates,M,4,Feb 4,NOT,@BOU,T 1-1,11.7,90,1
+294,Ryan Yates,M,4,Jan 30,NOT,ARS,L 1-2,1.75,18,0
+295,Ryan Yates,M,4,Jan 20,NOT,@BRF,L 2-3,5.35,61,1
+296,Ryan Yates,M,4,Dec 30,NOT,MUN,W 2-1,8.35,90,1
+297,Ryan Yates,M,4,Dec 26,NOT,@NEW,W 3-1,1.25,19,0
+298,Ryan Yates,M,4,Dec 23,NOT,BOU,L 2-3,7.95,90,1
+299,Ryan Yates,M,4,Dec 15,NOT,TOT,L 0-2,6.75,90,1
+300,Ryan Yates,M,4,Dec 9,NOT,@WOL,T 1-1,8.85,90,1
+301,Ryan Yates,M,4,Dec 6,NOT,@FUL,L 0-5,1.2,45,0
+302,Ryan Yates,M,4,Dec 2,NOT,EVE,L 0-1,16.7,90,1
+303,Ryan Yates,M,4,Nov 25,NOT,BHA,L 2-3,3.5,20,0
+304,Ryan Yates,M,4,Nov 5,NOT,AVL,W 2-0,1.35,2,0
+305,Ryan Yates,M,4,Oct 29,NOT,@LIV,L 0-3,3.5,20,0
+306,Ryan Yates,M,4,Oct 21,NOT,LUT,T 2-2,1.85,11,0
+307,Ryan Yates,M,4,Oct 7,NOT,@CRY,T 0-0,-1.0,13,0
+308,Ryan Yates,M,4,Sep 18,NOT,BUR,T 1-1,1.1,18,0
+309,Ryan Yates,M,4,Sep 2,NOT,@CHE,W 1-0,12.5,90,1
+310,Ryan Yates,M,4,Aug 26,NOT,@MUN,L 2-3,8.55,90,1
+311,Ryan Yates,M,4,Aug 18,NOT,SHU,W 2-1,5.1,20,0
+312,Ryan Yates,M,4,Aug 12,NOT,@ARS,L 1-2,4.75,90,1
+313,Ibrahim Sangare,M,4,May 19,NOT,@BUR,W 2-1,5.1,31,0
+314,Ibrahim Sangare,M,4,Apr 28,NOT,MCI,L 0-2,3.0,5,0
+315,Ibrahim Sangare,M,4,Apr 7,NOT,@TOT,L 1-3,1.25,8,0
+316,Ibrahim Sangare,M,4,Mar 30,NOT,CRY,T 1-1,9.75,45,1
+317,Ibrahim Sangare,M,4,Mar 16,NOT,@LUT,T 1-1,10.85,90,1
+318,Ibrahim Sangare,M,4,Mar 10,NOT,@BHA,L 0-1,-0.75,28,0
+319,Ibrahim Sangare,M,4,Dec 26,NOT,@NEW,W 3-1,5.45,69,1
+320,Ibrahim Sangare,M,4,Dec 6,NOT,@FUL,L 0-5,2.5,45,1
+321,Ibrahim Sangare,M,4,Dec 2,NOT,EVE,L 0-1,8.3,64,1
+322,Ibrahim Sangare,M,4,Nov 12,NOT,@WHU,L 2-3,11.05,88,1
+323,Ibrahim Sangare,M,4,Nov 5,NOT,AVL,W 2-0,7.05,90,1
+324,Ibrahim Sangare,M,4,Oct 29,NOT,@LIV,L 0-3,9.2,90,1
+325,Ibrahim Sangare,M,4,Oct 21,NOT,LUT,T 2-2,4.35,77,1
+326,Ibrahim Sangare,M,4,Oct 7,NOT,@CRY,T 0-0,7.25,75,1
+327,Ibrahim Sangare,M,4,Oct 1,NOT,BRF,T 1-1,6.7,76,1
+328,Ibrahim Sangare,M,4,Sep 23,NOT,@MCI,L 0-2,2.5,55,1
+329,Ibrahim Sangare,M,4,Sep 18,NOT,BUR,T 1-1,14.1,90,1
+330,Brandon Aguilera,M,4,Jan 20,NOT,@BRF,L 2-3,1.0,3,0
+331,Danilo,M,4,May 19,NOT,@BUR,W 2-1,10.3,79,1
+332,Danilo,M,4,May 11,NOT,CHE,L 2-3,7.7,90,1
+333,Danilo,M,4,May 4,NOT,@SHU,W 3-1,22.45,90,1
+334,Danilo,M,4,Apr 28,NOT,MCI,L 0-2,8.75,73,1
+335,Danilo,M,4,Apr 21,NOT,@EVE,L 0-2,4.7,79,1
+336,Danilo,M,4,Apr 13,NOT,WOL,T 2-2,21.75,88,1
+337,Danilo,M,4,Apr 7,NOT,@TOT,L 1-3,6.6,80,1
+338,Danilo,M,4,Apr 2,NOT,FUL,W 3-1,22.05,90,1
+339,Danilo,M,4,Mar 10,NOT,@BHA,L 0-1,9.2,60,1
+340,Danilo,M,4,Mar 2,NOT,LIV,L 0-1,2.0,10,0
+341,Danilo,M,4,Feb 24,NOT,@AVL,L 2-4,11.3,90,1
+342,Danilo,M,4,Feb 17,NOT,WHU,W 2-0,9.4,90,1
+343,Danilo,M,4,Feb 10,NOT,NEW,L 2-3,2.5,11,0
+344,Danilo,M,4,Feb 4,NOT,@BOU,T 1-1,3.5,17,0
+345,Danilo,M,4,Jan 30,NOT,ARS,L 1-2,11.85,90,1
+346,Danilo,M,4,Jan 20,NOT,@BRF,L 2-3,16.95,90,1
+347,Danilo,M,4,Dec 30,NOT,MUN,W 2-1,8.6,86,1
+348,Danilo,M,4,Dec 26,NOT,@NEW,W 3-1,7.65,88,1
+349,Danilo,M,4,Dec 23,NOT,BOU,L 2-3,0.5,1,0
+350,Danilo,M,4,Dec 15,NOT,TOT,L 0-2,1.25,21,0
+351,Danilo,M,4,Dec 9,NOT,@WOL,T 1-1,1.0,26,0
+352,Danilo,M,4,Dec 6,NOT,@FUL,L 0-5,2.25,31,0
+353,Danilo,M,4,Nov 25,NOT,BHA,L 2-3,4.35,62,1
+354,Danilo,M,4,Nov 12,NOT,@WHU,L 2-3,2.6,45,0
+355,Danilo,M,4,Nov 5,NOT,AVL,W 2-0,0.5,7,0
+356,Danilo,M,4,Sep 2,NOT,@CHE,W 1-0,4.25,45,1
+357,Danilo,M,4,Aug 26,NOT,@MUN,L 2-3,9.35,80,1
+358,Danilo,M,4,Aug 18,NOT,SHU,W 2-1,9.1,88,1
+359,Danilo,M,4,Aug 12,NOT,@ARS,L 1-2,6.6,70,1
+360,Nicolas Dominguez,M,4,May 11,NOT,CHE,L 2-3,0.75,3,0
+361,Nicolas Dominguez,M,4,May 4,NOT,@SHU,W 3-1,1.0,1,0
+362,Nicolas Dominguez,M,4,Apr 21,NOT,@EVE,L 0-2,7.85,79,1
+363,Nicolas Dominguez,M,4,Apr 13,NOT,WOL,T 2-2,2.5,23,0
+364,Nicolas Dominguez,M,4,Apr 7,NOT,@TOT,L 1-3,4.0,21,0
+365,Nicolas Dominguez,M,4,Apr 2,NOT,FUL,W 3-1,2.6,6,0
+366,Nicolas Dominguez,M,4,Mar 16,NOT,@LUT,T 1-1,3.25,7,0
+367,Nicolas Dominguez,M,4,Mar 10,NOT,@BHA,L 0-1,3.75,71,1
+368,Nicolas Dominguez,M,4,Mar 2,NOT,LIV,L 0-1,13.85,78,1
+369,Nicolas Dominguez,M,4,Feb 24,NOT,@AVL,L 2-4,8.25,72,1
+370,Nicolas Dominguez,M,4,Feb 17,NOT,WHU,W 2-0,11.6,85,1
+371,Nicolas Dominguez,M,4,Feb 10,NOT,NEW,L 2-3,16.85,77,1
+372,Nicolas Dominguez,M,4,Feb 4,NOT,@BOU,T 1-1,10.95,71,1
+373,Nicolas Dominguez,M,4,Jan 30,NOT,ARS,L 1-2,4.95,63,1
+374,Nicolas Dominguez,M,4,Jan 20,NOT,@BRF,L 2-3,12.75,90,1
+375,Nicolas Dominguez,M,4,Dec 30,NOT,MUN,W 2-1,15.2,78,1
+376,Nicolas Dominguez,M,4,Dec 26,NOT,@NEW,W 3-1,1.75,10,0
+377,Nicolas Dominguez,M,4,Dec 6,NOT,@FUL,L 0-5,3.35,45,1
+378,Nicolas Dominguez,M,4,Nov 25,NOT,BHA,L 2-3,9.25,68,1
+379,Nicolas Dominguez,M,4,Nov 12,NOT,@WHU,L 2-3,5.0,45,1
+380,Nicolas Dominguez,M,4,Nov 5,NOT,AVL,W 2-0,9.35,86,1
+381,Nicolas Dominguez,M,4,Oct 29,NOT,@LIV,L 0-3,5.05,68,1
+382,Nicolas Dominguez,M,4,Oct 21,NOT,LUT,T 2-2,8.6,77,1
+383,Nicolas Dominguez,M,4,Oct 7,NOT,@CRY,T 0-0,7.7,90,1
+384,Nicolas Dominguez,M,4,Oct 1,NOT,BRF,T 1-1,17.8,79,1
+385,Nicolas Dominguez,M,4,Sep 23,NOT,@MCI,L 0-2,9.35,90,1
+386,Giovanni Reyna,M,4,Apr 28,NOT,MCI,L 0-2,2.0,15,0
+387,Giovanni Reyna,M,4,Apr 21,NOT,@EVE,L 0-2,6.25,52,1
+388,Giovanni Reyna,M,4,Apr 13,NOT,WOL,T 2-2,16.5,70,1
+389,Giovanni Reyna,M,4,Apr 7,NOT,@TOT,L 1-3,1.75,8,0
+390,Giovanni Reyna,M,4,Apr 2,NOT,FUL,W 3-1,2.5,12,0
+391,Giovanni Reyna,M,4,Mar 30,NOT,CRY,T 1-1,3.75,29,0
+392,Giovanni Reyna,M,4,Feb 24,NOT,@AVL,L 2-4,1.25,8,0
+393,Giovanni Reyna,M,4,Feb 10,NOT,NEW,L 2-3,4.0,16,0
+394,Giovanni Reyna,M,4,Feb 4,NOT,@BOU,T 1-1,3.25,11,0
+395,Andrey Santos,M,4,Oct 29,NOT,@LIV,L 0-3,1.0,6,0
+396,Morgan Gibbs-White,"M,F",5,May 19,NOT,@BUR,W 2-1,10.75,90,1
+397,Morgan Gibbs-White,"M,F",5,May 11,NOT,CHE,L 2-3,23.6,90,1
+398,Morgan Gibbs-White,"M,F",5,May 4,NOT,@SHU,W 3-1,21.95,90,1
+399,Morgan Gibbs-White,"M,F",5,Apr 28,NOT,MCI,L 0-2,10.75,90,1
+400,Morgan Gibbs-White,"M,F",5,Apr 21,NOT,@EVE,L 0-2,9.5,90,1
+401,Morgan Gibbs-White,"M,F",5,Apr 13,NOT,WOL,T 2-2,17.0,90,1
+402,Morgan Gibbs-White,"M,F",5,Apr 7,NOT,@TOT,L 1-3,7.0,67,1
+403,Morgan Gibbs-White,"M,F",5,Apr 2,NOT,FUL,W 3-1,26.5,76,1
+404,Morgan Gibbs-White,"M,F",5,Mar 30,NOT,CRY,T 1-1,18.0,90,1
+405,Morgan Gibbs-White,"M,F",5,Mar 16,NOT,@LUT,T 1-1,22.1,81,1
+406,Morgan Gibbs-White,"M,F",5,Mar 10,NOT,@BHA,L 0-1,11.5,86,1
+407,Morgan Gibbs-White,"M,F",5,Mar 2,NOT,LIV,L 0-1,5.6,90,1
+408,Morgan Gibbs-White,"M,F",5,Feb 24,NOT,@AVL,L 2-4,15.1,80,1
+409,Morgan Gibbs-White,"M,F",5,Feb 17,NOT,WHU,W 2-0,7.5,88,1
+410,Morgan Gibbs-White,"M,F",5,Feb 10,NOT,NEW,L 2-3,15.75,90,1
+411,Morgan Gibbs-White,"M,F",5,Feb 4,NOT,@BOU,T 1-1,6.25,90,1
+412,Morgan Gibbs-White,"M,F",5,Jan 30,NOT,ARS,L 1-2,5.5,90,1
+413,Morgan Gibbs-White,"M,F",5,Dec 30,NOT,MUN,W 2-1,13.0,90,1
+414,Morgan Gibbs-White,"M,F",5,Dec 26,NOT,@NEW,W 3-1,16.95,90,1
+415,Morgan Gibbs-White,"M,F",5,Dec 23,NOT,BOU,L 2-3,17.75,88,1
+416,Morgan Gibbs-White,"M,F",5,Dec 15,NOT,TOT,L 0-2,5.0,90,1
+417,Morgan Gibbs-White,"M,F",5,Dec 9,NOT,@WOL,T 1-1,9.35,90,1
+418,Morgan Gibbs-White,"M,F",5,Dec 6,NOT,@FUL,L 0-5,1.75,45,0
+419,Morgan Gibbs-White,"M,F",5,Dec 2,NOT,EVE,L 0-1,9.35,90,1
+420,Morgan Gibbs-White,"M,F",5,Nov 25,NOT,BHA,L 2-3,33.7,90,1
+421,Morgan Gibbs-White,"M,F",5,Nov 12,NOT,@WHU,L 2-3,15.3,90,1
+422,Morgan Gibbs-White,"M,F",5,Nov 5,NOT,AVL,W 2-0,5.25,90,1
+423,Morgan Gibbs-White,"M,F",5,Oct 29,NOT,@LIV,L 0-3,5.6,82,1
+424,Morgan Gibbs-White,"M,F",5,Oct 21,NOT,LUT,T 2-2,15.25,90,1
+425,Morgan Gibbs-White,"M,F",5,Oct 7,NOT,@CRY,T 0-0,14.5,90,1
+426,Morgan Gibbs-White,"M,F",5,Oct 1,NOT,BRF,T 1-1,3.35,28,0
+427,Morgan Gibbs-White,"M,F",5,Sep 23,NOT,@MCI,L 0-2,3.0,90,1
+428,Morgan Gibbs-White,"M,F",5,Sep 18,NOT,BUR,T 1-1,13.25,90,1
+429,Morgan Gibbs-White,"M,F",5,Sep 2,NOT,@CHE,W 1-0,8.0,90,1
+430,Morgan Gibbs-White,"M,F",5,Aug 26,NOT,@MUN,L 2-3,23.75,90,1
+431,Morgan Gibbs-White,"M,F",5,Aug 18,NOT,SHU,W 2-1,16.75,90,1
+432,Morgan Gibbs-White,"M,F",5,Aug 12,NOT,@ARS,L 1-2,10.85,90,1
+433,Anthony Elanga,"M,F",5,May 19,NOT,@BUR,W 2-1,14.35,87,1
+434,Anthony Elanga,"M,F",5,May 11,NOT,CHE,L 2-3,0.5,17,0
+435,Anthony Elanga,"M,F",5,May 4,NOT,@SHU,W 3-1,5.25,66,1
+436,Anthony Elanga,"M,F",5,Apr 28,NOT,MCI,L 0-2,5.35,73,1
+437,Anthony Elanga,"M,F",5,Apr 21,NOT,@EVE,L 0-2,2.5,36,0
+438,Anthony Elanga,"M,F",5,Apr 7,NOT,@TOT,L 1-3,18.25,90,1
+439,Anthony Elanga,"M,F",5,Apr 2,NOT,FUL,W 3-1,4.1,82,1
+440,Anthony Elanga,"M,F",5,Mar 30,NOT,CRY,T 1-1,2.75,45,0
+441,Anthony Elanga,"M,F",5,Mar 16,NOT,@LUT,T 1-1,9.0,90,1
+442,Anthony Elanga,"M,F",5,Mar 10,NOT,@BHA,L 0-1,3.25,29,0
+443,Anthony Elanga,"M,F",5,Mar 2,NOT,LIV,L 0-1,5.55,90,1
+444,Anthony Elanga,"M,F",5,Feb 24,NOT,@AVL,L 2-4,9.6,90,1
+445,Anthony Elanga,"M,F",5,Feb 17,NOT,WHU,W 2-0,18.35,90,1
+446,Anthony Elanga,"M,F",5,Feb 10,NOT,NEW,L 2-3,17.75,90,1
+447,Anthony Elanga,"M,F",5,Feb 4,NOT,@BOU,T 1-1,5.6,77,1
+448,Anthony Elanga,"M,F",5,Jan 30,NOT,ARS,L 1-2,0.75,11,0
+449,Anthony Elanga,"M,F",5,Dec 30,NOT,MUN,W 2-1,18.85,86,1
+450,Anthony Elanga,"M,F",5,Dec 26,NOT,@NEW,W 3-1,27.45,88,1
+451,Anthony Elanga,"M,F",5,Dec 23,NOT,BOU,L 2-3,17.5,90,1
+452,Anthony Elanga,"M,F",5,Dec 15,NOT,TOT,L 0-2,7.75,90,1
+453,Anthony Elanga,"M,F",5,Dec 9,NOT,@WOL,T 1-1,4.25,83,1
+454,Anthony Elanga,"M,F",5,Dec 6,NOT,@FUL,L 0-5,7.1,90,1
+455,Anthony Elanga,"M,F",5,Dec 2,NOT,EVE,L 0-1,4.5,90,1
+456,Anthony Elanga,"M,F",5,Nov 25,NOT,BHA,L 2-3,15.0,90,1
+457,Anthony Elanga,"M,F",5,Nov 12,NOT,@WHU,L 2-3,14.25,90,1
+458,Anthony Elanga,"M,F",5,Nov 5,NOT,AVL,W 2-0,7.1,90,1
+459,Anthony Elanga,"M,F",5,Oct 29,NOT,@LIV,L 0-3,7.25,90,1
+460,Anthony Elanga,"M,F",5,Oct 21,NOT,LUT,T 2-2,25.25,87,1
+461,Anthony Elanga,"M,F",5,Oct 7,NOT,@CRY,T 0-0,1.0,23,0
+462,Anthony Elanga,"M,F",5,Oct 1,NOT,BRF,T 1-1,5.1,60,1
+463,Anthony Elanga,"M,F",5,Sep 23,NOT,@MCI,L 0-2,7.0,33,0
+464,Anthony Elanga,"M,F",5,Sep 18,NOT,BUR,T 1-1,8.25,90,1
+465,Anthony Elanga,"M,F",5,Sep 2,NOT,@CHE,W 1-0,18.85,45,0
+466,Anthony Elanga,"M,F",5,Aug 26,NOT,@MUN,L 2-3,3.0,8,0
+467,Anthony Elanga,"M,F",5,Aug 18,NOT,SHU,W 2-1,2.5,20,0
+468,Anthony Elanga,"M,F",5,Aug 12,NOT,@ARS,L 1-2,9.25,9,0
+469,Callum Hudson-Odoi,"M,F",5,May 19,NOT,@BUR,W 2-1,9.6,87,1
+470,Callum Hudson-Odoi,"M,F",5,May 11,NOT,CHE,L 2-3,19.25,85,1
+471,Callum Hudson-Odoi,"M,F",5,May 4,NOT,@SHU,W 3-1,25.25,88,1
+472,Callum Hudson-Odoi,"M,F",5,Apr 28,NOT,MCI,L 0-2,10.25,90,1
+473,Callum Hudson-Odoi,"M,F",5,Apr 21,NOT,@EVE,L 0-2,5.75,79,1
+474,Callum Hudson-Odoi,"M,F",5,Apr 13,NOT,WOL,T 2-2,11.0,90,1
+475,Callum Hudson-Odoi,"M,F",5,Apr 7,NOT,@TOT,L 1-3,10.85,90,1
+476,Callum Hudson-Odoi,"M,F",5,Apr 2,NOT,FUL,W 3-1,16.1,69,1
+477,Callum Hudson-Odoi,"M,F",5,Mar 30,NOT,CRY,T 1-1,10.75,90,1
+478,Callum Hudson-Odoi,"M,F",5,Mar 16,NOT,@LUT,T 1-1,3.25,14,0
+479,Callum Hudson-Odoi,"M,F",5,Mar 10,NOT,@BHA,L 0-1,2.0,17,0
+480,Callum Hudson-Odoi,"M,F",5,Mar 2,NOT,LIV,L 0-1,14.85,90,1
+481,Callum Hudson-Odoi,"M,F",5,Feb 24,NOT,@AVL,L 2-4,10.5,90,1
+482,Callum Hudson-Odoi,"M,F",5,Feb 17,NOT,WHU,W 2-0,21.25,90,1
+483,Callum Hudson-Odoi,"M,F",5,Feb 10,NOT,NEW,L 2-3,19.5,90,1
+484,Callum Hudson-Odoi,"M,F",5,Feb 4,NOT,@BOU,T 1-1,15.95,88,1
+485,Callum Hudson-Odoi,"M,F",5,Jan 30,NOT,ARS,L 1-2,2.0,25,0
+486,Callum Hudson-Odoi,"M,F",5,Jan 20,NOT,@BRF,L 2-3,16.0,90,1
+487,Callum Hudson-Odoi,"M,F",5,Dec 30,NOT,MUN,W 2-1,1.0,10,0
+488,Callum Hudson-Odoi,"M,F",5,Dec 26,NOT,@NEW,W 3-1,8.75,78,1
+489,Callum Hudson-Odoi,"M,F",5,Dec 23,NOT,BOU,L 2-3,2.55,45,0
+490,Callum Hudson-Odoi,"M,F",5,Dec 15,NOT,TOT,L 0-2,3.0,6,0
+491,Callum Hudson-Odoi,"M,F",5,Dec 6,NOT,@FUL,L 0-5,5.0,57,1
+492,Callum Hudson-Odoi,"M,F",5,Dec 2,NOT,EVE,L 0-1,5.0,24,0
+493,Callum Hudson-Odoi,"M,F",5,Nov 25,NOT,BHA,L 2-3,6.0,26,0
+494,Callum Hudson-Odoi,"M,F",5,Oct 7,NOT,@CRY,T 0-0,6.25,65,1
+495,Callum Hudson-Odoi,"M,F",5,Oct 1,NOT,BRF,T 1-1,5.7,59,1
+496,Callum Hudson-Odoi,"M,F",5,Sep 23,NOT,@MCI,L 0-2,2.0,33,0
+497,Callum Hudson-Odoi,"M,F",5,Sep 18,NOT,BUR,T 1-1,20.75,70,1
+498,Taiwo Awoniyi,F,6,May 19,NOT,@BUR,W 2-1,1.0,10,0
+499,Taiwo Awoniyi,F,6,May 11,NOT,CHE,L 2-3,1.0,3,0
+500,Taiwo Awoniyi,F,6,May 4,NOT,@SHU,W 3-1,0.5,1,0
+501,Taiwo Awoniyi,F,6,Mar 10,NOT,@BHA,L 0-1,1.5,17,0
+502,Taiwo Awoniyi,F,6,Mar 2,NOT,LIV,L 0-1,2.75,24,0
+503,Taiwo Awoniyi,F,6,Feb 24,NOT,@AVL,L 2-4,11.25,45,1
+504,Taiwo Awoniyi,F,6,Feb 17,NOT,WHU,W 2-0,13.5,66,1
+505,Taiwo Awoniyi,F,6,Feb 10,NOT,NEW,L 2-3,2.5,67,1
+506,Taiwo Awoniyi,F,6,Feb 4,NOT,@BOU,T 1-1,10.6,90,1
+507,Taiwo Awoniyi,F,6,Jan 30,NOT,ARS,L 1-2,14.0,45,0
+508,Taiwo Awoniyi,F,6,Nov 12,NOT,@WHU,L 2-3,15.45,75,1
+509,Taiwo Awoniyi,F,6,Nov 5,NOT,AVL,W 2-0,3.25,81,1
+510,Taiwo Awoniyi,F,6,Oct 29,NOT,@LIV,L 0-3,1.75,20,0
+511,Taiwo Awoniyi,F,6,Oct 1,NOT,BRF,T 1-1,5.55,80,1
+512,Taiwo Awoniyi,F,6,Sep 23,NOT,@MCI,L 0-2,4.85,74,1
+513,Taiwo Awoniyi,F,6,Sep 18,NOT,BUR,T 1-1,12.25,87,1
+514,Taiwo Awoniyi,F,6,Sep 2,NOT,@CHE,W 1-0,12.1,64,1
+515,Taiwo Awoniyi,F,6,Aug 26,NOT,@MUN,L 2-3,16.1,80,1
+516,Taiwo Awoniyi,F,6,Aug 18,NOT,SHU,W 2-1,16.5,83,1
+517,Taiwo Awoniyi,F,6,Aug 12,NOT,@ARS,L 1-2,11.0,18,0
+518,Chris Wood,F,6,May 19,NOT,@BUR,W 2-1,25.25,78,1
+519,Chris Wood,F,6,May 11,NOT,CHE,L 2-3,8.1,90,1
+520,Chris Wood,F,6,May 4,NOT,@SHU,W 3-1,6.6,88,1
+521,Chris Wood,F,6,Apr 28,NOT,MCI,L 0-2,6.0,90,1
+522,Chris Wood,F,6,Apr 21,NOT,@EVE,L 0-2,6.1,90,1
+523,Chris Wood,F,6,Apr 13,NOT,WOL,T 2-2,4.75,90,1
+524,Chris Wood,F,6,Apr 7,NOT,@TOT,L 1-3,15.25,67,1
+525,Chris Wood,F,6,Apr 2,NOT,FUL,W 3-1,17.95,90,1
+526,Chris Wood,F,6,Mar 30,NOT,CRY,T 1-1,14.85,90,1
+527,Chris Wood,F,6,Mar 16,NOT,@LUT,T 1-1,13.35,74,1
+528,Chris Wood,F,6,Mar 10,NOT,@BHA,L 0-1,6.0,90,1
+529,Chris Wood,F,6,Jan 30,NOT,ARS,L 1-2,1.85,45,1
+530,Chris Wood,F,6,Jan 20,NOT,@BRF,L 2-3,18.1,90,1
+531,Chris Wood,F,6,Dec 30,NOT,MUN,W 2-1,4.5,90,1
+532,Chris Wood,F,6,Dec 26,NOT,@NEW,W 3-1,37.15,90,1
+533,Chris Wood,F,6,Dec 23,NOT,BOU,L 2-3,29.7,90,1
+534,Chris Wood,F,6,Dec 15,NOT,TOT,L 0-2,2.0,21,0
+535,Chris Wood,F,6,Dec 9,NOT,@WOL,T 1-1,1.5,5,0
+536,Chris Wood,F,6,Dec 6,NOT,@FUL,L 0-5,1.35,31,0
+537,Chris Wood,F,6,Dec 2,NOT,EVE,L 0-1,7.05,90,1
+538,Chris Wood,F,6,Nov 25,NOT,BHA,L 2-3,7.35,62,1
+539,Chris Wood,F,6,Nov 12,NOT,@WHU,L 2-3,2.1,13,0
+540,Chris Wood,F,6,Oct 21,NOT,LUT,T 2-2,30.95,90,1
+541,Chris Wood,F,6,Oct 7,NOT,@CRY,T 0-0,4.1,75,1
+542,Chris Wood,F,6,Oct 1,NOT,BRF,T 1-1,1.25,8,0
+543,Chris Wood,F,6,Sep 23,NOT,@MCI,L 0-2,2.0,14,0
+544,Chris Wood,F,6,Sep 18,NOT,BUR,T 1-1,0.0,1,0
+545,Chris Wood,F,6,Sep 2,NOT,@CHE,W 1-0,1.1,24,0
+546,Chris Wood,F,6,Aug 26,NOT,@MUN,L 2-3,4.0,8,0
+547,Chris Wood,F,6,Aug 18,NOT,SHU,W 2-1,11.25,5,0
+548,Chris Wood,F,6,Aug 12,NOT,@ARS,L 1-2,0.5,1,0
+549,Divock Origi,F,6,Apr 21,NOT,@EVE,L 0-2,1.0,9,0
+550,Divock Origi,F,6,Apr 13,NOT,WOL,T 2-2,3.25,18,0
+551,Divock Origi,F,6,Apr 7,NOT,@TOT,L 1-3,1.25,21,0
+552,Divock Origi,F,6,Apr 2,NOT,FUL,W 3-1,2.85,19,0
+553,Divock Origi,F,6,Mar 30,NOT,CRY,T 1-1,5.5,59,1
+554,Divock Origi,F,6,Mar 16,NOT,@LUT,T 1-1,10.75,74,1
+555,Divock Origi,F,6,Mar 10,NOT,@BHA,L 0-1,6.1,59,1
+556,Divock Origi,F,6,Mar 2,NOT,LIV,L 0-1,5.5,64,1
+557,Divock Origi,F,6,Feb 24,NOT,@AVL,L 2-4,13.25,45,0
+558,Divock Origi,F,6,Feb 17,NOT,WHU,W 2-0,1.25,22,0
+559,Divock Origi,F,6,Feb 10,NOT,NEW,L 2-3,1.25,21,0
+560,Divock Origi,F,6,Dec 23,NOT,BOU,L 2-3,4.0,25,1
+561,Divock Origi,F,6,Dec 6,NOT,@FUL,L 0-5,3.25,57,1
+562,Divock Origi,F,6,Dec 2,NOT,EVE,L 0-1,1.0,7,0
+563,Divock Origi,F,6,Nov 25,NOT,BHA,L 2-3,1.0,26,0
+564,Divock Origi,F,6,Nov 12,NOT,@WHU,L 2-3,2.5,1,0
+565,Divock Origi,F,6,Oct 7,NOT,@CRY,T 0-0,0.75,13,0
+566,Divock Origi,F,6,Oct 1,NOT,BRF,T 1-1,3.0,9,0
+567,Divock Origi,F,6,Sep 23,NOT,@MCI,L 0-2,-2.0,14,0
+568,Divock Origi,F,6,Sep 18,NOT,BUR,T 1-1,1.0,18,0
+569,Rodrigo Duarte Ribeiro,F,6,May 19,NOT,@BUR,W 2-1,0.75,1,0
+570,Rodrigo Duarte Ribeiro,F,6,Apr 21,NOT,@EVE,L 0-2,0.5,9,0
+571,Rodrigo Duarte Ribeiro,F,6,Apr 13,NOT,WOL,T 2-2,1.0,1,0
+572,Rodrigo Duarte Ribeiro,F,6,Feb 4,NOT,@BOU,T 1-1,1.5,1,0
